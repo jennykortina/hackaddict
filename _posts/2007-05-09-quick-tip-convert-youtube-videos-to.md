@@ -9,7 +9,7 @@ redirect_from: /2007/05/quick-tip-convert-youtube-videos-to.html
 tags:
 - firefox
 - tip
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/RkFOTQHh0bI/AAAAAAAAALM/tzM-wPKUx1U/s72-c/ishot-4.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-05-09-image-0000.jpg'
 title: 'Quick Tip: Convert Youtube Videos to MP3''s'
 ---
 

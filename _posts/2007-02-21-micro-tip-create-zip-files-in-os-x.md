@@ -9,7 +9,7 @@ redirect_from: /2007/02/micro-tip-create-zip-files-in-os-x.html
 tags:
 - mac
 - tip
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/Rdxl2yteBfI/AAAAAAAAAHQ/hfzQVG9ul3k/s72-c/ishot-3.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-02-21-image-0000.jpg'
 title: 'Micro Tip:  Create Zip Files in OS X'
 ---
 

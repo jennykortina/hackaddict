@@ -9,7 +9,7 @@ redirect_from: /2007/07/lets-face-it-browsing-internet-on-your.html
 tags:
 - mobile
 - firefox
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/Rpd43VK-q2I/AAAAAAAAAPc/3nMbLT7Gtxk/s72-c/ishot-2.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-13-image-0000.jpg'
 title: 'Mobile Web Content Manager: Mozilla Joey'
 ---
 

@@ -15,16 +15,16 @@ for filename in os.listdir(DIRECTORY):
         with open(fname) as f:
             file_index = 0
             post = frontmatter.load(f)
-            sourceurl = post.metadata["thumbnail"]
-            extstart = sourceurl.rfind(".")
-            extension = sourceurl[extstart:]
-            newfile = date_prefix + "-image-{:04d}{}".format(
-                file_index, extension
-            )  # noqa
-            file_index += 1
-            print("{} => {}".format(sourceurl, newfile))
-            filepath = "../assets/images/thumbnails/" + newfile
             try:
+                sourceurl = post.metadata["thumbnail"]
+                extstart = sourceurl.rfind(".")
+                extension = sourceurl[extstart:]
+                newfile = date_prefix + "-image-{:04d}{}".format(
+                    file_index, extension
+                )  # noqa
+                file_index += 1
+                print("{} => {}".format(sourceurl, newfile))
+                filepath = "../assets/images/thumbnails/" + newfile
                 r = requests.get(sourceurl, timeout=2)
                 with open(filepath, "wb") as outfile:
                     outfile.write(r.content)

@@ -9,7 +9,7 @@ redirect_from: /2007/03/micro-tip-download-embeded-media-from.html
 tags:
 - website
 - firefox
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/RfHySH-ugpI/AAAAAAAAAIg/IglP1rhrweE/s72-c/ishot-2.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-09-image-0000.jpg'
 title: 'Micro Tip:  Download Embeded Media from Websites with Firefox'
 ---
 

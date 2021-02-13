@@ -10,7 +10,7 @@ tags:
 - hardware
 - mac
 - tip
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/R_0bssFH0TI/AAAAAAAAAVI/vKW4WS8VD7U/s72-c/time-capsule.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-04-09-image-0000.jpg'
 title: 'Quick Tip: Speed up Apple''s Time Capsule'
 ---
 

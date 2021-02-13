@@ -9,7 +9,7 @@ redirect_from: /2007/08/quick-tip-open-mutiple-files-in-preview.html
 tags:
 - mac
 - tip
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/RtRolCy9ohI/AAAAAAAAARY/SOZwGO-25eI/s72-c/ishot-1.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-28-image-0000.jpg'
 title: 'Quick Tip: Open Mutiple Files in Preview Simultaneously'
 ---
 

@@ -1,16 +1,16 @@
 ---
 author: jenny
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-4276304437583557071
-blogger_orig_url: https://www.hackaddict.net/2007/03/featured-site-zamzar.html
-date: '2007-03-02T09:37:00.000-05:00'
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-5025339423261403473
+blogger_orig_url: https://www.hackaddict.net/2008/12/gmail-url-shortener.html
+date: '2008-12-02T10:53:00.008-05:00'
 layout: post
-modified_time: '2007-03-02T09:44:28.894-05:00'
-redirect_from: /2007/03/featured-site-zamzar.html
+modified_time: '2008-12-02T11:22:23.789-05:00'
+redirect_from: /2008/12/gmail-url-shortener.html
 tags:
 - website
-- windows
-- mac
-title: 'Featured Site: Zamzar'
+- google
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-12-02-image-0000.png'
+title: Gmail URL Shortener
 ---
 
-A few days ago I posted how to convert any video from any website to any format using a site called <a href="http://www.zamzar.com/">Zamzar</a>.  Today I am going to discuss what else <a href="http://www.zamzar.com/">Zamzar</a> can do.<br/><br/>Zamzar is a free online file conversion tool.  Have a mpeg that you need turned a gif?  No problem, Zamzar can do it .  Or a .mp3 that needs to be turned into .wav?  Zamzar can do that too.  My favorite feature about Zamzar, other than it being free, is that it runs through a browser so I can use it in any OS (windows at work OS X at home) and I can also use it anywhere that has internet access.    It's a great tool to add to your box even if you don't need to use it on a daily basis.  Converting files can be tedious, finding the correct program, waiting for the file to re encode, but thankfully Zamzar does a great job of simplifying the process.<br/><br/>Oh, and to use it all you do is select a file from your local drive or a url and then select what kind of file you want to change it to and enter in your email address.  Zamzar then uploads your file, converts it, and emails you a link to the converted file when it's done.  Make sure you download it within 24 hrs though because it will be deleted!
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5275223977709884834" src="{{ site.url }}/assets/images/2008-12-02-image-0000.png" style="margin: 0px auto 10px; display: block; text-align: center;  width: 173px; height: 210px;"/><br/>URL shorteners are a useful tool when sending emails.  Not only are long links unsightly, they often break inside email clients becoming useless.  I use Gmail for my email client and was delighted to see that <a href="http://www.bit.ly/">bit.ly</a> introduced an application that provides a URL shortener right inside Gmail.<br/><br/>To install <a href="http://www.bit.ly/">bit.ly</a>'s URL shortener:<br/><br/><ol><li>Go to <b>Settings</b> &gt; <b>Labs</b></li><li>Scroll down to the very bottom and click the radio button to enable "<span class="jwjW1c">Add any gadget by URL"</span></li><li><span class="jwjW1c">Click "Save Changes" at the bottom of the page<br/></span></li><li><span class="jwjW1c">You should now have a gadgets tab at the top of the settings page.  Click it.</span><img alt="" border="0" id="BLOGGER_PHOTO_ID_5275223591791369314" src="{{ site.url }}/assets/images/2008-12-02-image-0001.png" style="margin: 0px auto 10px; display: block; text-align: center;  width: 320px; height: 79px;"/></li><li><span class="jwjW1c">In the <span style="font-size:100%;">"</span></span><span style="font-size:100%;">Add a gadget by its URL:" box</span> paste this link: <br/><span class="jwjW1c"><b>http://hosting.gmodules.com/ig/gadgets/file/107368512201818821991/bitly-shortener.xml</b></span><br/></li><li><span class="jwjW1c">Congratulations you now have a URL shortener application right inside Gmail!<br/></span></li></ol>

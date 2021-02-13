@@ -1,14 +1,16 @@
 ---
 author: jenny
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-7544808726435200426
-blogger_orig_url: https://www.hackaddict.net/2017/01/chaos-puppy-read-your-pets-rfid-chip.html
-date: '2017-01-18T21:45:00.000-05:00'
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-3340066163354839806
+blogger_orig_url: https://www.hackaddict.net/2007/07/top-ten-firefox-keyboard-shorcuts.html
+date: '2007-07-08T23:00:00.000-04:00'
 layout: post
-modified_time: '2017-01-19T13:16:40.255-05:00'
-redirect_from: /2017/01/chaos-puppy-read-your-pets-rfid-chip.html
+modified_time: '2007-07-09T10:08:53.729-04:00'
+redirect_from: /2007/07/top-ten-firefox-keyboard-shorcuts.html
 tags:
-- chaosPuppy
-title: Chaos Puppy - Read Your Pet's RFID Chip
+- firefox
+- tip
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-08-image-0000.jpg'
+title: Top ten Firefox Keyboard Shorcuts
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><object class="BLOG_video_class" contentid="353f11fce9f85744" height="266" id="BLOG_video-353f11fce9f85744" width="320"></object></div><br/><br/>Most pets have an RFID chip in them so when they are lost it can be scanned and the owners information can be retrieved.  I would like to harness the power of this RFID technology to allow my pet, Chewie, to control my house and update her <a href="https://twitter.com/chewie">Twitter</a>.<br/><br/>I've learned that pet RFID transmits at 125 kHz.  I had an <a href="https://www.adafruit.com/products/789?gclid=CjwKEAiAwfzDBRCRmJe7z_7h8yQSJAC4corOJONSGGLzh3dEtnacayOyRUu6bWYM0J6RAjbVgVL-JhoCvTnw_wcB">RFID reader</a> lying around from Adafruit, that I doubted and confirmed could not read Chewie's RFID chip.  I've order a <a href="https://www.amazon.com/gp/product/B01J9AYFGG/ref=oh_aui_detailpage_o00_s00?ie=UTF8&amp;psc=1">125 kHz Arduino </a>compatible reader that should arrive on Friday.  Will update blog in a few days with the results of the new reader.<br/><br/>Github project <a href="https://github.com/jennykortina/chaosPuppy">here</a>.  Until next time.
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5085039193301520978" src="{{ site.url }}/assets/images/2007-07-08-image-0000.jpg" style="margin: 0pt 10px 10px 0pt; float: left;  width: 152px; height: 143px;"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><ol><li><b>⌘ </b>+ l = focus address bar</li><li><b>⌘ </b>+ d = bookmark current page<br/></li><li><b>⌘ </b>+ k = focus google search bar<br/></li><li><b>⌘ </b>+ f = find<br/></li><li><b>⌘ </b>+ g = find next</li><li><b>⌘ </b>+ t = new tab</li><li><b>⌘  + w </b>= close current tab</li><li><b>⌘ </b>+ shift + t = reopen accidentally closed tab (Best one ever!)</li><li>crtl + tab = tab through tabs</li><li>crtl + shift + tab = tab backwards through tabs<br/></li></ol>Bonus for Delicious Extension users:<br/><ol><li><b>⌘ </b>+ Shift + . = pulls delicious page if you have delicious firefox extension installed</li></ol>

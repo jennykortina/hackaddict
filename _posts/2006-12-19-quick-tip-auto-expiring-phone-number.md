@@ -9,7 +9,7 @@ redirect_from: /2006/12/quick-tip-auto-expiring-phone-number.html
 tags:
 - craigslist
 - tip
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/RYiZroVvikI/AAAAAAAAACQ/tfvfxqtLL2A/s72-c/craig.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2006-12-19-image-0000.jpg'
 title: 'Quick Tip: Auto Expiring Phone Number'
 ---
 

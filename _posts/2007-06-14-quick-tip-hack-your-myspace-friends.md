@@ -8,7 +8,7 @@ modified_time: '2007-06-14T23:58:32.887-04:00'
 redirect_from: /2007/06/quick-tip-hack-your-myspace-friends.html
 tags:
 - tip
-thumbnail: http://bp3.blogger.com/_3FPfpXHnCwA/RnIOLxFkyGI/AAAAAAAAACs/LKd8AUT-f8w/s72-c/Picture+1.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-14-image-0000.png'
 title: 'Quick Tip: Hack Your Myspace Friends Count'
 ---
 

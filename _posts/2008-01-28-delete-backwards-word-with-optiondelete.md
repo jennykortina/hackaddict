@@ -10,7 +10,7 @@ tags:
 - nix
 - keyboard
 - mac
-thumbnail: http://bp2.blogger.com/_3FPfpXHnCwA/R54H-OIm2OI/AAAAAAAAAHc/2AHDK7yF-r8/s72-c/opt-delete.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-01-28-image-0000.png'
 title: Delete Backwards Word with Option+Delete in iTerm
 ---
 

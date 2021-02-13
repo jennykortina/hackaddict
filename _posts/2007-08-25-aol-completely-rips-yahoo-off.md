@@ -7,7 +7,7 @@ layout: post
 modified_time: '2007-08-25T01:06:07.789-04:00'
 redirect_from: /2007/08/aol-completely-rips-yahoo-off.html
 tags: null
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/Rs-4Oiy9ofI/AAAAAAAAARI/FDMtf2E2_8A/s72-c/ishot-2.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-25-image-0000.jpg'
 title: AOL Completely Rips Yahoo Off
 ---
 

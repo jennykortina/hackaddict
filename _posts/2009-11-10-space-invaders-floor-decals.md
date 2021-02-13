@@ -8,7 +8,7 @@ modified_time: '2009-11-10T19:55:55.952-05:00'
 redirect_from: /2009/11/space-invaders-floor-decals.html
 tags:
 - diy
-thumbnail: http://1.bp.blogspot.com/_Gj3xvk4ycVs/SvoLG9S9SfI/AAAAAAAAA2U/5CjJVXHNqdY/s72-c/photo.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2009-11-10-image-0000.jpg'
 title: Space Invaders Floor Decals
 ---
 

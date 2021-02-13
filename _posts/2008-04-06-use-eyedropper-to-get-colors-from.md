@@ -10,7 +10,7 @@ tags:
 - software
 - mac
 - tip
-thumbnail: http://bp2.blogger.com/_3FPfpXHnCwA/R_mqbHa_fBI/AAAAAAAAAII/Kf4Ly2ax9kE/s72-c/dig-color-1.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-04-06-image-0000.png'
 title: Use an Eyedropper to Get Colors from Any OS X App
 ---
 

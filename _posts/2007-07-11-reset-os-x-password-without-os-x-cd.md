@@ -1,16 +1,14 @@
 ---
-author: jenny
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-4301871854065942977
-blogger_orig_url: https://www.hackaddict.net/2007/07/reset-os-x-password-without-os-x-cd.html
-date: '2007-07-11T09:40:00.000-04:00'
+author: kortina
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-2397969645746822037
+blogger_orig_url: https://www.hackaddict.net/2007/10/use-gmail-with-imap-and-apple-mail.html
+date: '2007-10-24T15:32:00.000-04:00'
 layout: post
-modified_time: '2007-07-12T08:58:52.154-04:00'
-redirect_from: /2007/07/reset-os-x-password-without-os-x-cd.html
-tags:
-- tutorial
-- mac
-- tip
-title: Reset OS X Password Without an OS X CD
+modified_time: '2007-10-24T15:36:38.217-04:00'
+redirect_from: /2007/10/use-gmail-with-imap-and-apple-mail.html
+tags: null
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-10-24-image-0000.png'
+title: Use Gmail with IMAP and Apple Mail
 ---
 
-So you and your friends have a wild party and you wake up in the morning to realize someone has changed the admin password on your beloved mac and you can no longer access your computer.  No problem, you can just pop in the OS X DVD that came with your computer and reset the password....but wait, that's missing too.<br/><br/>Here's how to reset your OS X password without an OS X CD.  You need to enter terminal and create a new admin account:<br/><ol><li>Reboot<br/></li><li>Hold apple + s down after you hear the chime.<br/></li><li>When you get text prompt enter in these terminal commands to create a brand new admin account (hitting return after each line):<br/><ul><li>mount -uw /</li><li>rm /var/db/.AppleSetupDone</li><li>shutdown -h now</li></ul></li><li>After rebooting you should have a brand new admin account.  When you login as the new admin you can simply delete the old one and you're good to go again!<br/></li></ol>
+Gmail just announced that you can now use IMAP to access Gmail--this means all your sent messages will be synchronized, and your labeling / deletion / folder management will also be synchronized.  Awesome!<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5124989046472190738" src="{{ site.url }}/assets/images/2007-10-24-image-0000.png" style="display:block; margin:0px auto 10px; text-align:center; "/><br/><br/>Just set this up according to <a href="http://mail.google.com/support/bin/answer.py?answer=77663">this tutorial</a>.<br/><br/>Threading support in the view is a little lacking, but this will be nice for whenever I need to check / respond to email offline.

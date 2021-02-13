@@ -9,7 +9,7 @@ redirect_from: /2007/06/quick-tip-run-easily-commands-and.html
 tags:
 - textmate
 - tip
-thumbnail: http://bp2.blogger.com/_3FPfpXHnCwA/RnVxKxFkyII/AAAAAAAAAC8/_nFtBXokRMU/s72-c/Picture+1.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-17-image-0000.png'
 title: 'Quick Tip: Run Easily Commands and Snippets When You Don''t Know the Keyboard
   Shortcuts'
 ---

@@ -9,7 +9,7 @@ redirect_from: /2007/07/custom-igoogle-skings.html
 tags:
 - diy
 - tip
-thumbnail: http://bp2.blogger.com/_Gj3xvk4ycVs/Rptk91K-q4I/AAAAAAAAAPs/7o4rwF2Tqt4/s72-c/ishot-1.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-16-image-0000.jpg'
 title: Custom iGoogle Skins
 ---
 

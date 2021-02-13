@@ -8,7 +8,7 @@ modified_time: '2007-03-27T08:42:09.350-04:00'
 redirect_from: /2007/03/new-wallpaper.html
 tags:
 - wallpaper
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/RgiUXqs0eDI/AAAAAAAAAKo/YmClYpzvyr4/s72-c/Gears.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-27-image-0000.jpg'
 title: New Wallpaper!!!
 ---
 

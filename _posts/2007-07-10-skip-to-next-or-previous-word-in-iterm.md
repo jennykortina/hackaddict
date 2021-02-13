@@ -11,7 +11,7 @@ tags:
 - nix
 - keyboard
 - mac
-thumbnail: http://bp2.blogger.com/_3FPfpXHnCwA/RpON-wu6zvI/AAAAAAAAADs/MR71orVI3uY/s72-c/Picture+2.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-10-image-0000.png'
 title: Skip to Next or Previous Word in iTerm Using Alt / Option + Left or Right Arrow
   Keys
 ---

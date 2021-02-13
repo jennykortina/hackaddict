@@ -1,15 +1,16 @@
 ---
-author: kortina
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-968075894094340486
-blogger_orig_url: https://www.hackaddict.net/2008/04/last-minute-tax-tips-file-for-your.html
-date: '2008-04-15T01:07:00.003-04:00'
+author: jenny
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-7713268737665236332
+blogger_orig_url: https://www.hackaddict.net/2007/06/tutorial-get-onscreen-keyboard-in-osx.html
+date: '2007-06-22T07:16:00.000-04:00'
 layout: post
-modified_time: '2008-04-15T01:12:13.309-04:00'
-redirect_from: /2008/04/last-minute-tax-tips-file-for-your.html
+modified_time: '2007-06-22T06:17:05.793-04:00'
+redirect_from: /2007/06/tutorial-get-onscreen-keyboard-in-osx.html
 tags:
-- lifehack
-- tip
-title: 'Last Minute Tax Tips: File for Your Extensions Electronically'
+- freeware
+- mac
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-22-image-0000.jpg'
+title: 'Tutorial: Get an Onscreen Keyboard in OSX'
 ---
 
-I have been working on my taxes like crazy, but today a few kinks came up that are going to make it impossible for me to file on time.  Luckily, I found how to e-file for extensions for both Federal and New York State income taxes.<br/><br/><a href="http://www.taxbrain.com/taxcenter/extensions/fed.asp">http://www.taxbrain.com/taxcenter/extensions/fed.asp</a><br/><blockquote>Make your credit card payment to the IRS at the <a href="http://www.pay1040.com/taxbrain">PAY1040.com</a> web site. Making your payment in this way automatically qualifies you for an extension of time to file your tax return until October 15, 2008. You will not need to file any other forms at this time.</blockquote><br/><br/><a href="http://www.taxbrain.com/taxcenter/extensions/NY.asp">http://www.taxbrain.com/taxcenter/extensions/NY.asp</a><br/><blockquote>New York accepts payment by credit card through <a href="http://www.officialpayments.com/taxbrain.jsp">Official Payments Corporation</a>. Making your payment in this way automatically qualifies you for an extension of time to file your tax return until October 15, 2008. You will not need to file any other forms at this time.</blockquote>
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5078593048760244002" src="{{ site.url }}/assets/images/2007-06-22-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>An onscreen keyboard can be a powerful tool for screencasters.  This tutorial will show you how to turn on the onscreen keyboard that OS X has built in.<br/><br/>1. Go to the system preferences panel<br/>2. Select the "International" icon<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5078593864804030258" src="{{ site.url }}/assets/images/2007-06-22-image-0001.jpg" style="margin: 0px auto 10px; display: block; text-align: center;  width: 256px; height: 239px;"/><br/>3. Go to the "Input" tab<br/>4. Select the "Keyboard Viewer"<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5078594019422852930" src="{{ site.url }}/assets/images/2007-06-22-image-0002.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>5. You now should have an American flag in your menu bar.  Click on the American flag and select "Show Keyboard Viewer"<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5078592881256519442" src="{{ site.url }}/assets/images/2007-06-22-image-0003.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>You now should have a keyboard on your desktop that displays whatever your press on your keyboard.  Quick, easy, free!<br/><br/>*If you click the plus arrow in the upper left hand corner of the keyboard it makes it much larger.

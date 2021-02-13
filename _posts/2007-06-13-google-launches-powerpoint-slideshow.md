@@ -8,7 +8,7 @@ modified_time: '2007-06-13T08:35:16.324-04:00'
 redirect_from: /2007/06/google-launches-powerpoint-slideshow.html
 tags:
 - freeware
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/Rm_j-GYfVvI/AAAAAAAAANM/T-iSxlvM-bQ/s72-c/ishot-2.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-13-image-0000.jpg'
 title: Google Launches "PowerPoint" (Slideshow Feature)
 ---
 

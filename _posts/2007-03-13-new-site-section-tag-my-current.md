@@ -8,7 +8,7 @@ modified_time: '2007-03-13T10:09:12.113-04:00'
 redirect_from: /2007/03/new-site-section-tag-my-current.html
 tags:
 - wallpaper
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/RfYv7X-ugrI/AAAAAAAAAIw/yLA-cog9T28/s72-c/dreamgirlhy4.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-13-image-0000.jpg'
 title: 'New Site Section (Tag): My Current Wallpaper'
 ---
 

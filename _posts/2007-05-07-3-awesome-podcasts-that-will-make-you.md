@@ -1,15 +1,16 @@
 ---
-author: kortina
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-7735869938239777247
-blogger_orig_url: https://www.hackaddict.net/2007/05/3-awesome-podcasts-that-will-make-you.html
-date: '2007-05-07T21:28:00.000-04:00'
+author: jenny
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-1383895900825047429
+blogger_orig_url: https://www.hackaddict.net/2007/03/quick-tip-run-quicktime-full-screen-on.html
+date: '2007-03-06T11:31:00.000-05:00'
 layout: post
-modified_time: '2007-05-07T21:29:30.153-04:00'
-redirect_from: /2007/05/3-awesome-podcasts-that-will-make-you.html
+modified_time: '2007-03-06T10:56:57.225-05:00'
+redirect_from: /2007/03/quick-tip-run-quicktime-full-screen-on.html
 tags:
-- reviewed
-- website
-title: 3 Awesome Podcasts that will Make you Think
+- mac
+- tip
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-06-image-0000.jpg'
+title: 'MicroTip:  Run Quicktime Full Screen on a Secondary Display'
 ---
 
-<p>Friday was a great day because I discovered that NPR has finally syndicated <a href="http://www.npr.org/templates/story/story.php?storyId=13" title="NPR : Fresh Air from WHYY">Fresh Air</a> as a podcast.  I love to listen to this show, but until recently it was only available on the radio and as a Windows Media stream, so it wasn't very accessible.  Now that it's a podcast, it's easy to stay on top of and not miss an episode.</p><p>Here are some links to the Fresh Air podcasts and two of my other favorite thought provoking podcasts.</p><ul> <li><a href="http://www.longnow.org/projects/seminars/SALT.xml" title="SALT - Seminars About Long Term Thinking">Seminars About Longterm Thinking</a> - "The purpose of the series is to build a coherent, compelling body of ideas about long-term thinking, to help nudge civilization toward Long Now's goal of making long-term thinking automatic and common instead of difficult and rare."  Here's a particularly good episode in which <a href="http://media.longnow.org/seminars/salt-020061130-rosedale/salt-020061130-rosedale.mp3">Philip Rosedale talks about what we can learn from Second Life</a>.</li> <li><a href="http://www.tvo.org/TVOspecial3/WebObjects/TVOMedia.woa?bigideasfeed">Big Ideas</a> - "BIG IDEAS is a showcase of ideas that shape our public debates. At their best the lectures featured on the program expose us to the differing ways of defining what matters and how that affects our understanding of the world as it is and as it is likely to be."  Here's a good lecture: <a href="http://www.tvo.org/podcasts/bi/audio/BIJohnRalstonSaul042107.mp3">John Ralston Saul on the gradual death of economic globalization</a>.</li> <li><a href="http://www.npr.org/rss/podcast.php?id=13" title="NPR: Fresh Air">Fresh Air</a> - "A weekday magazine of contemporary arts and issues with probing questions, revelatory interviews, and unusual insights."</li></ul><p>Definitely check out all of these.  You won't regret it.</p>
+I have a 32' Westinghouse HDTV sitting right next to my computer which I often hook up to use as a secondary or an external display.  Up until now I had no idea how to make Quicktime full screen on it while using it as a secondary display.<br/><br/>Make Quicktime full screen while on a secondary display:<br/>1.  Hook up external display<br/>2.  Launch Quicktime Pro and open the preferences section<br/>3.  In the "Full Screen" tab simply drag the Quicktime logo to the screen you want to be able to do full screen on.<img alt="" border="0" id="BLOGGER_PHOTO_ID_5038603351796837826" src="{{ site.url }}/assets/images/2007-03-06-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>

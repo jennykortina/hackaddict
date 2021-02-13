@@ -9,7 +9,7 @@ redirect_from: /2007/07/top-ten-firefox-keyboard-shorcuts.html
 tags:
 - firefox
 - tip
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/RpGwNGGtElI/AAAAAAAAAO8/t7Obyy3ruag/s72-c/firefox_logo.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-08-image-0000.jpg'
 title: Top ten Firefox Keyboard Shorcuts
 ---
 

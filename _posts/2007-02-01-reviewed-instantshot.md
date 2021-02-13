@@ -9,7 +9,7 @@ redirect_from: /2007/02/reviewed-instantshot.html
 tags:
 - reviewed
 - mac
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/RcKMIDx10XI/AAAAAAAAAEc/WE75iSd9MPw/s72-c/hackaddict.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-02-01-image-0000.jpg'
 title: 'Reviewed: InstantShot!'
 ---
 

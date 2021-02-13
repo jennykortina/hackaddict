@@ -1,15 +1,16 @@
 ---
 author: jenny
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-470209317752477081
-blogger_orig_url: https://www.hackaddict.net/2007/01/quick-tip-upgrade-to-crucial-ram.html
-date: '2007-01-21T20:26:00.000-05:00'
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-7713268737665236332
+blogger_orig_url: https://www.hackaddict.net/2007/06/tutorial-get-onscreen-keyboard-in-osx.html
+date: '2007-06-22T07:16:00.000-04:00'
 layout: post
-modified_time: '2007-01-22T20:38:20.017-05:00'
-redirect_from: /2007/01/quick-tip-upgrade-to-crucial-ram.html
+modified_time: '2007-06-22T06:17:05.793-04:00'
+redirect_from: /2007/06/tutorial-get-onscreen-keyboard-in-osx.html
 tags:
-- diy
-- tip
-title: 'Quick Tip: Upgrade to Crucial RAM (Cheaply)'
+- freeware
+- mac
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-22-image-0000.jpg'
+title: 'Tutorial: Get an Onscreen Keyboard in OSX'
 ---
 
-Shopping for RAM is confusing even for those of us who know their way away around our computers about as well as our houses.  The quickest and easiest way to find what RAM your computer takes is to go to <a href="http://www.crucial.com">Crucial</a> and use their guide selecting first your computer manufacturer then model (If you have a custom built PC you obviously know what RAM you need and this guide is not for you).  <br/><br/>After you complete the questionnaire Crucial tells you what kind of RAM your computer needs and provides hot links to buy it.   Here is where the sneaky part comes in: write down the type of RAM you need and then go to <a href="http://www.newegg.com">Newegg</a> and find it there.  Newegg is much cheaper than Crucial and you can even get Crucial RAM on Newegg for cheaper than you can on Crucial's site.
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5078593048760244002" src="{{ site.url }}/assets/images/2007-06-22-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>An onscreen keyboard can be a powerful tool for screencasters.  This tutorial will show you how to turn on the onscreen keyboard that OS X has built in.<br/><br/>1. Go to the system preferences panel<br/>2. Select the "International" icon<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5078593864804030258" src="{{ site.url }}/assets/images/2007-06-22-image-0001.jpg" style="margin: 0px auto 10px; display: block; text-align: center;  width: 256px; height: 239px;"/><br/>3. Go to the "Input" tab<br/>4. Select the "Keyboard Viewer"<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5078594019422852930" src="{{ site.url }}/assets/images/2007-06-22-image-0002.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>5. You now should have an American flag in your menu bar.  Click on the American flag and select "Show Keyboard Viewer"<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5078592881256519442" src="{{ site.url }}/assets/images/2007-06-22-image-0003.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>You now should have a keyboard on your desktop that displays whatever your press on your keyboard.  Quick, easy, free!<br/><br/>*If you click the plus arrow in the upper left hand corner of the keyboard it makes it much larger.

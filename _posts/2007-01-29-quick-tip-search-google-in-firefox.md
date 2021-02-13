@@ -8,7 +8,7 @@ modified_time: '2007-01-29T13:55:16.477-05:00'
 redirect_from: /2007/01/quick-tip-search-google-in-firefox.html
 tags:
 - tip
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/Rb5DBGu0XvI/AAAAAAAAAEE/Xu5iUg7_w6U/s72-c/ishot-2.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-01-29-image-0000.jpg'
 title: 'Quick Tip: Search Google in Firefox Address Bar'
 ---
 

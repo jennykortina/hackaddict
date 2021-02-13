@@ -8,7 +8,7 @@ modified_time: '2008-03-04T11:37:48.990-05:00'
 redirect_from: /2008/03/life-hack-grocery-lists.html
 tags:
 - lifehack
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/R8140WzR8wI/AAAAAAAAAUY/g-BtkkdZBvo/s72-c/app-onetrip.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-03-04-image-0000.png'
 title: 'Lifehack: The Ultimate Grocery Lists'
 ---
 

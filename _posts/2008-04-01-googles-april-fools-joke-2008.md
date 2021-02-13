@@ -7,7 +7,7 @@ layout: post
 modified_time: '2008-04-01T10:30:17.193-04:00'
 redirect_from: /2008/04/googles-april-fools-joke-2008.html
 tags: null
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/R_JGhJdUHaI/AAAAAAAAAVA/DR42goH12gA/s72-c/00000053.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-04-01-image-0000.png'
 title: Google's April Fool's Joke 2008
 ---
 

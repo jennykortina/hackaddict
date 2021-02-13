@@ -9,7 +9,7 @@ redirect_from: /2007/07/safari-iphone-like-browser-for-windows.html
 tags:
 - mobile
 - freeware
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/Ro2lVGGtEjI/AAAAAAAAAOs/1ShmLpM37cg/s72-c/proviewer_zoom.gif
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-06-image-0000.gif'
 title: 'Safari (iPhone) Like Browser for Windows Mobile Phones: Picsel'
 ---
 

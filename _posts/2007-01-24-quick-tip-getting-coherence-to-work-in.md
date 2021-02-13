@@ -8,7 +8,7 @@ modified_time: '2007-01-24T20:14:40.124-05:00'
 redirect_from: /2007/01/quick-tip-getting-coherence-to-work-in.html
 tags:
 - tip
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/RbgEcWu0XuI/AAAAAAAAADU/YO1Va9Th8NE/s72-c/box_desktop.gif
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-01-24-image-0000.gif'
 title: 'Quick Tip:  Getting Coherence to Work in Parallels'
 ---
 

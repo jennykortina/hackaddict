@@ -10,7 +10,7 @@ tags:
 - website
 - mobile
 - tip
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/Rew9Hitj5II/AAAAAAAAAIA/EtOPDCX9Za0/s72-c/ishot-6.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-05-image-0000.jpg'
 title: 'Quick Tip:  Have Gmail Calendar Text Message Reminders'
 ---
 

@@ -10,7 +10,7 @@ tags:
 - website
 - freeware
 - tip
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/R-JxlJdUHZI/AAAAAAAAAU4/y5G994RsitI/s72-c/2008-03-20_1015.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-03-20-image-0000.png'
 title: 'Quick Tip: Find Free Software In Under a Minute'
 ---
 

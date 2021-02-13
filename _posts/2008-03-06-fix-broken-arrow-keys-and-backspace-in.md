@@ -9,7 +9,7 @@ redirect_from: /2008/03/fix-broken-arrow-keys-and-backspace-in.html
 tags:
 - nix
 - tip
-thumbnail: http://bp3.blogger.com/_3FPfpXHnCwA/R9lydBX4V-I/AAAAAAAAAIA/y6i890bR3xQ/s72-c/linux-iterm.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-03-06-image-0000.png'
 title: Fix broken arrow keys and backspace in vi / vim for Solaris (on Joyent)
 ---
 

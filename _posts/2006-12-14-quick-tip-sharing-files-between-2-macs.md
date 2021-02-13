@@ -9,7 +9,7 @@ redirect_from: /2006/12/quick-tip-sharing-files-between-2-macs.html
 tags:
 - mac
 - tip
-thumbnail: http://bp2.blogger.com/_Gj3xvk4ycVs/RYHyZnxxCOI/AAAAAAAAAA8/Z6YszCumsuc/s72-c/sys.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2006-12-14-image-0000.jpg'
 title: 'Quick Tip:  Sharing Files Between 2 Macs'
 ---
 

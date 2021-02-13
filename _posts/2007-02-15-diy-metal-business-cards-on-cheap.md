@@ -8,7 +8,7 @@ modified_time: '2007-03-02T08:44:35.706-05:00'
 redirect_from: /2007/02/diy-metal-business-cards-on-cheap.html
 tags:
 - diy
-thumbnail: http://bp2.blogger.com/_Gj3xvk4ycVs/RdSSKuBiqTI/AAAAAAAAAEo/Iw5tFyupmQI/s72-c/2.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-02-15-image-0000.jpg'
 title: 'DIY: Metal Business Cards'
 ---
 

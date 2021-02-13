@@ -9,7 +9,7 @@ redirect_from: /2007/03/quick-tip-record-short-movie-clips.html
 tags:
 - mac
 - tip
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/RecOQUKvIFI/AAAAAAAAAHw/es30YUGW-kQ/s72-c/ishot-2.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-01-image-0000.jpg'
 title: 'Quick Tip:  Record Short Movie Clips Without Ripping a Whole DVD'
 ---
 

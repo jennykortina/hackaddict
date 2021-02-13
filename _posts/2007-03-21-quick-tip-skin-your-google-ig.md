@@ -8,7 +8,7 @@ modified_time: '2007-03-21T14:10:03.537-04:00'
 redirect_from: /2007/03/quick-tip-skin-your-google-ig.html
 tags:
 - tip
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/RgF00fFv2fI/AAAAAAAAAJ4/Mr2xiK9ccks/s72-c/ishot-2.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-21-image-0000.jpg'
 title: 'Quick Tip: Skin Your Google IG Personalized Page with a Theme'
 ---
 

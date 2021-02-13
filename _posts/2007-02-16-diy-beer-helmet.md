@@ -8,7 +8,7 @@ modified_time: '2007-02-16T19:12:02.572-05:00'
 redirect_from: /2007/02/diy-beer-helmet.html
 tags:
 - diy
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/RdZGxeBiqdI/AAAAAAAAAGg/nfS2i0ruUdk/s72-c/1.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-02-16-image-0000.jpg'
 title: 'DIY: Beer Helmet'
 ---
 

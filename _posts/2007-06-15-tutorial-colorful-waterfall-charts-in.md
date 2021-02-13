@@ -8,7 +8,7 @@ modified_time: '2007-06-15T16:12:46.589-04:00'
 redirect_from: /2007/06/tutorial-colorful-waterfall-charts-in.html
 tags:
 - tutorial
-thumbnail: http://bp0.blogger.com/_-oUfjZU0GRA/RnLv2icChVI/AAAAAAAAAAM/l9T_049fOTM/s72-c/1.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-15-image-0000.jpg'
 title: 'Tutorial: Colorful Waterfall Charts in Excel'
 ---
 

@@ -9,7 +9,7 @@ redirect_from: /2007/06/quick-tip-regular-expressions-for.html
 tags:
 - textmate
 - tip
-thumbnail: http://bp1.blogger.com/_3FPfpXHnCwA/RoRXSQu6zrI/AAAAAAAAADM/uDkF-vqaT0E/s72-c/Picture+4.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-28-image-0000.png'
 title: 'Quick Tip: Regular Expressions for Everyday Tasks'
 ---
 

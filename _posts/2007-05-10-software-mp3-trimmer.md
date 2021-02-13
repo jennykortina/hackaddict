@@ -8,7 +8,7 @@ modified_time: '2007-05-10T08:58:37.896-04:00'
 redirect_from: /2007/05/software-mp3-trimmer.html
 tags:
 - mac
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/RkMWfwHh0cI/AAAAAAAAALU/WzmKpfRukGA/s72-c/screen5.gif
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-05-10-image-0000.gif'
 title: 'Software:  MP3 Trimmer'
 ---
 

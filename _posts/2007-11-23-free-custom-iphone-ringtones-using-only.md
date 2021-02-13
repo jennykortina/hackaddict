@@ -10,7 +10,7 @@ tags:
 - tutorial
 - mobile
 - mac
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/R0b5zPKrEuI/AAAAAAAAASQ/8G4XuXEIOQA/s72-c/song.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-11-23-image-0000.jpg'
 title: Free Custom iPhone Ringtones using only iTunes
 ---
 

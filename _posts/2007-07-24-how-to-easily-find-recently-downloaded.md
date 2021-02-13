@@ -9,7 +9,7 @@ redirect_from: /2007/07/how-to-easily-find-recently-downloaded.html
 tags:
 - mac
 - tip
-thumbnail: http://bp3.blogger.com/_3FPfpXHnCwA/RqYFJRKaIpI/AAAAAAAAAE0/3w3hsyBRIC8/s72-c/Picture+2.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-24-image-0000.png'
 title: How To Easily Find Recently Downloaded Files in OS X
 ---
 

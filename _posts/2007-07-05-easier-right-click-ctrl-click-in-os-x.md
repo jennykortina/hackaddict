@@ -9,7 +9,7 @@ redirect_from: /2007/07/easier-right-click-ctrl-click-in-os-x.html
 tags:
 - mac
 - tip
-thumbnail: http://bp3.blogger.com/_3FPfpXHnCwA/Roz4Bwu6ztI/AAAAAAAAADc/hRjVlXOU_Rc/s72-c/Picture+2.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-05-image-0000.png'
 title: Easier Right Click / Ctrl Click in OS X
 ---
 

@@ -1,16 +1,15 @@
 ---
-author: kortina
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-4854642631592530077
-blogger_orig_url: https://www.hackaddict.net/2007/02/obfuscate-email-address-for-display-on.html
-date: '2007-02-22T11:38:00.000-05:00'
+author: jenny
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-1148083821466987992
+blogger_orig_url: https://www.hackaddict.net/2009/11/space-invaders-floor-decals.html
+date: '2009-11-10T19:50:00.004-05:00'
 layout: post
-modified_time: '2007-02-22T11:16:29.514-05:00'
-redirect_from: /2007/02/obfuscate-email-address-for-display-on.html
+modified_time: '2009-11-10T19:55:55.952-05:00'
+redirect_from: /2009/11/space-invaders-floor-decals.html
 tags:
-- website
-- tip
-title: Obfuscate an Email Address for Display on a Web Page and Prevent Robots from
-  Spamming You
+- diy
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2009-11-10-image-0000.jpg'
+title: Space Invaders Floor Decals
 ---
 
-There are lots of times I want to put an email address on a web page, but I always fear the spam bots that harvest email addresses and clog your inbox with tons of shit about drugs and mortgages.  A lot of times you'll see people do things like write jenn<span>y</span> <span> </span>[[[ <span> a<span>t</span> </span>]]] hack<span>addict</span> ((( dott ))) <span>ne</span>t<br/><br/>The thing with this is that I think most robots are smart enough to figure out that's an email address, because there are only so many brackets and 'at' and 'dot' combinations that are commonly used.  If I have to do something like that (viz. if I don't have access to javascript), I put a bunch of garbage tags in the HTML to obscure things as much as possible:<br/><code><br/>jenn&lt;span&gt;y&lt;/span&gt; &lt;span&gt; &lt;/span&gt;[[[ &lt;span&gt; a&lt;span&gt;t&lt;/span&gt; &lt;/span&gt;]]] hack&lt;span&gt;addict&lt;/span&gt; ((( dott ))) &lt;span&gt;ne&lt;/span&gt;t<br/></code><br/><br/>That's still not an ideal solution because it's not much harder to parse and it looks like crap to the human user.  The user can't just click on the email to send a message since there's no mailto: link.  Furthermore, the user can't even copy and paste the email address because of all the brackets and reformatting.<br/><br/>My ideal solution uses javascript to create a link that is human readable, obscured pretty nicely to prevent spam robots from harvesting it, and clickable with a mailto: link.  The basic idea is to mix up the email address itself in a really convoluted order, but concatenate a string in javascript that evaluates to the correct address.<br/><br/><code><br/>&lt;script type="text/javascript"&gt;<br/>var e = "hackaddic";<br/>e = "@" + e;<br/>e += "t.net";<br/>e = "jenny" + e;<br/>var nspm = "mailto";<br/>nspm =  nspm + ":" + e;<br/>nspm = "&lt;a href='" + nspm +"' title='Send Questions or Comments to'&gt;Contact&lt;/a&gt;";<br/>document.onload += document.write(nspm);<br/>&lt;/script&gt;<br/></code><br/><br/>The above code works fine in a blogger template, a feat which took a little work to accomplish because of the way blogger checks for matching tags when it compiles your template.  You can see an example of this code at the top of the page.
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5402642917145528818" src="{{ site.url }}/assets/images/2009-11-10-image-0000.jpg" style="display:block; margin:0px auto 10px; text-align:center; width: 300px; height: 400px;"/><br/>It pays to have friends with vinyl cutters...<div><br/></div><div>My boss has a sweet donkey kong 8 bit graphic on her door to her office.  I've always admired it so one day I asked her where she got it.  She pointed me to <a href="http://www.whatisblik.com/">blik</a>.  After perusing their inventory I finally landed on the idea of putting space invaders on the floor of my apartment, but quickly realized that the stickers on blik would not hold up to the wear and tear that a floor would get.</div><div><br/></div><div>In come my friends over at <a href="http://labs.laan.com/">Laan Labs</a>.  They have a vinyl cutter....after a quick Google search I located the <a href="http://www.classicgaming.cc/classicS/spaceinvaders/graphics.php">vector graphics</a> I needed, emailed them to my friends, and they cut my decals.  I was ready to roll within a matter of days.  </div><div><br/></div><div> </div>

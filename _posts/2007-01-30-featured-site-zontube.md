@@ -8,7 +8,7 @@ modified_time: '2007-01-30T23:54:55.026-05:00'
 redirect_from: /2007/01/featured-site-zontube.html
 tags:
 - website
-thumbnail: http://bp0.blogger.com/_3FPfpXHnCwA/RcAgQdmFtWI/AAAAAAAAAAo/gpP1m26XM34/s72-c/Picture+1.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-01-30-image-0000.png'
 title: 'Featured Site: ZonTube'
 ---
 

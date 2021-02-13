@@ -10,7 +10,7 @@ tags:
 - tutorial
 - freeware
 - mac
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/RmqlrWYfVsI/AAAAAAAAAM0/aVVQUx3X6EM/s72-c/AppIcon.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-09-image-0000.png'
 title: 'Tutorial: Automount a Samba Drive when at Certain Locations ie Home'
 ---
 

@@ -8,7 +8,7 @@ modified_time: '2009-12-16T09:15:09.519-05:00'
 redirect_from: /2009/12/record-video-on-any-iphone-without.html
 tags:
 - iphone
-thumbnail: http://3.bp.blogspot.com/_Gj3xvk4ycVs/Syjq8LN8ExI/AAAAAAAAA5M/WSaji7b83cI/s72-c/ivdeocamera-iphone-app.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2009-12-16-image-0000.jpg'
 title: Record Video on Any iPhone without Jailbreaking
 ---
 

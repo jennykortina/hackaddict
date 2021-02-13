@@ -8,7 +8,7 @@ modified_time: '2006-12-30T23:34:10.784-05:00'
 redirect_from: /2006/12/diy-coasters.html
 tags:
 - diy
-thumbnail: http://bp2.blogger.com/_Gj3xvk4ycVs/RYnE2IVvimI/AAAAAAAAACk/xNWbuCQjlDM/s72-c/mario.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2006-12-20-image-0000.jpg'
 title: DIY Coasters
 ---
 

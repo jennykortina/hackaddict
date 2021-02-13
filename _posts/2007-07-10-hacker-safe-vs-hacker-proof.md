@@ -1,13 +1,15 @@
 ---
-author: kortina
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-4704180651242654005
-blogger_orig_url: https://www.hackaddict.net/2007/07/hacker-safe-vs-hacker-proof.html
-date: '2007-07-10T13:59:00.000-04:00'
+author: jenny
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-6270348640122407450
+blogger_orig_url: https://www.hackaddict.net/2007/05/software-mp3-trimmer.html
+date: '2007-05-10T08:54:00.000-04:00'
 layout: post
-modified_time: '2007-07-10T14:04:15.966-04:00'
-redirect_from: /2007/07/hacker-safe-vs-hacker-proof.html
-tags: null
-title: Hacker Safe vs Hacker Proof
+modified_time: '2007-05-10T08:58:37.896-04:00'
+redirect_from: /2007/05/software-mp3-trimmer.html
+tags:
+- mac
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-05-10-image-0000.gif'
+title: 'Software:  MP3 Trimmer'
 ---
 
-This is pretty hilarious:<br/><a href="http://www.twit.tv/104">Twit 104</a>.  Scott Jordan of SeV investigated the company that provides the "Hacker Safe" images you see on a lot of websites and found out that they didn't really do much other than give you a sticker that made your customers feel safe (think placebo effect).<br/><br/>So he made his own image with "Hacker Proof" on it and they ended up suing him.<br/><br/>Both phrases are pretty funny, and props to Scott for coming up with such a great spoof.  Also, funny how context matters: places like <a href="http://lifehacker.com">lifehacker</a> and hackaddict treat hacker endearingly, but to most people it's a warning flag.<br/><br/>Check out the podcast.  Worth a listen.
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5062915140842803650" src="{{ site.url }}/assets/images/2007-05-10-image-0000.gif" style="margin: 0px auto 10px; display: block; text-align: center;  width: 280px; height: 123px;"/><br/>Since I posted how to convert Youtube videos to MP3's yesterday I thought today I would post the software I use to trim down MP3's to just the parts that I want (a lot of you tube videos have unnecessary chatter or blank noise at the beginning).<br/><br/>From their website:<br/><br/>"<span class="bluebold"><span class="bluebold">As easy as 1-2-3!</span></span><span class="blackbold"><br/> </span><span class="blackbold"><span class="blackbold">1:</span></span><span class="black"> Drop your MP3 on MP3 Trimmer </span><span class="blackbold"><span class="blackbold">2:</span></span><span class="black"> Choose trimpoints  </span><span class="blackbold"><span class="blackbold">3:</span></span><span class="black"> Save as a new file!<br/>      The new file will have exactly the same audio quality as the original!</span><span class="black"><br/> </span><br/> <span class="bluebold"><span class="bluebold">But wait... there's MUCH MORE!</span></span><span class="black"><br/>      You can even add smooth </span><span class="blackbold">fade-ins</span><span class="black">/</span><span class="blackbold"><span class="blackbold">outs</span></span><span class="black"> to your new file, or change the over all <b>gain</b>. </span><span class="black">Y</span><span class="blue"><span class="black"><span class="black">ou can </span></span></span><span class="blackbold"><span class="blackbold">join songs</span></span><span class="blue"><span class="black"><span class="black"> together, </span></span></span><span class="blackbold"><span class="blackbold">divide</span></span><span class="blue"><span class="black"><span class="black"> them, </span></span></span><span class="blackbold"><span class="blackbold">repair</span></span><span class="blue"><span class="black"><span class="black"> broken MP3s or simply </span></span></span><span class="blackbold"><span class="blackbold">analyze</span></span><span class="blue"><span class="black"><span class="black"> them frame by frame. MP3 Trimmer also features powerful </span></span><span class="blackbold"><span class="blackbold">batch processing </span></span><span class="black"><span class="black">to automate editing/repair on large amounts of files."<br/><br/>Although you have to pay for the software, it's well worth the $10.95 because it is so easy to use.<br/><br/><a href="http://www.deepniner.net/mp3trimmer/">Download MP3 Trimmer here.</a><br/></span></span> </span>

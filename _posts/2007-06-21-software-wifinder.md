@@ -9,7 +9,7 @@ redirect_from: /2007/06/software-wifinder.html
 tags:
 - software
 - mac
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/Rnp5OGYfVwI/AAAAAAAAANU/G5BQ3J15a00/s72-c/ishot-3.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-21-image-0000.jpg'
 title: 'Software: Wifind'
 ---
 

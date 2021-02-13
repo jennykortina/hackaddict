@@ -10,7 +10,7 @@ tags:
 - tutorial
 - freeware
 - mac
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/RrpU5ugnQII/AAAAAAAAAQg/DiKFoW63lTU/s72-c/ishot-2.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-10-image-0000.jpg'
 title: 'Tutorial: Mount a Dreamhost Account as a Drive in OS X'
 ---
 

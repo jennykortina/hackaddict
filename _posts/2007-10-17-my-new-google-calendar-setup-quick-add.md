@@ -10,7 +10,7 @@ tags:
 - nix
 - mac
 - tip
-thumbnail: http://bp2.blogger.com/_3FPfpXHnCwA/Rxa2RGi-KwI/AAAAAAAAAGA/9OrsCRIuD5w/s72-c/Picture+3.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-10-17-image-0000.png'
 title: My New Google Calendar Setup -- Quick Add from Command Line or SMS
 ---
 
