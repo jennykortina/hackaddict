@@ -258,9 +258,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  tzinfo (~> 1.2)
-  tzinfo-data
-  wdm (~> 0.1.1)
+
+RUBY VERSION
+   ruby 2.5.3p105
 
 BUNDLED WITH
    2.2.9
