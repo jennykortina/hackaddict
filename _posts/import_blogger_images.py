@@ -49,6 +49,14 @@ for filename in os.listdir(DIRECTORY):
             for img in contents.find_all("img"):
                 if img.parent.name == "a":
                     img.parent.unwrap()
+                    try:
+                        img["style"] = (
+                            img["style"]
+                            .replace("cursor:pointer;", "")
+                            .replace("cursor:hand;", "")
+                        )
+                    except Exception as e:
+                        print(e)
 
         with open(filename, "w") as f:
             f.write(str(contents))
