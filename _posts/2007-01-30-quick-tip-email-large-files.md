@@ -1,14 +1,14 @@
 ---
 author: jenny
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-3247120741108238083
-blogger_orig_url: https://www.hackaddict.net/2006/12/perfect-name-for-coffee-shop.html
-date: '2006-12-13T17:29:00.000-05:00'
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-7127542288281150339
+blogger_orig_url: https://www.hackaddict.net/2007/01/quick-tip-email-large-files.html
+date: '2007-01-30T12:51:00.000-05:00'
 layout: post
-modified_time: '2006-12-13T22:51:57.762-05:00'
-redirect_from: /2006/12/perfect-name-for-coffee-shop.html
-tags: null
-thumbnail: '{{ site.url }}/assets/images/thumbnails/2006-12-13-image-0000.jpg'
-title: Perfect Name for a Coffee Shop
+modified_time: '2007-01-30T23:54:23.884-05:00'
+redirect_from: /2007/01/quick-tip-email-large-files.html
+tags:
+- tip
+title: 'Quick Tip:  Email Large Files'
 ---
 
-So I come to a coffee shop this evening to get some studying done and meet some guy to get a copy of Tiger.  I walk in, put my stuff down, and go order a coffee.  I get back to my chair and set everything up, pull out my marketing book and start reading.  About five minutes into reading a waitress walks up to a different table and gives them a cup of wine and a glass of beer.  That's right, beer...delicious beer.<br/><br/>After I'm able to speak again I pull the waitress aside and ask her if they do indeed serve beer.  She confirms my suspicions and asks if I want one.  I take one look at my marketing book and tell her sure, why not.  So I end up ordering two rolling rocks for six bucks.    I'm halfway through the first one, my productivity has dropped to zero, and I have determined I have found the best coffee shop ever.  It's like being in Amsterdam in the middle of ATL.<br/><br/>Anyways, the "coffee" shop is named Nirvana.  They couldn't have chosen a more perfect name.<br/><br/>Lesson for the day ~ ALWAYS read the menu:<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5008150238246013106" src="{{ site.url }}/assets/images/posts/2006-12-13-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center;  width: 464px; height: 284px;"/>
+My job often involves emailing large files ie artwork, pictures which would not be a problem if everyone used gmail; however, I often get files bounced back  because they are too large for the recipient to accept.<br/><br/>My first solution was FTP, but my brother said that makes your website less secure so he suggested <a href="http://www.dropsend.com">Dropsend</a>.  Dropsend was a great utitlity; however, if you wanted to send more than 5 files you have to sign up and pay monthly fees.  I then did a quick Google search for viable alternatives and came up with <a href="http://www.youswap.com">Youswap</a>.  Youswap is a completely free service that lets you email as many files as you would like.<br/><br/><a href="http://http://www.youswap.com/index.php?area=video_tour">Check out a video of other Youswap features.</a><br/><br/>***YouSwap is currently in beta so you can only send files right now unless you get accepted into the beta invite.***

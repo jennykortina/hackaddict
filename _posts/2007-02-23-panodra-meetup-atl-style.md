@@ -1,16 +1,14 @@
 ---
-author: kortina
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-8722232149548825852
-blogger_orig_url: https://www.hackaddict.net/2007/06/quick-tip-preview-css-stylesheets-in.html
-date: '2007-06-10T08:55:00.000-04:00'
+author: jenny
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-630484275464049663
+blogger_orig_url: https://www.hackaddict.net/2007/02/panodra-meetup-atl-style.html
+date: '2007-02-23T16:46:00.000-05:00'
 layout: post
-modified_time: '2007-06-10T09:16:27.195-04:00'
-redirect_from: /2007/06/quick-tip-preview-css-stylesheets-in.html
+modified_time: '2007-02-23T16:51:01.318-05:00'
+redirect_from: /2007/02/panodra-meetup-atl-style.html
 tags:
-- textmate
-- tip
-thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-10-image-0000.png'
-title: 'Quick Tip: Preview CSS Stylesheets in Textmate without an HTML Page'
+- reviewed
+title: Panodra Meetup ATL Style
 ---
 
-<p>For each website that I make a new CSS stylesheet for, I typically make a preview page that looks something like this:</p> <pre>&lt;h2&gt;This is an h2&lt;/h2&gt;<br/>&lt;a href="#" class="external"&gt;This is an a.external&lt;/a&gt;</pre> <p>Which creates output like this:</p> <h2>This is an h2</h2> <a class="external" href="#">This is an a.external</a><p>This make for a handy reference guide to all your styles, but can be a bit cumbersome to setup, especially if you have a big stylesheet.</p><p>Today I discovered an awesome feature of <a href="http://some-site.com/" title="site some homes for sale at some-site.com">Textmate</a> that automates this whole process.  When editing your stylesheet in Textmate, use the Show Web Preview command ( ctrl + option + ⌘  + p ) to generate a list of all your different styles.</p><p><img alt="" border="0" id="BLOGGER_PHOTO_ID_5074423755080779746" src="{{ site.url }}/assets/images/posts/2007-06-10-image-0000.png" style="display:block; margin:0px auto 10px; text-align:center; "/></p><p>I discovered this via <a href="http://drnic.tumblr.com/post/3217462" title="Dr Nic's Journey">this post on tumblr</a>.</p>
+I have to admit, I had high expectations for the Pandora ATL meetup and I was not disappointed.  After introducing himself Tim dove right into the good stuff by explaining that the meetups began about a year ago with the first one in New York and had only two attendants.  The meetups have since grown exponentially and are actually where Tim gets a lot of ideas for improving Pandora's service. <br/><br/>The style of the meetup was laid back with people simply interjecting questions every so often and Tim joking around a lot of the time; it felt more like a group discussion then a lecture.  One of the most interesting parts of the meeting were the polls; every so often Tim would ask a question about a new feature and then ask for a show of hands of people who would like it.  The polls really made it feel like Tim was listening and wanted our earnest opinions on what to do/not to do.  He stressed the entire time that people like us are the reason that Pandora has been such a success.<br/><br/>After about two hours the meeting concluded, but Tim stayed another hour or so answering individual questions and posing for pictures. Everyone that attended got a Pandora shirt and a great evening.<br/><br/>All and all it was a very fun evening and I would recommend attending to anyone who is lucky enough to have it come to their town.<br/><br/>***I took pictures with my new digital camera, but none of them turned out.  Don't buy a Nikon Coolix S9 it cannot take pictures with low lighting conditions.

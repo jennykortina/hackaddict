@@ -51,7 +51,7 @@ Shopify.theme.style = {"id":null,"handle":null};
 Shopify.cdnHost = "cdn.shopify.com";</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
-<script id="__st">var __st={"a":31023612,"offset":-21600,"reqid":"31a2f736-98ed-4e7e-90ff-8609313eb64f","pageurl":"cruxy.com\/password","u":"143654f9cf60","p":"password"};</script>
+<script id="__st">var __st={"a":31023612,"offset":-21600,"reqid":"c9e9ba17-1592-491a-a154-6f3a47623e5a","pageurl":"cruxy.com\/password","u":"5760386fc76f","p":"password"};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>window['GoogleAnalyticsObject'] = 'ga';
 window['ga'] = window['ga'] || function() {

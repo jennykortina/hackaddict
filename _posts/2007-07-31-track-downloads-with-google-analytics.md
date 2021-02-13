@@ -1,16 +1,14 @@
 ---
 author: kortina
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-4930546106813819373
-blogger_orig_url: https://www.hackaddict.net/2007/07/easier-right-click-ctrl-click-in-os-x.html
-date: '2007-07-05T09:50:00.000-04:00'
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-8703736589574225790
+blogger_orig_url: https://www.hackaddict.net/2007/07/track-downloads-with-google-analytics.html
+date: '2007-07-31T00:06:00.000-04:00'
 layout: post
-modified_time: '2007-07-05T09:59:31.532-04:00'
-redirect_from: /2007/07/easier-right-click-ctrl-click-in-os-x.html
+modified_time: '2007-07-31T09:30:19.523-04:00'
+redirect_from: /2007/07/track-downloads-with-google-analytics.html
 tags:
-- mac
 - tip
-thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-05-image-0000.png'
-title: Easier Right Click / Ctrl Click in OS X
+title: Track Downloads with Google Analytics
 ---
 
-I can't believe I just discovered this today: there's an option on my macbook to use two finger clicks for a secondary click.  On my old ibook, I had installed <a href="http://iscroll2.sourceforge.net/">iscroll2</a> and enabled this feature, but I always thought it was a hack and not something supported natively by apple.<br/><br/>Anyway, to enable easier right clicks, open <b>System Preferences &gt; Keyboard and Mouse &gt; Trackpad</b> and check "Place two fingers on trackpad and click button for secondary click." No more ctrl clicks!<br/><br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5083710788539698898" src="{{ site.url }}/assets/images/posts/2007-07-05-image-0000.png" style="display:block; margin:0px auto 10px; text-align:center; "/>
+I am building a few Firefox extensions ( coming soon ) and I was trying to figure out the best way to track the number of downloads once I post them.  In my search, I found 2 great posts about some of the more advanced features of Google Analytics:<br/><br/><a href="http://www.blogstorm.co.uk/blog/advanced-google-analytics/">Advanced Use of Google Analyics</a><br/><br/><a href="http://www.blogstorm.co.uk/blog/google-analytics-tutorial/">Google Analytics Tutorial Part 2</a><br/><br/>Here's how you would track a download, by the way:<br/><pre><br/>&lt;a href="http://www.example.co.uk/files/map.pdf"<br/>onClick="javascript:urchinTracker ('/downloads/map'); "&gt;<br/></pre>

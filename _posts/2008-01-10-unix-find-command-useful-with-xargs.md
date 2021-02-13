@@ -1,16 +1,13 @@
 ---
-author: jenny
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-1983363402851586908
-blogger_orig_url: https://www.hackaddict.net/2007/01/quick-tip-free-business-cards.html
-date: '2007-01-20T00:55:00.000-05:00'
+author: kortina
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-2449587177020074480
+blogger_orig_url: https://www.hackaddict.net/2008/01/unix-find-command-useful-with-xargs.html
+date: '2008-01-10T22:49:00.001-05:00'
 layout: post
-modified_time: '2007-01-20T18:52:18.795-05:00'
-redirect_from: /2007/01/quick-tip-free-business-cards.html
-tags:
-- rant
-- tip
-thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-01-20-image-0000.jpg'
-title: 'Quick Tip: Free Business Cards'
+modified_time: '2008-01-10T22:56:23.029-05:00'
+redirect_from: /2008/01/unix-find-command-useful-with-xargs.html
+tags: null
+title: UNIX find command (useful with xargs)
 ---
 
-While talking about a convention that one of my friends had recently attended I unintentionally discovered <a href="http://www.vistaprint.com">Vista Print, a website that will print business cards for people for free</a>.  My friend had handed me a card, which admittly looked pretty lame, but when I turned it over it had a website called Vista Printing advertised on the back. I asked why it was there and he told me that the company prints business cards for free with the stipulation that they get to put their website on the back.  <br/><br/>I was pretty impressed so I immediately booted up the Macbook Pro and checked out the site.  Turns out you can't upload your own design and all the premade ones look like they were created in MS Publisher.  I decided to go with the blank one because it is the most asthetically pleasing.  So now we'll just wait and see if they come (and when they do I'll take a picture and upload it for everyone).<br/><br/>So far the service looks pretty good.  It's always nice to get something for free and the advertising on these cards is as unobtrusive as it could be.<br/><br/>Little screen shot of the site for you guys (I thought the "Free Business Card....Pricing" was pretty funny):<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5021987619003584146" src="{{ site.url }}/assets/images/posts/2007-01-20-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>
+I was having some trouble with a python app and needed to clear some cached, precompiled versions of some of the files in the app.  I had a hunch the <b>find</b> command might be useful, so I looked at the man doc.  Turns out it was very useful.<br/><br/><b>find</b> takes a few arguments.  The first (mandatory) argument is the path to search.  In my case, it was the current directory: <b>.</b> .  I also used an optional argument, an expression to filter out all files other than those ending in pyc.  Here's what I ended up with:<br/><br/><pre>find . -name "*.pyc" | xargs rm</pre><br/><br/>For some reason, I needed to put quotes around the <b>*.pyc</b>, otherwise I got the error:<br/><br/><pre>find: paths must precede expression</pre><br/><br/>Also, I added <b>| xargs rm</b>, piping find's output into xargs, which allows you to apply another method (in this case, rm) to each line.  This basically deletes anything in the current directory or any subdirectories named .pyc.  Be careful!<br/><br/>Finally, a quick google search brought me to this page that has lots of other good examples: <a href="http://www.wagoneers.com/UNIX/FIND/find-usage.html">http://www.wagoneers.com/UNIX/FIND/find-usage.html</a>

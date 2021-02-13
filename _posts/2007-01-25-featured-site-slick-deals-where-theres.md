@@ -1,14 +1,14 @@
 ---
 author: jenny
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-6993376429325107938
-blogger_orig_url: https://www.hackaddict.net/2008/04/googles-april-fools-joke-2008.html
-date: '2008-04-01T10:27:00.002-04:00'
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-7581295948492878729
+blogger_orig_url: https://www.hackaddict.net/2007/01/featured-site-slick-deals-where-theres.html
+date: '2007-01-25T16:23:00.000-05:00'
 layout: post
-modified_time: '2008-04-01T10:30:17.193-04:00'
-redirect_from: /2008/04/googles-april-fools-joke-2008.html
-tags: null
-thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-04-01-image-0000.png'
-title: Google's April Fool's Joke 2008
+modified_time: '2007-01-26T17:36:21.514-05:00'
+redirect_from: /2007/01/featured-site-slick-deals-where-theres.html
+tags:
+- website
+title: 'Featured Site: Slick Deals - Where there''s a Coupon for Everything'
 ---
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5184283656345361826" src="{{ site.url }}/assets/images/posts/2008-04-01-image-0000.png" style="margin: 0px auto 10px; display: block; text-align: center;  width: 459px; height: 181px;"/><br/><div style="text-align: center;"><b>Wake yourself up with our new Google Wake Up Kit!</b><br/></div><br/><a href="http://www.google.com/googlecalendar/new_wakeup.html">Click for the original article.<br/></a>
+I buy a lot of tech products...well I guess I buy a lot of stuff in general.  Today's site is one of my favorite websites: <a href="http://www.slickdeals.net">Slick Deals</a>.<br/><br/>Slick Deals is a website that features all the "slick deals" for the past week or so on the main page sorted numerically by date with the most recent date at the top of the list.  It's always good to check out the slick deals for the day, but what I found works best when you are looking for a particular item is to go into the forums and use the search function.  Type in what you want to get a deal on and then sort through all the relevant things it pulled up.  Although it takes a little work you'll be able to find a coupon most of the time and the money saved is generally worth the time spent.

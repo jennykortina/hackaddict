@@ -1,16 +1,15 @@
 ---
 author: jenny
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-7713268737665236332
-blogger_orig_url: https://www.hackaddict.net/2007/06/tutorial-get-onscreen-keyboard-in-osx.html
-date: '2007-06-22T07:16:00.000-04:00'
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-2112610323735651315
+blogger_orig_url: https://www.hackaddict.net/2007/07/open-word-and-excel-documents-on-iphone.html
+date: '2007-07-30T09:56:00.000-04:00'
 layout: post
-modified_time: '2007-06-22T06:17:05.793-04:00'
-redirect_from: /2007/06/tutorial-get-onscreen-keyboard-in-osx.html
+modified_time: '2007-07-30T10:08:25.151-04:00'
+redirect_from: /2007/07/open-word-and-excel-documents-on-iphone.html
 tags:
+- mobile
 - freeware
-- mac
-thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-22-image-0000.jpg'
-title: 'Tutorial: Get an Onscreen Keyboard in OSX'
+title: Open Word and Excel Documents on an iPhone
 ---
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5078593048760244002" src="{{ site.url }}/assets/images/posts/2007-06-22-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>An onscreen keyboard can be a powerful tool for screencasters.  This tutorial will show you how to turn on the onscreen keyboard that OS X has built in.<br/><br/>1. Go to the system preferences panel<br/>2. Select the "International" icon<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5078593864804030258" src="{{ site.url }}/assets/images/posts/2007-06-22-image-0001.jpg" style="margin: 0px auto 10px; display: block; text-align: center;  width: 256px; height: 239px;"/><br/>3. Go to the "Input" tab<br/>4. Select the "Keyboard Viewer"<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5078594019422852930" src="{{ site.url }}/assets/images/posts/2007-06-22-image-0002.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>5. You now should have an American flag in your menu bar.  Click on the American flag and select "Show Keyboard Viewer"<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5078592881256519442" src="{{ site.url }}/assets/images/posts/2007-06-22-image-0003.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>You now should have a keyboard on your desktop that displays whatever your press on your keyboard.  Quick, easy, free!<br/><br/>*If you click the plus arrow in the upper left hand corner of the keyboard it makes it much larger.
+Hackaddict reader Brian writes:<br/><br/>"I'm an intern working at <a href="http://box.net/" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">Box.net</a>, and I wanted to share a new tool<br/>that we recently built. I saw that you are interested in using the<br/>iPhone to open word and excel documents, and I thought you might like<br/>to know about <a href="http://box.net/" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">Box.net</a>'s new iPhone app. The Box app allows users to<br/>access files stored on <a href="http://box.net/" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">Box.net</a>, giving iPhone users the ability to<br/>store and access Word, Excel and PDF documents. Since its stored on<br/><a href="http://box.net/" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">Box.net</a>, the iPhone's fixed memory is no longer a limitation. I<br/>thought you might want to try it out, or write about it.<br/><br/>You can try it out here: <a href="http://i.box.net/" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">http://i.box.net</a><br/><br/>If you don't have one, be sure to first register for an account at:<br/><a href="http://www.box.net/" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">www.Box.net</a>"<br/><br/>After replying to Brian to let him know that I did not have an iPhone he said they also have a demo set up here: <a href="http://i.box.net/home/demo" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">http://i.box.net/home/demo</a> for those of us who don't have an iPhone yet.  The demo is slick and I'm pretty sure this software will work on any phone with access to the internet.<br/><br/>Post your thoughts to the comments and let us know what you think!

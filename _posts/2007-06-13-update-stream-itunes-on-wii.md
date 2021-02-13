@@ -1,14 +1,13 @@
 ---
 author: jenny
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-2050857916072300604
-blogger_orig_url: https://www.hackaddict.net/2007/08/new-blogger-feature-videos.html
-date: '2007-08-29T11:38:00.000-04:00'
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-5388912985159163010
+blogger_orig_url: https://www.hackaddict.net/2007/06/update-stream-itunes-on-wii.html
+date: '2007-06-13T12:26:00.001-04:00'
 layout: post
-modified_time: '2007-08-29T11:50:14.493-04:00'
-redirect_from: /2007/08/new-blogger-feature-videos.html
+modified_time: '2007-06-13T14:51:44.404-04:00'
+redirect_from: /2007/06/update-stream-itunes-on-wii.html
 tags: null
-thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-29-image-0000.jpg'
-title: 'New Blogger Feature: Videos'
+title: 'UPDATE:  Stream iTunes on the Wii'
 ---
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5104150306526962226" src="{{ site.url }}/assets/images/posts/2007-08-29-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>I noticed that Blogger finally added an insert video button.  Previously, you had to either host your own or use a third party company such as Youtube.<br/><br/>Good move blogger!
+I've been in contact with the people from Codewave, the makers of MyTunesRSS, and it seems like they are planning an update to make their software more Wii friendly.  I suggested to make the fonts and icons larger for easier usability/readability.<br/><br/>Please post any known issues or suggestions in the comments and I will make sure your voices are heard.<br/><br/>*Please read the first comment below for a special development copy and install instructors.

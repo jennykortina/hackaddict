@@ -1,17 +1,14 @@
 ---
 author: jenny
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-6673722154261721250
-blogger_orig_url: https://www.hackaddict.net/2007/03/quick-tip-record-video-quickly-and.html
-date: '2007-03-15T09:29:00.000-04:00'
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-8813341111686846149
+blogger_orig_url: https://www.hackaddict.net/2008/03/quick-tip-never-lose-anything-again.html
+date: '2008-03-03T09:47:00.000-05:00'
 layout: post
-modified_time: '2007-03-16T09:15:15.994-04:00'
-redirect_from: /2007/03/quick-tip-record-video-quickly-and.html
+modified_time: '2008-03-03T11:16:06.379-05:00'
+redirect_from: /2008/03/quick-tip-never-lose-anything-again.html
 tags:
-- freeware
-- mac
 - tip
-thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-15-image-0000.png'
-title: 'Quick Tip: Record Video Quickly and Easily with your Mac''s Webcam'
+title: 'Quick Tip: Never Lose Anything Again'
 ---
 
-Ok, this one is for those of us with the new intel based macs or the power pc guys who have a webcam.  iRecord is a freeware mac ap that requires only one click to start recording once<img alt="" border="0" id="BLOGGER_PHOTO_ID_5041788976213426914" src="{{ site.url }}/assets/images/posts/2007-03-15-image-0000.png" style="margin: 0pt 0pt 10px 10px; float: right;  width: 306px; height: 306px;"/> launched.  Launch the program and hit the big red button: that's it, literally.<br/><br/>iRecord is definately an easy way to shoot video, after clicking the red button it saves a .mov to your desktop.  You can also take still shots but dragging the image from the iRecord window directly to your desktop.<br/><br/>Although the program is very easy to use, it lacks any preferences  that can bet set (ie change movie format) and the files it saves are rather large and must be converted to another format if  they are going to be shared over the web (I recommend use Quicktime Pro or <a href="http://www.zamzar.com/">Zamzar</a> depending on your needs).<br/><br/>If you need a quick, lite weight recording program for you mac, but need to customize your video recording preferences than iRecord is the application for you.<br/><br/><a href="http://www.mindsprockets.com/iRecord.html">iRecord can be downloaded here.</a>
+So after getting ready to go out today I realized that I had lost my passport.  The last memory I have of it was putting it somewhere it couldn't get lost...<br/><br/>I'd say 50% of the time when I put an object somewhere so I won't lose it, I end up losing it.  My safe place is so safe, I forget where it is.<br/><br/>I thought of a pretty good solution for this problem this evening.  I put my passport back where I found it and then I emailed emailed myself:<br/><br/>Subject: Passport<br/>Message Body:  In your backpack in the closet.<br/><br/>I also copied my brother on the email and applied the label "Stuff."  This way when I lose my passport next time I can simply pull up my email and see where it is located.
