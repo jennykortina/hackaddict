@@ -5,6 +5,8 @@ import os
 # pip install python-frontmatter
 import frontmatter
 
+# IMPORTANT: Before running this script manually create a folder /assets/images/thumbnails # noqa
+
 DIRECTORY = "./"
 DATE_RE = re.compile("(?P<date>[0-9]+\-[0-9]+\-[0-9]+)")
 

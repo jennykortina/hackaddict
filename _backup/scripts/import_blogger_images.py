@@ -1,15 +1,11 @@
-# Jekyll will import posts from Blogger, but they still contain image
-# references to Blogger's CDN. This script:
-# - Finds all image references in an imported blogger page
-# - Downloads the images into the assets/ directory
-# - Rewrites the page with the appropriate image link
-
 import re
 import requests
 import os
 
 # pip install BeautifulSoup4
 from bs4 import BeautifulSoup
+
+# IMPORTANT: Before running this script manually create a folder /assets/images/thumbnails # noqa
 
 DIRECTORY = "./"
 IMG_RE = re.compile('<img[^>]+src="(?P<src>[^"]+)"')
