@@ -9,7 +9,7 @@ redirect_from: /2006/12/quick-tip-making-ringtones-in-itunes.html
 tags:
 - mac
 - tip
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/RY14NoVvirI/AAAAAAAAADk/_1U77JV2L-U/s72-c/itunes.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2006-12-23-image-0000.jpg'
 title: 'Quick Tip: Making Ringtones in iTunes'
 ---
 

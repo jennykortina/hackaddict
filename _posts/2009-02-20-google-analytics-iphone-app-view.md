@@ -11,7 +11,7 @@ tags:
 - google
 - iphone
 - Google Analytic
-thumbnail: http://2.bp.blogspot.com/_3FPfpXHnCwA/SZ7EZx4mApI/AAAAAAAAAQo/_yh97KauGzs/s72-c/photo.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2009-02-20-image-0000.jpg'
 title: Google Analytics iPhone App - View Traffic Reports on the Go
 ---
 

@@ -9,7 +9,7 @@ redirect_from: /2007/08/windows-mobile-iphone-like-contact.html
 tags:
 - mobile
 - freeware
-thumbnail: http://bp2.blogger.com/_Gj3xvk4ycVs/RrCKXegnQEI/AAAAAAAAAQA/vYY5MCesL1s/s72-c/cm.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-01-image-0000.jpg'
 title: Windows Mobile iPhone Like Contact Manager
 ---
 

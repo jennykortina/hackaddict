@@ -8,7 +8,7 @@ modified_time: '2010-02-05T10:03:00.369-05:00'
 redirect_from: /2010/02/how-i-use-text-message-payments-to-my.html
 tags:
 - lifehack
-thumbnail: http://2.bp.blogspot.com/_Gj3xvk4ycVs/S2wsNBLLH2I/AAAAAAAAA7Y/RttBh2f7kNY/s72-c/ht-1.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2010-02-05-image-0000.jpg'
 title: How I Use Text Message Payments to My Make Life Easier
 ---
 

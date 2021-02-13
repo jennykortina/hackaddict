@@ -9,7 +9,7 @@ redirect_from: /2007/06/quick-tip-preview-css-stylesheets-in.html
 tags:
 - textmate
 - tip
-thumbnail: http://bp2.blogger.com/_3FPfpXHnCwA/Rmv5hRFkx-I/AAAAAAAAABo/LZdWTP1RPX4/s72-c/Picture+3.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-10-image-0000.png'
 title: 'Quick Tip: Preview CSS Stylesheets in Textmate without an HTML Page'
 ---
 

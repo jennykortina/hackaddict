@@ -10,7 +10,7 @@ tags:
 - windows
 - freeware
 - mac
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/R7z4uZyhktI/AAAAAAAAASY/ECL2tcLT8q8/s72-c/socialim_chat.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-02-22-image-0000.png'
 title: 'Featured: Facebook Chat Client'
 ---
 

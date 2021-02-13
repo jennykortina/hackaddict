@@ -8,7 +8,7 @@ modified_time: '2008-02-23T22:01:09.789-05:00'
 redirect_from: /2008/02/kindle-amazons-wireless-reading-device.html
 tags:
 - reviewed
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/R74965yhk0I/AAAAAAAAATM/liEHpCvXepw/s72-c/kindlehand.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-02-23-image-0000.jpg'
 title: 'Kindle: Amazon''s Wireless Reading Device Reviewed'
 ---
 

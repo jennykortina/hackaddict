@@ -9,7 +9,7 @@ redirect_from: /2008/12/gmail-url-shortener.html
 tags:
 - website
 - google
-thumbnail: http://3.bp.blogspot.com/_Gj3xvk4ycVs/STVcQiYFVaI/AAAAAAAAAiA/nxakFxeck78/s72-c/2008-12-02_1103.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-12-02-image-0000.png'
 title: Gmail URL Shortener
 ---
 

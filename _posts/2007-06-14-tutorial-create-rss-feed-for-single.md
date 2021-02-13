@@ -9,7 +9,7 @@ redirect_from: /2007/06/tutorial-create-rss-feed-for-single.html
 tags:
 - tutorial
 - reviewed
-thumbnail: http://bp1.blogger.com/_3FPfpXHnCwA/RnDGSxFkyBI/AAAAAAAAACE/fjaSBmNO57s/s72-c/Picture+3.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-14-image-0000.png'
 title: 'Tutorial: Create an RSS Feed For a Single Author of Your Blogger Blog Using
   Yahoo Pipes and Import It into Facebook'
 ---

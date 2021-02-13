@@ -12,7 +12,7 @@ tags:
 - game
 - freeware
 - mac
-thumbnail: http://bp2.blogger.com/_Gj3xvk4ycVs/RlSBVb5zwII/AAAAAAAAALc/N_49eX8o0M0/s72-c/plasma3_big.JPG
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-05-23-image-0000.JPG'
 title: 'Freeware: Plasma Pong'
 ---
 

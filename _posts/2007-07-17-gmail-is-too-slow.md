@@ -9,7 +9,7 @@ redirect_from: /2007/07/gmail-is-too-slow.html
 tags:
 - rant
 - tip
-thumbnail: http://bp2.blogger.com/_3FPfpXHnCwA/Rpw25JS49sI/AAAAAAAAAEM/w99tCjBwUmM/s72-c/Picture+4.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-17-image-0000.png'
 title: Gmail is too slow!
 ---
 

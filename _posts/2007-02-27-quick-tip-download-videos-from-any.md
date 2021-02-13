@@ -9,7 +9,7 @@ redirect_from: /2007/02/quick-tip-download-videos-from-any.html
 tags:
 - website
 - tip
-thumbnail: http://bp2.blogger.com/_Gj3xvk4ycVs/ReR3FiteBgI/AAAAAAAAAHc/rOb51tkVmxE/s72-c/ishot-1.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-02-27-image-0000.jpg'
 title: 'Quick Tip: Download Videos from Any Website to Any Video Format'
 ---
 

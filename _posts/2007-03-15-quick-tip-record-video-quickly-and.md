@@ -10,7 +10,7 @@ tags:
 - freeware
 - mac
 - tip
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/RfgIXH-uguI/AAAAAAAAAJI/gF0RERXsP6U/s72-c/droppedImage.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-15-image-0000.png'
 title: 'Quick Tip: Record Video Quickly and Easily with your Mac''s Webcam'
 ---
 

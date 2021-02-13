@@ -9,7 +9,7 @@ redirect_from: /2007/03/advantages-of-translucent-terminal.html
 tags:
 - mac
 - tip
-thumbnail: http://bp2.blogger.com/_3FPfpXHnCwA/Re7dlk5QFGI/AAAAAAAAAA0/dhUTdZX4dmA/s72-c/TerminalScreenSnapz001.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-07-image-0000.jpg'
 title: Advantages of a Translucent Terminal Window
 ---
 

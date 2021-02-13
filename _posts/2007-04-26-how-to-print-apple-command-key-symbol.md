@@ -9,7 +9,7 @@ redirect_from: /2007/04/how-to-print-apple-command-key-symbol.html
 tags:
 - mac
 - tip
-thumbnail: http://bp2.blogger.com/_3FPfpXHnCwA/RjCvy1kNRMI/AAAAAAAAABg/9WDTvC9jB50/s72-c/command-apple-snippet.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-04-26-image-0000.png'
 title: How to Print the Apple / Command Key Symbol Using an HTML Entity
 ---
 

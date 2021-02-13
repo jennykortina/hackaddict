@@ -11,7 +11,7 @@ tags:
 - quicksilver
 - screencast
 - mac
-thumbnail: http://bp1.blogger.com/_3FPfpXHnCwA/RormMwu6zsI/AAAAAAAAADU/lVG1JeHC_Y0/s72-c/FinderScreenSnapz001.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-03-image-0000.jpg'
 title: Setup Global Keyboard Shortcuts to Open Any App with Quicksilver
 ---
 

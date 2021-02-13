@@ -10,7 +10,7 @@ tags:
 - freeware
 - mac
 - tip
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/Rge3BfFv2iI/AAAAAAAAAKQ/f0tFqXlmY7o/s72-c/ishot-3.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-26-image-0000.jpg'
 title: 'Quick Tip: Keep You''re Mac Awake'
 ---
 

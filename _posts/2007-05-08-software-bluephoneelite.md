@@ -10,7 +10,7 @@ tags:
 - reviewed
 - mobile
 - mac
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/RkBQXgHh0aI/AAAAAAAAALE/_qsGWCrZ2rU/s72-c/title.gif
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-05-08-image-0000.gif'
 title: 'Software: BluePhoneElite'
 ---
 

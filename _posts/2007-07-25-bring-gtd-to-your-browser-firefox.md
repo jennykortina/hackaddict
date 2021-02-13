@@ -9,7 +9,7 @@ redirect_from: /2007/07/bring-gtd-to-your-browser-firefox.html
 tags:
 - firefox
 - tip
-thumbnail: http://bp2.blogger.com/_3FPfpXHnCwA/RqgXkhKaIqI/AAAAAAAAAE8/mlYVzeP1Btc/s72-c/Picture+1.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-25-image-0000.png'
 title: Bring GTD to Your Browser - Firefox Bookmarks Bar Inbox
 ---
 

@@ -7,7 +7,7 @@ layout: post
 modified_time: '2006-12-13T22:51:57.762-05:00'
 redirect_from: /2006/12/perfect-name-for-coffee-shop.html
 tags: null
-thumbnail: http://bp2.blogger.com/_Gj3xvk4ycVs/RYCGG3xxCLI/AAAAAAAAAAY/taL4k78YKs8/s72-c/Menu.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2006-12-13-image-0000.jpg'
 title: Perfect Name for a Coffee Shop
 ---
 

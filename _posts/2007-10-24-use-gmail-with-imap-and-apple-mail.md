@@ -7,7 +7,7 @@ layout: post
 modified_time: '2007-10-24T15:36:38.217-04:00'
 redirect_from: /2007/10/use-gmail-with-imap-and-apple-mail.html
 tags: null
-thumbnail: http://bp1.blogger.com/_3FPfpXHnCwA/Rx-eYmi-KxI/AAAAAAAAAG0/jeFpwUG_KfQ/s72-c/Picture+1.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-10-24-image-0000.png'
 title: Use Gmail with IMAP and Apple Mail
 ---
 

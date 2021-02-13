@@ -10,7 +10,7 @@ tags:
 - windows
 - freeware
 - mac
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/RsBjF-gnQMI/AAAAAAAAARA/BLIroYriGZ0/s72-c/pdf.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-13-image-0000.jpg'
 title: 'Quick Tip: Print to PDF'
 ---
 

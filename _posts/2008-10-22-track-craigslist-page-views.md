@@ -10,7 +10,7 @@ tags:
 - tutorial
 - website
 - craigslist
-thumbnail: http://2.bp.blogspot.com/_Gj3xvk4ycVs/SP5OEYFg4cI/AAAAAAAAAZU/e_vpnNAtk5A/s72-c/bitly.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-10-22-image-0000.png'
 title: Track Craigslist Page Views
 ---
 

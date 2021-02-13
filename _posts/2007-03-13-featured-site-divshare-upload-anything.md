@@ -8,7 +8,7 @@ modified_time: '2007-03-13T11:10:56.616-04:00'
 redirect_from: /2007/03/featured-site-divshare-upload-anything.html
 tags:
 - website
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/Rfabc3-ugsI/AAAAAAAAAI4/e082dgUWDU4/s72-c/DivShare.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-13-image-0000.png'
 title: 'Featured Site: DivShare - Upload Anything'
 ---
 

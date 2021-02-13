@@ -9,7 +9,7 @@ redirect_from: /2008/05/company-logo-and-how-to-do-custom.html
 tags:
 - google
 - tip
-thumbnail: http://bp1.blogger.com/_3FPfpXHnCwA/SDOOEzVdGfI/AAAAAAAAAIw/cA9-ykWhDas/s72-c/docs-background.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-05-20-image-0000.png'
 title: Custom Themes on Google Presentations
 ---
 

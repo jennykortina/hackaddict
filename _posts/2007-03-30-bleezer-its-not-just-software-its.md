@@ -10,7 +10,7 @@ tags:
 - windows
 - freeware
 - mac
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/Rg0VaR45WsI/AAAAAAAAAK0/C2A8sdWdyoM/s72-c/typewritericon.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-30-image-0000.png'
 title: 'Bleezer: It''s not just software.  It''s everyware.'
 ---
 

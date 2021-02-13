@@ -7,7 +7,7 @@ layout: post
 modified_time: '2008-10-21T21:59:37.275-04:00'
 redirect_from: /2008/10/get-your-zombie-guns-cause-were-back.html
 tags: null
-thumbnail: http://3.bp.blogspot.com/_Gj3xvk4ycVs/SP6IUzirA2I/AAAAAAAAAZc/vs0mxIZC80A/s72-c/back.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-10-21-image-0000.png'
 title: Get your zombie guns, cause we're back from the dead!
 ---
 

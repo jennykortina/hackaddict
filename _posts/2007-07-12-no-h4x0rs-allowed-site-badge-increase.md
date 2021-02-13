@@ -8,7 +8,7 @@ modified_time: '2007-07-12T09:36:50.393-04:00'
 redirect_from: /2007/07/no-h4x0rs-allowed-site-badge-increase.html
 tags:
 - software
-thumbnail: http://bp0.blogger.com/_3FPfpXHnCwA/RpVumwu6zwI/AAAAAAAAAD0/CtyYBw_NiNI/s72-c/no-hackers-allowed-0.gif
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-07-12-image-0000.gif'
 title: 'No h4x0rs Allowed Site Badge: Increase Your Site''s Security and Make Your
   Users Feel Safe'
 ---

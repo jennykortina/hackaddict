@@ -9,7 +9,7 @@ redirect_from: /2008/02/tutorial-download-song-single-mp3s.html
 tags:
 - website
 - freeware
-thumbnail: http://bp2.blogger.com/_Gj3xvk4ycVs/R8CiO5yhk2I/AAAAAAAAATc/g7uxpMkvKJg/s72-c/2008-02-23_1740.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-02-25-image-0000.png'
 title: 'Tutorial: Download Song Single MP3''s Wihout Any Software'
 ---
 

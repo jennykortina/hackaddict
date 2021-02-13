@@ -9,7 +9,7 @@ redirect_from: /2007/06/tutorial-iphone-windows-mobile-skin.html
 tags:
 - tutorial
 - mobile
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/RpWE2WGtEmI/AAAAAAAAAPE/533-GS_638Q/s72-c/DSCN0867.JPG
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-29-image-0000.JPG'
 title: 'Tutorial: iPhone Windows Mobile Skin'
 ---
 

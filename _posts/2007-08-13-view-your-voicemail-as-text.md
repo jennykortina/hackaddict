@@ -9,7 +9,7 @@ redirect_from: /2007/08/view-your-voicemail-as-text.html
 tags:
 - reviewed
 - mobile
-thumbnail: http://bp3.blogger.com/_3FPfpXHnCwA/RsEmNhKaIvI/AAAAAAAAAFo/2Xb5zCaAvxE/s72-c/Picture+2.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-13-image-0000.png'
 title: View Your VoiceMail as Text with Callwave.com !
 ---
 

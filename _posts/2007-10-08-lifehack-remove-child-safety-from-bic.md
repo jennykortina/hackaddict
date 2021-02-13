@@ -8,7 +8,7 @@ modified_time: '2007-10-08T12:35:55.090-04:00'
 redirect_from: /2007/10/lifehack-remove-child-safety-from-bic.html
 tags:
 - lifehack
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/Rv2I9O-MswI/AAAAAAAAASI/ClNjSSUe5XY/s72-c/lighter.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-10-08-image-0000.jpg'
 title: 'Lifehack: Remove the Child Safety from Bic Lighters'
 ---
 

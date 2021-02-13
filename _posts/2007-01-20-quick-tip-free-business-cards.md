@@ -9,7 +9,7 @@ redirect_from: /2007/01/quick-tip-free-business-cards.html
 tags:
 - rant
 - tip
-thumbnail: http://bp2.blogger.com/_Gj3xvk4ycVs/RbGvIcEeTpI/AAAAAAAAADE/x-kJDnUd7Gk/s72-c/not-so-free.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-01-20-image-0000.jpg'
 title: 'Quick Tip: Free Business Cards'
 ---
 

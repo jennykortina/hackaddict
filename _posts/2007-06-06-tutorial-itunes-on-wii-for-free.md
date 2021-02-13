@@ -10,7 +10,7 @@ tags:
 - windows
 - freeware
 - mac
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/RmdkwWYfVoI/AAAAAAAAAMU/xj8XaZzgzD0/s72-c/server.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-06-image-0000.jpg'
 title: 'Tutorial: iTunes on the Wii!!!'
 ---
 

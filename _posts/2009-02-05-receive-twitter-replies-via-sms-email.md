@@ -10,7 +10,7 @@ tags:
 - tutorial
 - mobile
 - twitter
-thumbnail: http://4.bp.blogspot.com/_Gj3xvk4ycVs/SYuo6NvSfQI/AAAAAAAAAlM/CL7QD_bT8bA/s72-c/field.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2009-02-05-image-0000.png'
 title: Receive Twitter @ replies via SMS, email, & IM for FREE
 ---
 

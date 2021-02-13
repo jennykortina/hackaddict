@@ -7,7 +7,7 @@ layout: post
 modified_time: '2007-01-19T20:19:46.077-05:00'
 redirect_from: /2007/01/new-blog-name.html
 tags: null
-thumbnail: http://bp2.blogger.com/_Gj3xvk4ycVs/RbFuAcEeTmI/AAAAAAAAACk/1-MppiSpnPM/s72-c/Pill.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-01-19-image-0000.jpg'
 title: New Blog Name
 ---
 

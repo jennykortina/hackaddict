@@ -9,7 +9,7 @@ redirect_from: /2007/08/review-anywherefm.html
 tags:
 - reviewed
 - website
-thumbnail: http://bp0.blogger.com/_3FPfpXHnCwA/RrEqPxKaItI/AAAAAAAAAFU/GKNXxnySTHw/s72-c/Picture+2.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-02-image-0000.png'
 title: 'Review: anywhere.fm'
 ---
 

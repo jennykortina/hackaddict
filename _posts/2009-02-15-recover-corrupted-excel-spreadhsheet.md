@@ -8,7 +8,7 @@ modified_time: '2009-02-15T21:58:41.180-05:00'
 redirect_from: /2009/02/recover-corrupted-excel-spreadhsheet.html
 tags:
 - tutorial
-thumbnail: http://3.bp.blogspot.com/_Gj3xvk4ycVs/SZjEtYNj_NI/AAAAAAAAAl0/BwY2tQYtmCo/s72-c/window.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2009-02-15-image-0000.png'
 title: Recover Corrupted Excel Spreadhsheet Files Using Only Excel for Free
 ---
 

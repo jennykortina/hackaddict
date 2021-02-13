@@ -8,7 +8,7 @@ modified_time: '2007-01-16T00:35:48.076-05:00'
 redirect_from: /2007/01/quick-tip-firefox-splash-extension.html
 tags:
 - tip
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/RaxkKcEeTkI/AAAAAAAAACM/5eqODEBaFJ4/s72-c/firefox.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-01-16-image-0000.png'
 title: 'Quick Tip: Firefox Splash Extension'
 ---
 

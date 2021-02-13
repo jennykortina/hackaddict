@@ -10,7 +10,7 @@ tags:
 - nix
 - mac
 - tip
-thumbnail: http://bp3.blogger.com/_3FPfpXHnCwA/Ri6p1lkNRJI/AAAAAAAAABI/lxC2Smw2awk/s72-c/amazon-keys.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-04-24-image-0000.jpg'
 title: How to Use JungleDisk, Amazon S3, and rsync to Backup Your OS X Home Directory
 ---
 

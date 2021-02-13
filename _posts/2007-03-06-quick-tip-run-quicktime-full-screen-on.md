@@ -9,7 +9,7 @@ redirect_from: /2007/03/quick-tip-run-quicktime-full-screen-on.html
 tags:
 - mac
 - tip
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/Rey3DYPxbcI/AAAAAAAAAIY/L0MRunmnfEM/s72-c/ishot-1.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-06-image-0000.jpg'
 title: 'MicroTip:  Run Quicktime Full Screen on a Secondary Display'
 ---
 

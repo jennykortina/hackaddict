@@ -7,7 +7,7 @@ layout: post
 modified_time: '2007-08-29T11:50:14.493-04:00'
 redirect_from: /2007/08/new-blogger-feature-videos.html
 tags: null
-thumbnail: http://bp1.blogger.com/_Gj3xvk4ycVs/RtWVqSy9ojI/AAAAAAAAARo/16smYjhiAG0/s72-c/ishot-5.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-29-image-0000.jpg'
 title: 'New Blogger Feature: Videos'
 ---
 

@@ -8,7 +8,7 @@ modified_time: '2007-08-07T08:31:51.275-04:00'
 redirect_from: /2007/08/ical-mobile-or-closest-thing-i-could.html
 tags:
 - mobile
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/RrhlNugnQFI/AAAAAAAAAQI/9J8WZjXyZkY/s72-c/MonthView.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-07-image-0000.jpg'
 title: iCal Mobile (or the closest thing I could get...)
 ---
 

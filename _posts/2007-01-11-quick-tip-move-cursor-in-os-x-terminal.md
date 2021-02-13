@@ -9,7 +9,7 @@ redirect_from: /2007/01/quick-tip-move-cursor-in-os-x-terminal.html
 tags:
 - mac
 - tip
-thumbnail: http://bp3.blogger.com/_3FPfpXHnCwA/RaZQ5tmFtVI/AAAAAAAAAAc/OrcBzB7TtiA/s72-c/Picture+1.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-01-11-image-0000.png'
 title: 'Quick Tip: Move the Cursor in OS X Terminal with your Mouse'
 ---
 

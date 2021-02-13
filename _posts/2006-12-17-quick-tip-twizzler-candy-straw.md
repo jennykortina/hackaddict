@@ -8,7 +8,7 @@ modified_time: '2006-12-30T12:20:24.003-05:00'
 redirect_from: /2006/12/quick-tip-twizzler-candy-straw.html
 tags:
 - diy
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/RYX4loVviiI/AAAAAAAAAB0/qYHUgvZSMMk/s72-c/twizz.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2006-12-17-image-0000.jpg'
 title: 'DIY Straw: Twizzler = Candy Straw'
 ---
 

@@ -9,7 +9,7 @@ redirect_from: /2007/06/tutorial-get-onscreen-keyboard-in-osx.html
 tags:
 - freeware
 - mac
-thumbnail: http://bp3.blogger.com/_Gj3xvk4ycVs/RnrJeGYfVyI/AAAAAAAAANk/JRRMEejBiT4/s72-c/ishot-2.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-22-image-0000.jpg'
 title: 'Tutorial: Get an Onscreen Keyboard in OSX'
 ---
 

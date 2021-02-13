@@ -9,7 +9,7 @@ redirect_from: /2007/08/tip-send-notes-to-your-mobile-phone.html
 tags:
 - mobile
 - tip
-thumbnail: http://bp1.blogger.com/_3FPfpXHnCwA/RsDt5RKaIuI/AAAAAAAAAFg/bHj3ZDsEpv4/s72-c/Picture+1+copy.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-24-image-0000.png'
 title: 'Tip: Send Notes to Your Mobile Phone More Easily'
 ---
 

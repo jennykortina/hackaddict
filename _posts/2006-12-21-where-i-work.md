@@ -8,7 +8,7 @@ modified_time: '2007-02-16T17:26:03.145-05:00'
 redirect_from: /2006/12/where-i-work.html
 tags:
 - diy
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/RYsJaIVviqI/AAAAAAAAADM/ZDdlu3UZyxY/s72-c/laser+1.JPG
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2006-12-21-image-0000.JPG'
 title: Where I Work
 ---
 

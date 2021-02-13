@@ -9,7 +9,7 @@ redirect_from: /2008/02/quick-tip-blogger-iphone-icon.html
 tags:
 - iphone
 - tip
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/R74HV5yhkxI/AAAAAAAAAS4/HvZcJz2sfMA/s72-c/phone.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-02-26-image-0000.png'
 title: 'Quick Tip: Blogger iPhone Icon'
 ---
 

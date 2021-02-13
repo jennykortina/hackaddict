@@ -10,7 +10,7 @@ tags:
 - firefox
 - software
 - screencast
-thumbnail: http://bp0.blogger.com/_3FPfpXHnCwA/R11gDwI-ugI/AAAAAAAAAG8/TK9K_dhdcjU/s72-c/snipfire.png
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-12-10-image-0000.png'
 title: Snipfire Beta Firefox Plugin - Text Snippets and Autocomplete for Firefox
 ---
 

@@ -10,7 +10,7 @@ tags:
 - freeware
 - mac
 - tip
-thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/RfqZ3n-ugyI/AAAAAAAAAJo/ilZjMMvlm34/s72-c/ishot-1.jpg
+thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-16-image-0000.jpg'
 title: 'Quick Tip: Make iChat What it Should Be'
 ---
 
