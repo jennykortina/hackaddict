@@ -13,4 +13,4 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-02-21-image-0000.jpg'
 title: 'Micro Tip:  Create Zip Files in OS X'
 ---
 
-I have a had a mac for a while now, but it was not until the other day that I figured out how to make zip files.  It's actually super easy and the archive function is built right into the os.  Simply right click on the file you want to zip and select "Create an Archive of ...."<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5034010475493197298" src="{{ site.url }}/assets/images/2007-02-21-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>
+I have a had a mac for a while now, but it was not until the other day that I figured out how to make zip files.  It's actually super easy and the archive function is built right into the os.  Simply right click on the file you want to zip and select "Create an Archive of ...."<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5034010475493197298" src="{{ site.url }}/assets/images/posts/2007-02-21-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>
