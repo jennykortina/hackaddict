@@ -54,6 +54,8 @@ for filename in os.listdir(DIRECTORY):
                             img["style"]
                             .replace("cursor:pointer;", "")
                             .replace("cursor:hand;", "")
+                            .replace("cursor: pointer;", "")
+                            .replace("cursor: hand;", "")
                         )
                     except Exception as e:
                         print(e)
