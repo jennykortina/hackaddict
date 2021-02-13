@@ -1,0 +1,10 @@
+I"X<table>
+  <tbody>
+    <tr>
+      <td>I was having some trouble with a python app and needed to clear some cached, precompiled versions of some of the files in the app.  I had a hunch the <b>find</b> command might be useful, so I looked at the man doc.  Turns out it was very useful.<br /><br /><b>find</b> takes a few arguments.  The first (mandatory) argument is the path to search.  In my case, it was the current directory: <b>.</b> .  I also used an optional argument, an expression to filter out all files other than those ending in pyc.  Here’s what I ended up with:<br /><br />&lt;pre&gt;find . -name “*.pyc”</td>
+      <td>xargs rm&lt;/pre&gt;<br /><br />For some reason, I needed to put quotes around the <b>*.pyc</b>, otherwise I got the error:<br /><br />&lt;pre&gt;find: paths must precede expression&lt;/pre&gt;<br /><br />Also, I added <b></b></td>
+      <td>xargs rm&lt;/b&gt;, piping find’s output into xargs, which allows you to apply another method (in this case, rm) to each line.  This basically deletes anything in the current directory or any subdirectories named .pyc.  Be careful!<br /><br />Finally, a quick google search brought me to this page that has lots of other good examples: <a href="http://www.wagoneers.com/UNIX/FIND/find-usage.html">http://www.wagoneers.com/UNIX/FIND/find-usage.html</a></td>
+    </tr>
+  </tbody>
+</table>
+:ET

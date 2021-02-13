@@ -11,4 +11,4 @@ blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-85418741351823228
 blogger_orig_url: https://www.hackaddict.net/2008/04/lookupd-flushcache-in-os-x-leopard.html
 ---
 
-This is a fairly technical one, but for anyone that's done<br /><pre>sudo lookupd --flushcache</pre><br />in versions of OS X before Leopard, you may have noticed that it doesn't work in Leopard.<br /><br />The new way to clear your hosts cache is<br /><pre>sudo dscacheutil -flushcache</pre><br /><br />This is useful if you happen to be messing with the <b>/etc/hosts</b> file.
+This is a fairly technical one, but for anyone that's done<br/><pre>sudo lookupd --flushcache</pre><br/>in versions of OS X before Leopard, you may have noticed that it doesn't work in Leopard.<br/><br/>The new way to clear your hosts cache is<br/><pre>sudo dscacheutil -flushcache</pre><br/><br/>This is useful if you happen to be messing with the <b>/etc/hosts</b> file.

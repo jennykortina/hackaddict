@@ -1,0 +1,2 @@
+I"�<p>This is a fairly technical one, but for anyone that’s done<br />&lt;pre&gt;sudo lookupd –flushcache&lt;/pre&gt;<br />in versions of OS X before Leopard, you may have noticed that it doesn’t work in Leopard.<br /><br />The new way to clear your hosts cache is<br />&lt;pre&gt;sudo dscacheutil -flushcache&lt;/pre&gt;<br /><br />This is useful if you happen to be messing with the <b>/etc/hosts</b> file.</p>
+:ET
