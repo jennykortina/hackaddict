@@ -33,13 +33,14 @@ for filename in os.listdir(DIRECTORY):
                 )  # noqa
                 file_index += 1
                 print("{} => {}".format(sourceurl, newfile))
-                filepath = "../assets/images/" + newfile
+                filepath = "../assets/images/posts/" + newfile
                 try:
                     r = requests.get(sourceurl, timeout=2)
                     with open(filepath, "wb") as outfile:
                         outfile.write(r.content)
                     contents = contents.replace(
-                        sourceurl, "{{ site.url }}/assets/images/" + newfile
+                        sourceurl,
+                        "{{ site.url }}/assets/images/posts/" + newfile,  # noqa
                     )
                 except Exception as e:
                     print(e)
