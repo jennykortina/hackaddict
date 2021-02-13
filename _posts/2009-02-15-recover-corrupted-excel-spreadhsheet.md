@@ -1,14 +1,15 @@
 ---
-layout: post
-title: Recover Corrupted Excel Spreadhsheet Files Using Only Excel for Free
-date: '2009-02-15T20:33:00.007-05:00'
 author: jenny
-tags:
-- tutorial
-modified_time: '2009-02-15T21:58:41.180-05:00'
-thumbnail: http://3.bp.blogspot.com/_Gj3xvk4ycVs/SZjEtYNj_NI/AAAAAAAAAl0/BwY2tQYtmCo/s72-c/window.png
 blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-7050003286329585500
 blogger_orig_url: https://www.hackaddict.net/2009/02/recover-corrupted-excel-spreadhsheet.html
+date: '2009-02-15T20:33:00.007-05:00'
+layout: post
+modified_time: '2009-02-15T21:58:41.180-05:00'
+redirect_from: /2009/02/recover-corrupted-excel-spreadhsheet.html
+tags:
+- tutorial
+thumbnail: http://3.bp.blogspot.com/_Gj3xvk4ycVs/SZjEtYNj_NI/AAAAAAAAAl0/BwY2tQYtmCo/s72-c/window.png
+title: Recover Corrupted Excel Spreadhsheet Files Using Only Excel for Free
 ---
 
 My mom sent me an .xls file this evening that she had spent hundreds of hours working on and managed corrupt within a matter of minutes.  After a quick Google search I found lots of pay for programs to recover the file, but nothing quick and free.<br /><br /><span style="font-weight: bold;">Things to note:<br /></span><ul><li>This method can be time consuming if you have an Excel file with tons of individual workbooks.</li><li>We are only recovering the data, this method cannot recover the forumlas from cells.  Sorry!</li></ul><span style="font-weight: bold; font-style: italic;">To recover a damaged Excel .xls File using only Excel:</span><br /><ol><li>Open a new blank Excel sheet</li><li>In cell A1 paste the following formula (without the quotes): "<span style="font-weight: bold;">=</span><span style="font-weight: bold; font-style: italic;">FileName</span><span style="font-weight: bold;">!A1</span>"  Make sure you replace the <span style="font-style: italic;">FileName</span> with the name of your original document.</li><li>A window should pop up with the names of all your worksheets. Select the name of your first worksheet.  Click "Ok"<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_Gj3xvk4ycVs/SZjEtYNj_NI/AAAAAAAAAl0/BwY2tQYtmCo/s1600-h/window.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 229px;" src="http://3.bp.blogspot.com/_Gj3xvk4ycVs/SZjEtYNj_NI/AAAAAAAAAl0/BwY2tQYtmCo/s320/window.png" alt="" id="BLOGGER_PHOTO_ID_5303204845101251794" border="0" /></a></li><li>The first cell of your original damaged worksheet should now appear in cell A1 of your new worksheet. Highlight cell A1 in your new workbook</li><li>Move your mouse into the lower right hand corner of cell A1 until the mouse pointer turns into a crosshair.  When the pointer turns into a crosshair click and hold moving your mouse down and right, filling the spreadhsheet up.   Continue to drag the mouse until you have selected area that is approximately the same size as the range of cells that contain the data in your original file.<br /><object id="BLOG_video-d1a357473f65698d" class="BLOG_video_class" contentid="d1a357473f65698d" height="266" width="320"></object></li><li>After you have all of your data, highlight all the cells with data and select Edit>Copy</li><li>Open a new worksheet</li><li>Select: Edit>Paste Special>Values  This step removes references to the damaged file and only leaves the data.</li><li>Repeat the above procedure for all worksheets in the workbook.</li></ol>There you have it, recover a damaged Excel file using only Excel!  Have fun!

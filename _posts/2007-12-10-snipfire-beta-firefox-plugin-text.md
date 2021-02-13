@@ -1,16 +1,17 @@
 ---
-layout: post
-title: Snipfire Beta Firefox Plugin - Text Snippets and Autocomplete for Firefox
-date: '2007-12-10T06:57:00.001-05:00'
 author: kortina
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-4370850705284512014
+blogger_orig_url: https://www.hackaddict.net/2007/12/snipfire-beta-firefox-plugin-text.html
+date: '2007-12-10T06:57:00.001-05:00'
+layout: post
+modified_time: '2008-03-25T22:11:59.519-04:00'
+redirect_from: /2007/12/snipfire-beta-firefox-plugin-text.html
 tags:
 - firefox
 - software
 - screencast
-modified_time: '2008-03-25T22:11:59.519-04:00'
 thumbnail: http://bp0.blogger.com/_3FPfpXHnCwA/R11gDwI-ugI/AAAAAAAAAG8/TK9K_dhdcjU/s72-c/snipfire.png
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-4370850705284512014
-blogger_orig_url: https://www.hackaddict.net/2007/12/snipfire-beta-firefox-plugin-text.html
+title: Snipfire Beta Firefox Plugin - Text Snippets and Autocomplete for Firefox
 ---
 
 <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp0.blogger.com/_3FPfpXHnCwA/R11gDwI-ugI/AAAAAAAAAG8/TK9K_dhdcjU/s1600-h/snipfire.png"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://bp0.blogger.com/_3FPfpXHnCwA/R11gDwI-ugI/AAAAAAAAAG8/TK9K_dhdcjU/s400/snipfire.png" border="0" alt=""id="BLOGGER_PHOTO_ID_5142371967105415682" /></a><br /><br />I just finished a beta version of a Firefox extension I've been working on.  Snipfire! is a Firefox extension that allows you to define arbitrary auto-completion text snippets.<br /><br />Some of my favorites are simple abbreviations that expand to various parts of my contact info:<br /><br />    * email: expands to myemailaddress@gmail.com<br />    * alumni: expands to myemailaddress@alumni.upenn.edu<br />    * phone: expands to 111.222.3333<br /><br />I made Snipfire! because I got spoiled by <a href="http://macromates.com">Textmate</a>'s awesome snippets feature and wanted something similar in Firefox.  I based the code roughly on how Textmate does snippets, but my implementation is far inferior to Textmate's.<br /><br />Anyway, please give the extension a try and let me know your feedback.  (There is a screencast on the download page.)<br /><br /><p>Download: <a href="http://kortina.net/uploads/snipfire.xpi" title="Snipfire-Firefox-Extension">Snipfire-Firefox-Extension<br /><br /></a><br /><br />Download: <a href="http://kortina.net/uploads/new-snipfire-tab-trigger.tmSnippet" title="Snipfire-Creation-Textmate-Snippet">Snipfire-Creation-Textmate-Snippet</a> (as seen in the screencast)</p><br /><p>Todo:</p><br /><ul><br /><li>UI for editing snippets without XML &#8212; make this thing less complicated!</li><br /><br /><li>Make some documentation on creating / editing snippets and bundles</li><br /><li>Better default snippets bundle ( post suggestions to comments )</li><br /><li>Javascript eval snippets ( this will be dope! also, vars to access current line, current location, tab #x location.  also, tab placeholders like Textmate, if possible)</li><br /><li>More accurate scroll-fix</li><br /></ul><br /><p><a href="http://www.screencast.com/users/kortina/folders/Jing/media/e0dc4e76-a7fb-4ed9-8d76-20e6a2bb25a9"><strong>Ridiculously high-res screencast</strong></a></p>

@@ -1,16 +1,17 @@
 ---
-layout: post
-title: 'Quick Tip: Record Video Quickly and Easily with your Mac''s Webcam'
-date: '2007-03-15T09:29:00.000-04:00'
 author: jenny
+blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-6673722154261721250
+blogger_orig_url: https://www.hackaddict.net/2007/03/quick-tip-record-video-quickly-and.html
+date: '2007-03-15T09:29:00.000-04:00'
+layout: post
+modified_time: '2007-03-16T09:15:15.994-04:00'
+redirect_from: /2007/03/quick-tip-record-video-quickly-and.html
 tags:
 - freeware
 - mac
 - tip
-modified_time: '2007-03-16T09:15:15.994-04:00'
 thumbnail: http://bp0.blogger.com/_Gj3xvk4ycVs/RfgIXH-uguI/AAAAAAAAAJI/gF0RERXsP6U/s72-c/droppedImage.png
-blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-6673722154261721250
-blogger_orig_url: https://www.hackaddict.net/2007/03/quick-tip-record-video-quickly-and.html
+title: 'Quick Tip: Record Video Quickly and Easily with your Mac''s Webcam'
 ---
 
 Ok, this one is for those of us with the new intel based macs or the power pc guys who have a webcam.  iRecord is a freeware mac ap that requires only one click to start recording once<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp0.blogger.com/_Gj3xvk4ycVs/RfgIXH-uguI/AAAAAAAAAJI/gF0RERXsP6U/s1600-h/droppedImage.png"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 306px; height: 306px;" src="http://bp0.blogger.com/_Gj3xvk4ycVs/RfgIXH-uguI/AAAAAAAAAJI/gF0RERXsP6U/s320/droppedImage.png" alt="" id="BLOGGER_PHOTO_ID_5041788976213426914" border="0" /></a> launched.  Launch the program and hit the big red button: that's it, literally.<br /><br />iRecord is definately an easy way to shoot video, after clicking the red button it saves a .mov to your desktop.  You can also take still shots but dragging the image from the iRecord window directly to your desktop.<br /><br />Although the program is very easy to use, it lacks any preferences  that can bet set (ie change movie format) and the files it saves are rather large and must be converted to another format if  they are going to be shared over the web (I recommend use Quicktime Pro or <a href="http://www.zamzar.com/">Zamzar</a> depending on your needs).<br /><br />If you need a quick, lite weight recording program for you mac, but need to customize your video recording preferences than iRecord is the application for you.<br /><br /><a href="http://www.mindsprockets.com/iRecord.html">iRecord can be downloaded here.</a>

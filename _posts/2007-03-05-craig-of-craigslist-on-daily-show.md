@@ -1,13 +1,14 @@
 ---
-layout: post
-title: Craig of Craigslist on The Daily Show
-date: '2007-03-05T15:33:00.000-05:00'
 author: jenny
-tags:
-- craigslist
-modified_time: '2007-03-05T15:34:51.596-05:00'
 blogger_id: tag:blogger.com,1999:blog-5518298822864690168.post-5048315630692267720
 blogger_orig_url: https://www.hackaddict.net/2007/03/craig-of-craigslist-on-daily-show.html
+date: '2007-03-05T15:33:00.000-05:00'
+layout: post
+modified_time: '2007-03-05T15:34:51.596-05:00'
+redirect_from: /2007/03/craig-of-craigslist-on-daily-show.html
+tags:
+- craigslist
+title: Craig of Craigslist on The Daily Show
 ---
 
 <embed flashvars="config=http://www.comedycentral.com/motherload/xml/data_synd.jhtml?vid=82750%26myspace=false" src="http://www.comedycentral.com/motherload/syndicated_player/index.jhtml" quality="high" bgcolor="#006699" name="comedy_player" allowscriptaccess="always" allownetworking="external" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" height="325" width="340">
