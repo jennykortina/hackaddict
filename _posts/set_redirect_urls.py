@@ -12,7 +12,7 @@ for filename in os.listdir(DIRECTORY):
             post = frontmatter.load(f)
             blogger_orig_url = post.metadata["blogger_orig_url"]
             post.metadata["redirect_from"] = blogger_orig_url.split(
-                "https://www.hackaddict.net/"
+                "https://www.hackaddict.net"
             )[1]
             new_content = frontmatter.dumps(post)
 
