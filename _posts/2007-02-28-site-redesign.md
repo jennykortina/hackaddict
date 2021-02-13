@@ -10,4 +10,4 @@ tags: null
 title: Site Redesign...
 ---
 
-Hey guys!  It's time for hackaddict to get another face lift.  I've been getting a lot of comments about it being too hard to read with the dark background.  People were also saying the site was "too busy" so please let me know if this new layout is more friendly.<br /><br />Please leave comments, thoughts, and ideas about the redesign!  Thanks
+Hey guys!  It's time for hackaddict to get another face lift.  I've been getting a lot of comments about it being too hard to read with the dark background.  People were also saying the site was "too busy" so please let me know if this new layout is more friendly.<br/><br/>Please leave comments, thoughts, and ideas about the redesign!  Thanks

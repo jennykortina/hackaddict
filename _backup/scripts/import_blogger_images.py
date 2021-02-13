@@ -54,7 +54,7 @@ def remove_href_wrapping_images(contents):
 
 
 for filename in os.listdir(DIRECTORY):
-    if filename.endswith(".html"):
+    if filename.endswith(".md"):
         date_prefix = DATE_RE.search(filename).group("date")
         fname = os.path.join(DIRECTORY, filename)
         with open(fname, "r") as f:

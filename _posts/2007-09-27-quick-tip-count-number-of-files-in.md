@@ -13,4 +13,4 @@ tags:
 title: 'Quick Tip: Count the Number of Files in a Directory'
 ---
 
-From the command line (terminal in OS X), go to the directory and execute this line:<br /><b>ls -1 | wc -l</b><br /><br /><b>ls -1</b> will list files 1 per line and piping into <b>wc -l</b> will count the number of lines output.
+From the command line (terminal in OS X), go to the directory and execute this line:<br/><b>ls -1 | wc -l</b><br/><br/><b>ls -1</b> will list files 1 per line and piping into <b>wc -l</b> will count the number of lines output.
