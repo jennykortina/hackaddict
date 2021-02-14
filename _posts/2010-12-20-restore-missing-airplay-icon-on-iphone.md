@@ -14,10 +14,22 @@ title: Restore Missing Airplay Icon on iPhone and iPad
 My Airplay icon went missing from both my iPhone and iPad. Luckily it's an easy, but weird fix to get it back. You need to change your phone language from English -&gt; French (or any other language) -&gt; English. To do this:
 
 <ol>
-  <li>Settings&gt;General&gt;International&gt;Language</li>
-  <li>Select "Francais" and click done.  iPad/iPhone/iPod will change over to new language.</li>
-  <li>Repeat steps one and two but change device back to English.</li>
-  <li>Settings&gt;General&gt;International&gt;Keyboards</li><li>Click "edit"</li>
-  <li>Delete the non-English keyboard</li>
+   
+<li>Settings&gt;General&gt;International&gt;Language </li>
+
+   
+<li>Select "Francais" and click done.  iPad/iPhone/iPod will change over to new language. </li>
+
+   
+<li>Repeat steps one and two but change device back to English. </li>
+
+   
+<li>Settings&gt;General&gt;International&gt;Keyboards </li>
+ 
+<li>Click "edit" </li>
+
+   
+<li>Delete the non-English keyboard </li>
+
 </ol>
 <p>Now go try to play media.  Your Airplay icon will be back!</p>

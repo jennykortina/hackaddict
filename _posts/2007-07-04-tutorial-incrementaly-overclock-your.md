@@ -40,6 +40,20 @@ Drag the .exe somewhere onto your phone (I put mine in the \windows\program file
 
 Configuring batterstatus plus:
 
-<ol><li>Settings&gt;Today&gt;BatteryStatus - click options on the right hand side</li><li>Go to the Omap tab and make sure "overclock to speed" is checked.  I also check "overlcok on wakeup" and "overclock after reboot"</li><li>go to the cpu scaler tab. 
+<ol> 
+<li>Settings&gt;Today&gt;BatteryStatus - click options on the right hand side </li>
+ 
+<li>Go to the Omap tab and make sure "overclock to speed" is checked.  I also check "overlcok on wakeup" and "overclock after reboot" </li>
+ 
+<li>go to the cpu scaler tab. 
 
-</li><ol><li>Min=81mhz</li><li>Org=195mhz</li><li>Max=221mhz (can safely go up to 231 but i keep it there to conserve batteries)</li><li>Boost=234mhz (can safely go up to 286 but i keep it there to conserve batteries)</li></ol></ol>I highly recommend installing batter Status Plus even if you can't overclock your phone b/c it has a lot of other great options.
+ </li>
+<ol> 
+<li>Min=81mhz </li>
+ 
+<li>Org=195mhz </li>
+ 
+<li>Max=221mhz (can safely go up to 231 but i keep it there to conserve batteries) </li>
+ 
+<li>Boost=234mhz (can safely go up to 286 but i keep it there to conserve batteries) </li>
+</ol></ol>I highly recommend installing batter Status Plus even if you can't overclock your phone b/c it has a lot of other great options.

@@ -67,89 +67,240 @@ Installing the utilities, programs, and skin using sync software:
 
  Utilities: 
 
-<ol><li><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9655156b-356b-4a2c-857c-e62f50ae9a55&amp;displaylang=en">.net Framework</a> - needed to run many of the applications ie Text Message Threader and Weather
+<ol> 
+<li><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9655156b-356b-4a2c-857c-e62f50ae9a55&amp;displaylang=en">.net Framework</a> - needed to run many of the applications ie Text Message Threader and Weather
 
-</li><ol><li>The cab is located in: iPhone\Programs\netframework.cab
+ </li>
+<ol> 
+<li>The cab is located in: iPhone\Programs\netframework.cab
 
-</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software
+ </li>
+ 
+<li>Drag the Cab into the "My Documents" folder on your phone using sync software
 
-</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>You must restart your device to complete the installation. Hit ok.
+ </li>
+ 
+<li>Navigate to the cab on your phone and install it onto your phone by clicking on it </li>
+ 
+<li>You must restart your device to complete the installation. Hit ok.
 
-</li></ol><li><a href="http://www.phm.lu/Products/PocketPC/RegEdit/">PHM Registry Editor</a> (optional software that I used to make my phone automatically update it's time using cell towers)
+ </li>
+</ol> 
+<li><a href="http://www.phm.lu/Products/PocketPC/RegEdit/">PHM Registry Editor</a> (optional software that I used to make my phone automatically update it's time using cell towers)
 
-</li><ol><li>Drag the Cab into the "My Documents" folder on your phone using sync software
+ </li>
+<ol> 
+<li>Drag the Cab into the "My Documents" folder on your phone using sync software
 
-</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>Open PHM Registry Editor</li><li>Navigate to "HKEY_LOCAL_MACHINE\SOFTWARE\OEM\Phone Setting</li><li>Change the "ShowTimeZone" value from 0 to 1</li><li>Now navigate to Settings\Phone\Time Zones tab. Check the "Automatic change time zone and clock." box. Your phone will now automatically set the time for you.
+ </li>
+ 
+<li>Navigate to the cab on your phone and install it onto your phone by clicking on it </li>
+ 
+<li>Open PHM Registry Editor </li>
+ 
+<li>Navigate to "HKEY_LOCAL_MACHINE\SOFTWARE\OEM\Phone Setting </li>
+ 
+<li>Change the "ShowTimeZone" value from 0 to 1 </li>
+ 
+<li>Now navigate to Settings\Phone\Time Zones tab. Check the "Automatic change time zone and clock." box. Your phone will now automatically set the time for you.
 
-</li></ol></ol> Programs (In order from top to bottom and left to right): 
+ </li>
+</ol></ol> Programs (In order from top to bottom and left to right): 
 
-<ol><li>SMS Icon: <a href="http://benhirashima.com/software/">Text Man</a> - Text Message threader</li><ol><li>The cab is located in: iPhone\Programs\TxtMan.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software
+<ol> 
+<li>SMS Icon: <a href="http://benhirashima.com/software/">Text Man</a> - Text Message threader </li>
+<ol> 
+<li>The cab is located in: iPhone\Programs\TxtMan.cab </li>
+ 
+<li>Drag the Cab into the "My Documents" folder on your phone using sync software
 
-</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>Navigate to the Windows\Startup directory on your phone and delete the "TxtMan.ink" Although it's cool, we don't want TextMan starting every time we turn on our phones.
+ </li>
+ 
+<li>Navigate to the cab on your phone and install it onto your phone by clicking on it </li>
+ 
+<li>Navigate to the Windows\Startup directory on your phone and delete the "TxtMan.ink" Although it's cool, we don't want TextMan starting every time we turn on our phones.
 
-</li></ol><li>Calendar Icon: Left Alone but going to be Google calendar
+ </li>
+</ol> 
+<li>Calendar Icon: Left Alone but going to be Google calendar
 
-</li><li>Photos Icon: Left Alone</li><li>Camera Icon: Left Alone</li><li>Calculator: <a href="http://www.smartphone-freeware.com/download-gcalc-v1-0.html">Gcalc</a>
+ </li>
+ 
+<li>Photos Icon: Left Alone </li>
+ 
+<li>Camera Icon: Left Alone </li>
+ 
+<li>Calculator: <a href="http://www.smartphone-freeware.com/download-gcalc-v1-0.html">Gcalc</a>
 
-</li><ol><li>The cab is located in: iPhone\Programs\gCalc\gcalc.CAB</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software
+ </li>
+<ol> 
+<li>The cab is located in: iPhone\Programs\gCalc\gcalc.CAB </li>
+ 
+<li>Drag the Cab into the "My Documents" folder on your phone using sync software
 
-</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li></ol><li>Charts (on my build) - is directed to the "File Explorer" if you want to change the path edit the
+ </li>
+ 
+<li>Navigate to the cab on your phone and install it onto your phone by clicking on it </li>
+</ol> 
+<li>Charts (on my build) - is directed to the "File Explorer" if you want to change the path edit the
 
-</li><li>Maps Icon: Google Maps Mobile
+ </li>
+ 
+<li>Maps Icon: Google Maps Mobile
 
-</li><ol><li>Use your built in web browser, ie, to navigate to: www.google.com/gmm </li><li>Select "Download Google Maps"
+ </li>
+<ol> 
+<li>Use your built in web browser, ie, to navigate to: www.google.com/gmm  </li>
+ 
+<li>Select "Download Google Maps"
 
-</li><li>Select "Open File after Download"</li></ol><li>Weather Icon: <a href="http://www.pocketpcfreeware.com/en/index.php?soft=1626">Weather Watcher Mobile</a>
+ </li>
+ 
+<li>Select "Open File after Download" </li>
+</ol> 
+<li>Weather Icon: <a href="http://www.pocketpcfreeware.com/en/index.php?soft=1626">Weather Watcher Mobile</a>
 
-</li><ol><li>The cab is located in: iPhone\Programs\WWM105.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software
+ </li>
+<ol> 
+<li>The cab is located in: iPhone\Programs\WWM105.cab </li>
+ 
+<li>Drag the Cab into the "My Documents" folder on your phone using sync software
 
-</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li></ol><li>Notes: Left Alone
+ </li>
+ 
+<li>Navigate to the cab on your phone and install it onto your phone by clicking on it </li>
+</ol> 
+<li>Notes: Left Alone
 
-</li><li>Clock Icon: Left Alone</li><li>Settings Icon: Left Alone</li><li><a href="http://ppcgeeks.com/youtube-mobile-a-how-to-for-treo-6700-etc-t6125,highlight,youtube.html">Youtube Icon: </a>Stream Youtube through ie using HTC touch streaming media player.
+ </li>
+ 
+<li>Clock Icon: Left Alone </li>
+ 
+<li>Settings Icon: Left Alone </li>
+ 
+<li><a href="http://ppcgeeks.com/youtube-mobile-a-how-to-for-treo-6700-etc-t6125,highlight,youtube.html">Youtube Icon: </a>Stream Youtube through ie using HTC touch streaming media player.
 
 The files are located in: iPhone\Programs\Youtube
 
 WM5 Users:
 
-<ol><li>Copy contents of the Step 1 folder into your \Windows directory of your phone.
+<ol> 
+<li>Copy contents of the Step 1 folder into your \Windows directory of your phone.
 
-</li><li>Copy Step#2- Streaming_210.cab to your device and install to main memory
+ </li>
+ 
+<li>Copy Step#2- Streaming_210.cab to your device and install to main memory
 
-</li><li>Soft-reset
+ </li>
+ 
+<li>Soft-reset
 
-</li><li>Copy Step #3-HTC_Streaming_Media.cab to your device and install to main memory</li></ol>WM6 Users:
+ </li>
+ 
+<li>Copy Step #3-HTC_Streaming_Media.cab to your device and install to main memory </li>
+</ol>WM6 Users:
 
-</li><ol><li>Copy Step #3-HTC_Streaming_Media.cab to your device and install to main memory</li><li>Soft reset</li><li>Enjoy!
+ </li>
+<ol> 
+<li>Copy Step #3-HTC_Streaming_Media.cab to your device and install to main memory </li>
+ 
+<li>Soft reset </li>
+ 
+<li>Enjoy!
 
-</li></ol><li>Phone Icon: <a href="http://www.pocketcm.com/">Contact Manager</a> - Touch Screen Only - Changes your contact list to "Flick and Scroll" menu</li><ol><li><a href="http://www.pocketcm.com/dl/ContactManager-0.10.zip">Download a zip of the program here.</a>
+ </li>
+</ol> 
+<li>Phone Icon: <a href="http://www.pocketcm.com/">Contact Manager</a> - Touch Screen Only - Changes your contact list to "Flick and Scroll" menu </li>
+<ol> 
+<li><a href="http://www.pocketcm.com/dl/ContactManager-0.10.zip">Download a zip of the program here.</a>
 
-</li><li>Unzip the the downloaded program
+ </li>
+ 
+<li>Unzip the the downloaded program
 
-</li><li>Drag the ENTIRE Contact Manager folder from your computer to your phone. I put it in the Program Files directory.
+ </li>
+ 
+<li>Drag the ENTIRE Contact Manager folder from your computer to your phone. I put it in the Program Files directory.
 
-</li><li>Make sure that your contacts are stored on your phone and not on your sim card. If they are not on your phone they will not be displayed by iContact.</li><ol><li>On my phone I navigated to Programs\Sim Manager. From there I chose: Tools&gt;Select All, Tools&gt;Copy to Contacts</li></ol></ol><li>Mail Icon: gmail Mobile</li><ol><li>Use your built in web browser, ie, to navigate to: gmail.com/app
+ </li>
+ 
+<li>Make sure that your contacts are stored on your phone and not on your sim card. If they are not on your phone they will not be displayed by iContact. </li>
+<ol> 
+<li>On my phone I navigated to Programs\Sim Manager. From there I chose: Tools&gt;Select All, Tools&gt;Copy to Contacts </li>
+</ol></ol> 
+<li>Mail Icon: gmail Mobile </li>
+<ol> 
+<li>Use your built in web browser, ie, to navigate to: gmail.com/app
 
-</li><li>Select "Download Gmail"</li><li>Install Midlet? "Yes"</li></ol><li>Internet Icon: Opera Mini 4 Beta</li><ol><li>Use your built in web browser, ie, to navigate to: mini.opera.com/beta </li><li>Select "Download Opera Mini"</li><li>Install Midlet? "Yes"</li></ol><li>Ipod Icon: <a href="http://picard.exceed.hu/tcpmp/test/">TCPMP</a>  <a href="http://www.videolan.org/vlc/download-wince.html"></a></li><ol><li>The cab is located in: iPhone\Programs\tcpmp.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software
+ </li>
+ 
+<li>Select "Download Gmail" </li>
+ 
+<li>Install Midlet? "Yes" </li>
+</ol> 
+<li>Internet Icon: Opera Mini 4 Beta </li>
+<ol> 
+<li>Use your built in web browser, ie, to navigate to: mini.opera.com/beta  </li>
+ 
+<li>Select "Download Opera Mini" </li>
+ 
+<li>Install Midlet? "Yes" </li>
+</ol> 
+<li>Ipod Icon: <a href="http://picard.exceed.hu/tcpmp/test/">TCPMP</a>  <a href="http://www.videolan.org/vlc/download-wince.html"></a> </li>
+<ol> 
+<li>The cab is located in: iPhone\Programs\tcpmp.cab </li>
+ 
+<li>Drag the Cab into the "My Documents" folder on your phone using sync software
 
-</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>If you ever need codec plugins, ie for divx, you can find them <a href="http://picard.exceed.hu/tcpmp/test/">here</a>.
+ </li>
+ 
+<li>Navigate to the cab on your phone and install it onto your phone by clicking on it </li>
+ 
+<li>If you ever need codec plugins, ie for divx, you can find them <a href="http://picard.exceed.hu/tcpmp/test/">here</a>.
 
-</li></ol></ol>Now that you have all the programs installed go ahead and do a soft reset and then we will install the skin.
+ </li>
+</ol></ol>Now that you have all the programs installed go ahead and do a soft reset and then we will install the skin.
 
 
 
  Installing the Skin: 
 
-<ol><li>Today:
+<ol> 
+<li>Today:
 
-</li><ol><li>Start by removing everything from your home screen:</li><ol><li>Settings&gt;Today</li><li>Remove everything from your Today Screen</li></ol><li>Next copy the skin from: iPhone\Skin\black.tsk to your My Documents folder on your phone.</li><li>Go to Settings&gt;Personal&gt;Today and apply the theme.
+ </li>
+<ol> 
+<li>Start by removing everything from your home screen: </li>
+<ol> 
+<li>Settings&gt;Today </li>
+ 
+<li>Remove everything from your Today Screen </li>
+</ol> 
+<li>Next copy the skin from: iPhone\Skin\black.tsk to your My Documents folder on your phone. </li>
+ 
+<li>Go to Settings&gt;Personal&gt;Today and apply the theme.
 
-</li></ol><li>RL Today
+ </li>
+</ol> 
+<li>RL Today
 
-</li><ol><li>The cab is located in: iPhone\Skin\rlToday\rlToday.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>Now take the iPhone file and put it in the rlToday file
+ </li>
+<ol> 
+<li>The cab is located in: iPhone\Skin\rlToday\rlToday.cab </li>
+ 
+<li>Drag the Cab into the "My Documents" folder on your phone using sync software </li>
+ 
+<li>Navigate to the cab on your phone and install it onto your phone by clicking on it </li>
+ 
+<li>Now take the iPhone file and put it in the rlToday file
 
 under Programs.
 
-</li><li>rlToday should now be on the home screen. Click and hold on the home screen until an "Option" button appears. Click on it.</li><li>Select iPhone as your skin and then set up all your programs under the Applications tab, using the pictures in the iPhone folder for the icons. Make sure you skip
+ </li>
+ 
+<li>rlToday should now be on the home screen. Click and hold on the home screen until an "Option" button appears. Click on it. </li>
+ 
+<li>Select iPhone as your skin and then set up all your programs under the Applications tab, using the pictures in the iPhone folder for the icons. Make sure you skip
 
 the calendar, and phone applications. Those are built into the .xml skin file (they are animated or updated via registry references). So, from top to bottom your programs and icons should be:
 
@@ -157,41 +308,124 @@ the calendar, and phone applications. Those are built into the .xml skin file (t
 
 
 
-<ul><li> SMS:  blank.png,
+ 
 
-</li><li> Photos:  rl_photo.png, \Windows\pimg.exe
+<ul> 
+<li> SMS:  blank.png,
 
-</li><li> Camera:  rl_cam.png, \Windows\Camera.exe
+ </li>
+ 
+<li> Photos:  rl_photo.png, \Windows\pimg.exe
 
-</li><li> Youtube:  rl_youtube.png, \Windows\iexplore.exe Command Line: http://m.youtube.com</li><li> Finder:  rl_finder.png, \Windows\fexplore.exe
+ </li>
+ 
+<li> Camera:  rl_cam.png, \Windows\Camera.exe
 
-</li><li> Maps:  rl_maps.png, \Program Files\GoogleMaps\GoogleMaps.exe
+ </li>
+ 
+<li> Youtube:  rl_youtube.png, \Windows\iexplore.exe Command Line: http://m.youtube.com </li>
+ 
+<li> Finder:  rl_finder.png, \Windows\fexplore.exe
 
-</li><li> Weather:  blank.png, \Program Files\Weather Watcher\WeatherWatcher.exe
+ </li>
+ 
+<li> Maps:  rl_maps.png, \Program Files\GoogleMaps\GoogleMaps.exe
 
-</li><li> Calculator:  rl_cal.png, \Program Files\gCalc|gCalc.exe</li><li> Notes:  rl_notes.png, \Windows\notes.ese
+ </li>
+ 
+<li> Weather:  blank.png, \Program Files\Weather Watcher\WeatherWatcher.exe
 
-</li><li> Settings:  rl_settings.png, \Windows\CommManger.exe (that's a personal preference)
+ </li>
+ 
+<li> Calculator:  rl_cal.png, \Program Files\gCalc|gCalc.exe </li>
+ 
+<li> Notes:  rl_notes.png, \Windows\notes.ese
 
-</li><li> Phone:  blank.png, \Program Files\Contact Manager-.10\ContactManager.exe
+ </li>
+ 
+<li> Settings:  rl_settings.png, \Windows\CommManger.exe (that's a personal preference)
 
-</li><li> Mail:  rl_mail.png, \My Documents\My Midlets\Gmail.ink
+ </li>
+ 
+<li> Phone:  blank.png, \Program Files\Contact Manager-.10\ContactManager.exe
 
-</li><li> Web:  rl_navi.png, \My Documents\My Midlets\Opera.ink</li><li> Media:  rl_ipod.png, \Program Files\TCPMP\player.exe
+ </li>
+ 
+<li> Mail:  rl_mail.png, \My Documents\My Midlets\Gmail.ink
+
+ </li>
+ 
+<li> Web:  rl_navi.png, \My Documents\My Midlets\Opera.ink </li>
+ 
+<li> Media:  rl_ipod.png, \Program Files\TCPMP\player.exe
 
 
 
 
 
-</li></ul></li></ol><li>Get rid of the UGLY scroll bar:</li><ol><li>Windows&gt;Startup
+ </li>
+</ul> </li>
+</ol> 
+<li>Get rid of the UGLY scroll bar: </li>
+<ol> 
+<li>Windows&gt;Startup
 
-</li><li>Delete/move the battery and connections tray programs.</li></ol><li>Wisbar Advance</li><ol><li>The cab is located in: iPhone\Skin\Wisbar Advance 2\WisbarAdvance2.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>Copy the the included theme from: iPhone\Skin\Wisbar Advance 2\iPhone to: the Wisbar themes folder in Programs&gt;Lakeridge&gt;Wisbar Advance</li><li>Go to Start&gt;Programs&gt;Wisbar Advance and open up the settings. Apply the theme and exit out of the settings manager.</li></ol><li>VJ Toggle - make the softkeys vanish!</li><ol><li>The cab is located in: iPhone\Skin\VJToggleToday\VJToggleToday.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>Probably need to do a soft reset to see results
+ </li>
+ 
+<li>Delete/move the battery and connections tray programs. </li>
+</ol> 
+<li>Wisbar Advance </li>
+<ol> 
+<li>The cab is located in: iPhone\Skin\Wisbar Advance 2\WisbarAdvance2.cab </li>
+ 
+<li>Drag the Cab into the "My Documents" folder on your phone using sync software </li>
+ 
+<li>Navigate to the cab on your phone and install it onto your phone by clicking on it </li>
+ 
+<li>Copy the the included theme from: iPhone\Skin\Wisbar Advance 2\iPhone to: the Wisbar themes folder in Programs&gt;Lakeridge&gt;Wisbar Advance </li>
+ 
+<li>Go to Start&gt;Programs&gt;Wisbar Advance and open up the settings. Apply the theme and exit out of the settings manager. </li>
+</ol> 
+<li>VJ Toggle - make the softkeys vanish! </li>
+<ol> 
+<li>The cab is located in: iPhone\Skin\VJToggleToday\VJToggleToday.cab </li>
+ 
+<li>Drag the Cab into the "My Documents" folder on your phone using sync software </li>
+ 
+<li>Navigate to the cab on your phone and install it onto your phone by clicking on it </li>
+ 
+<li>Probably need to do a soft reset to see results
 
-</li></ol><li>Installing the Dialer:</li><ol><li>The cab is located in: iPhone\Skin\Dialpad\iphone.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software
+ </li>
+</ol> 
+<li>Installing the Dialer: </li>
+<ol> 
+<li>The cab is located in: iPhone\Skin\Dialpad\iphone.cab </li>
+ 
+<li>Drag the Cab into the "My Documents" folder on your phone using sync software
 
-</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>You must restart your device to complete the installation. Hit ok</li></ol><li>Installing the Keyboard and skin:</li><ol><li>The cab is located in: iPhone\Skin\Keyboard\HappyTappingKeyboard.arm.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software
+ </li>
+ 
+<li>Navigate to the cab on your phone and install it onto your phone by clicking on it </li>
+ 
+<li>You must restart your device to complete the installation. Hit ok </li>
+</ol> 
+<li>Installing the Keyboard and skin: </li>
+<ol> 
+<li>The cab is located in: iPhone\Skin\Keyboard\HappyTappingKeyboard.arm.cab </li>
+ 
+<li>Drag the Cab into the "My Documents" folder on your phone using sync software
 
-</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>Copy the Skin folder from: iPhone\Skin\Keyboard\Skin to My Documents on your phone.</li><li>Go to Settings&gt;Personal&gt;Input and select Happy Tapping Keyboard.</li><li>Click Options and locate the QVGA files in KeyboardSkin. P is for Portrait and L is for Landscape.</li></ol></ol> Finally, we're almost done! 
+ </li>
+ 
+<li>Navigate to the cab on your phone and install it onto your phone by clicking on it </li>
+ 
+<li>Copy the Skin folder from: iPhone\Skin\Keyboard\Skin to My Documents on your phone. </li>
+ 
+<li>Go to Settings&gt;Personal&gt;Input and select Happy Tapping Keyboard. </li>
+ 
+<li>Click Options and locate the QVGA files in KeyboardSkin. P is for Portrait and L is for Landscape. </li>
+</ol></ol> Finally, we're almost done! 
 
 
 

@@ -22,11 +22,31 @@ I recently purchased a 1 TB Time Capsule and was very excited to get home to hoo
 
 Here are some tweaks I've done:
 
-<ul><li>Reduce Interference:
+ 
 
-</li><ul><li>Connect the Time Capsule directly to your router with a LAN cable, then log into it via the Airport utility.  Click on the manual set up button, then the wireless tab to disable wireless and give her a reboot.  When the Time Capsule restarts it should now say "Wired" in the connection status. - Please note, I live in an apartment with 20 or so wireless networks around me, which was causing major interference.  After hard wiring the Time Capsule I no longer have drop outs.</li><li>Rename your Time Capsule to a single word, mine is named Tera. Don't use weird symbols either, straight up letters and numbers here folks.</li></ul><li>Speed her up!
+<ul> 
+<li>Reduce Interference:
 
-</li><ul><li>Disable searchlight indexing.  Go into system preferences, spotlight, privacy and add your time capsule to the list "Prevent Spolight from Searching these Locations"</li></ul><ul><li>Following suite, I removed the Time capsule from Quicksilver's catalog - before I did this Quicksilver would crash or freeze when I tried to use it when my Time Capsule was connected, now I can use both in harmony</li></ul></ul>After performing all my tweaks, I can now stream iTunes music and videos and quickly update my iPhone and iPods!  I haven't had any disconnects either.
+ </li>
+ 
+
+<ul> 
+<li>Connect the Time Capsule directly to your router with a LAN cable, then log into it via the Airport utility.  Click on the manual set up button, then the wireless tab to disable wireless and give her a reboot.  When the Time Capsule restarts it should now say "Wired" in the connection status. - Please note, I live in an apartment with 20 or so wireless networks around me, which was causing major interference.  After hard wiring the Time Capsule I no longer have drop outs. </li>
+ 
+<li>Rename your Time Capsule to a single word, mine is named Tera. Don't use weird symbols either, straight up letters and numbers here folks. </li>
+</ul> 
+<li>Speed her up!
+
+ </li>
+ 
+
+<ul> 
+<li>Disable searchlight indexing.  Go into system preferences, spotlight, privacy and add your time capsule to the list "Prevent Spolight from Searching these Locations" </li>
+</ul> 
+
+<ul> 
+<li>Following suite, I removed the Time capsule from Quicksilver's catalog - before I did this Quicksilver would crash or freeze when I tried to use it when my Time Capsule was connected, now I can use both in harmony </li>
+</ul></ul>After performing all my tweaks, I can now stream iTunes music and videos and quickly update my iPhone and iPods!  I haven't had any disconnects either.
 
 
 

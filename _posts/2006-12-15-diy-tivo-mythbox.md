@@ -13,13 +13,27 @@ title: DIY Tivo - Mythbox
 
 <p class="MsoNormal" style="font-family:arial;"> Today I'm going to fill you guys in on how to build your own Tivo aka Mythbox.     It's a great Christmas present ~ people love DIY stuff and it's a freakin DVR!  Some advantages of a Mythbox over a Tivo include:  
 
- </p><ul><li>No monthly fees!!!
+ </p> 
 
-</li><li>Easy to control what does/does not get recorded (Skip commercials)  </li><li>Has web interface, weather, and mame (old school game emulator)</li><li>Streams movies</li><li>Simple DVD creation
+<ul> 
+<li>No monthly fees!!!
 
-</li><li>Can be networked so the whole house can easily use it
+ </li>
+ 
+<li>Easy to control what does/does not get recorded (Skip commercials)   </li>
+ 
+<li>Has web interface, weather, and mame (old school game emulator) </li>
+ 
+<li>Streams movies </li>
+ 
+<li>Simple DVD creation
 
-</li></ul><p class="MsoNormal" face="arial">1.  If you don't have an old computer that you can use you can build a new one for under $300 on <a href="http://www.buy.com/">Buy.com</a> right now:  (If you do have an old PC lying around skip to step 3). 
+ </li>
+ 
+<li>Can be networked so the whole house can easily use it
+
+ </li>
+</ul><p class="MsoNormal" face="arial">1.  If you don't have an old computer that you can use you can build a new one for under $300 on <a href="http://www.buy.com/">Buy.com</a> right now:  (If you do have an old PC lying around skip to step 3). 
 
 
 

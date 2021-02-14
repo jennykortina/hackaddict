@@ -24,11 +24,23 @@ I have been using iChat for about a month.  Although it's a great program and ha
 
 The added features are very similar to ones found in more robust chat clients like Trillian for windows or Audium for OS X.   Some of the features I like are (<a href="http://www.ksuther.com/chax/features.php">the full list can be found here</a>):
 
-<ul><li>Tabbed windows</li><li>Growl notifications
+ 
 
-</li><li>Auto accept file transfers
+<ul> 
+<li>Tabbed windows </li>
+ 
+<li>Growl notifications
 
-</li><li>Auto accept text invitations</li><li>Auto away message</li></ul> Simply put, <a href="http://www.ksuther.com/chax/">Chax</a> adds features that iChat should have built in and is a must have for anyone who uses  iChat as your main chat client.
+ </li>
+ 
+<li>Auto accept file transfers
+
+ </li>
+ 
+<li>Auto accept text invitations </li>
+ 
+<li>Auto away message </li>
+</ul> Simply put, <a href="http://www.ksuther.com/chax/">Chax</a> adds features that iChat should have built in and is a must have for anyone who uses  iChat as your main chat client.
 
 
 

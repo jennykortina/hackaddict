@@ -38,41 +38,95 @@ Why is SEO important?
 
 On page SEO: 
 
-<ul><li>Create unique, accurate page titles (Pages  2-4 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>)
+ 
 
-</li><li>Make use of "description" meta tag (Pages  4-6 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>)</li><li>Improve the structure of your URLS (Pages  6-9 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>)</li><li>Write better anchor text (Pages  13-14 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>)</li><li>Use heading tags appropriately (Pages  14-15 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>)</li><li>Optimize your use of images (Pages  15-17 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>)</li></ul>****I recommend reading the entire Google SEO Starter Guide, the things I listed above are just the tips every webpage should follow.***
+<ul> 
+<li>Create unique, accurate page titles (Pages  2-4 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>)
+
+ </li>
+ 
+<li>Make use of "description" meta tag (Pages  4-6 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>) </li>
+ 
+<li>Improve the structure of your URLS (Pages  6-9 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>) </li>
+ 
+<li>Write better anchor text (Pages  13-14 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>) </li>
+ 
+<li>Use heading tags appropriately (Pages  14-15 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>) </li>
+ 
+<li>Optimize your use of images (Pages  15-17 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>) </li>
+</ul>****I recommend reading the entire Google SEO Starter Guide, the things I listed above are just the tips every webpage should follow.***
 
 
 
  Services to sign up for: <a href="https://www.google.com/webmasters/tools/">
 
-</a><ul><li><a href="https://www.google.com/webmasters/tools/">Google Webmaster tools</a> (See tutorial directly below)<a href="https://www.google.com/webmasters/tools/">
+</a> 
 
-</a></li><li><a href="http://www.google.com/analytics">Google Analytics</a> - track your site's traffic.<a href="http://www.google.com/analytics">
+<ul> 
+<li><a href="https://www.google.com/webmasters/tools/">Google Webmaster tools</a> (See tutorial directly below)<a href="https://www.google.com/webmasters/tools/">
 
-</a></li><li><a href="http://feedproxy.google.com/blogspot/amDG">RSS Feed of the Official Google Webmaster Central Blog</a> - this blog is great way to keep up to speed with all the new products and tips &amp; tricks from the Google team.<a href="http://feedproxy.google.com/blogspot/amDG">
+</a> </li>
+ 
+<li><a href="http://www.google.com/analytics">Google Analytics</a> - track your site's traffic.<a href="http://www.google.com/analytics">
 
-</a></li><li><a href="http://www.blogger.com/">Create a blog on blogger</a> - creating a blog is a great way to develop credibility and drive traffic to your site.
+</a> </li>
+ 
+<li><a href="http://feedproxy.google.com/blogspot/amDG">RSS Feed of the Official Google Webmaster Central Blog</a> - this blog is great way to keep up to speed with all the new products and tips &amp; tricks from the Google team.<a href="http://feedproxy.google.com/blogspot/amDG">
 
-</li></ul>
+</a> </li>
+ 
+<li><a href="http://www.blogger.com/">Create a blog on blogger</a> - creating a blog is a great way to develop credibility and drive traffic to your site.
+
+ </li>
+</ul>
 
 <a href="https://www.google.com/webmasters/tools/" style="font-weight: bold;">Google Webmaster Tools Configuration</a> : 
 
-<ol><li>Add site in dashboard</li><li>Verify site</li><li>Create sitemap (<a href="http://www.google.com/support/webmasters/bin/answer.py?answer=34657">Manually</a>) (<a href="http://www.google.com/support/webmasters/bin/answer.py?answer=34634">Generator</a>)
+<ol> 
+<li>Add site in dashboard </li>
+ 
+<li>Verify site </li>
+ 
+<li>Create sitemap (<a href="http://www.google.com/support/webmasters/bin/answer.py?answer=34657">Manually</a>) (<a href="http://www.google.com/support/webmasters/bin/answer.py?answer=34634">Generator</a>)
 
-</li><li><a href="http://www.google.com/support/webmasters/bin/answer.py?answer=34575&amp;cbid=wjaplg93a4q2&amp;src=cb&amp;lev=answer">Add sitemap to webmaster dashboard</a>
+ </li>
+ 
+<li><a href="http://www.google.com/support/webmasters/bin/answer.py?answer=34575&amp;cbid=wjaplg93a4q2&amp;src=cb&amp;lev=answer">Add sitemap to webmaster dashboard</a>
 
-</li><li>Generate robots.txt ~ click on the "Tools&gt;Generate Robots.txt" section of your Google Webmaster Tools for your domain
+ </li>
+ 
+<li>Generate robots.txt ~ click on the "Tools&gt;Generate Robots.txt" section of your Google Webmaster Tools for your domain
 
-</li><li>Add robots.txt ~ upload text file from step 5 to the root directory of your website.
+ </li>
+ 
+<li>Add robots.txt ~ upload text file from step 5 to the root directory of your website.
 
-</li></ol> External Sites everyone should submit their site to: 
+ </li>
+</ol> External Sites everyone should submit their site to: 
 
-<ul><li><a href="http://www.dmoz.org/">DMOZ</a></li><li><a href="http://www.google.com/addurl/?continue=/addurl">Google</a></li><li><a href="http://search.live.com/docs/submit.aspx">MSN</a></li></ul> External sites brick and mortar business should submit their site to: 
+ 
 
-<ul><li><a href="https://biz.yelp.com/signup/">Yelp</a></li><li><a href="http://listings.local.yahoo.com/csubmit/index.php">Yahoo Local</a></li><li><a href="https://ssl.search.live.com/listings/ListingCenter.aspx">MSN Local</a>
+<ul> 
+<li><a href="http://www.dmoz.org/">DMOZ</a> </li>
+ 
+<li><a href="http://www.google.com/addurl/?continue=/addurl">Google</a> </li>
+ 
+<li><a href="http://search.live.com/docs/submit.aspx">MSN</a> </li>
+</ul> External sites brick and mortar business should submit their site to: 
 
-</li><li><a href="http://www.google.com/local/add/">Google Maps</a></li></ul> We put in all the effort, but did it work? 
+ 
+
+<ul> 
+<li><a href="https://biz.yelp.com/signup/">Yelp</a> </li>
+ 
+<li><a href="http://listings.local.yahoo.com/csubmit/index.php">Yahoo Local</a> </li>
+ 
+<li><a href="https://ssl.search.live.com/listings/ListingCenter.aspx">MSN Local</a>
+
+ </li>
+ 
+<li><a href="http://www.google.com/local/add/">Google Maps</a> </li>
+</ul> We put in all the effort, but did it work? 
 
 
 

@@ -18,7 +18,17 @@ While making <a href="/2007/03/new-site-section-tag-my-current.html">my new site
 
 <a href="http://www.divshare.com/">DivShare</a> is a <strong>free file hosting service</strong> for everyone. No registration required!
 
-<ul class="checks"><li>Upload  <strong>unlimited</strong> files</li><li>Serve  <strong>unlimited</strong> downloads</li><li>Files <strong>stay online forever!</strong></li><li>No pop-up ads or spam</li><li>Incredibly fast, reliable servers</li></ul>I signed up for an account last night and so far it looks pretty awesome.  They have a neat file organization system and it's super simple to use.  So far it's a great file sharing solution.
+<ul class="checks"> 
+<li>Upload  <strong>unlimited</strong> files </li>
+ 
+<li>Serve  <strong>unlimited</strong> downloads </li>
+ 
+<li>Files <strong>stay online forever!</strong> </li>
+ 
+<li>No pop-up ads or spam </li>
+ 
+<li>Incredibly fast, reliable servers </li>
+</ul>I signed up for an account last night and so far it looks pretty awesome.  They have a neat file organization system and it's super simple to use.  So far it's a great file sharing solution.
 
 
 

@@ -23,12 +23,24 @@ To install <a href="http://www.bit.ly/">bit.ly</a>'s URL shortener:
 
 
 
-<ol><li>Go to <b>Settings</b> &gt; <b>Labs</b></li><li>Scroll down to the very bottom and click the radio button to enable " Add any gadget by URL" </li><li> Click "Save Changes" at the bottom of the page
+<ol> 
+<li>Go to <b>Settings</b> &gt; <b>Labs</b> </li>
+ 
+<li>Scroll down to the very bottom and click the radio button to enable " Add any gadget by URL"  </li>
+ 
+<li> Click "Save Changes" at the bottom of the page
 
- </li><li> You should now have a gadgets tab at the top of the settings page.  Click it. <img alt="" border="0" id="BLOGGER_PHOTO_ID_5275223591791369314" src="{{ site.url }}/assets/images/posts/2008-12-02-image-0001.png" style="margin: 0px auto 10px; display: block; text-align: center;  width: 320px; height: 79px;"/></li><li> In the  "   Add a gadget by its URL:" box  paste this link: 
+  </li>
+ 
+<li> You should now have a gadgets tab at the top of the settings page.  Click it. <img alt="" border="0" id="BLOGGER_PHOTO_ID_5275223591791369314" src="{{ site.url }}/assets/images/posts/2008-12-02-image-0001.png" style="margin: 0px auto 10px; display: block; text-align: center;  width: 320px; height: 79px;"/> </li>
+ 
+<li> In the  "   Add a gadget by its URL:" box  paste this link: 
 
  <b>http://hosting.gmodules.com/ig/gadgets/file/107368512201818821991/bitly-shortener.xml</b> 
 
-</li><li> Congratulations you now have a URL shortener application right inside Gmail!
+ </li>
+ 
+<li> Congratulations you now have a URL shortener application right inside Gmail!
 
- </li></ol>
+  </li>
+</ol>

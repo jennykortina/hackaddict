@@ -13,7 +13,7 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-03-06-image-0000.png'
 title: Fix broken arrow keys and backspace in vi / vim for Solaris (on Joyent)
 ---
 
-I am setting up a new development server for all my testing.  <a href-"http:="" joyent.com"="">Joyent</a> had a good deal, so I'm giving them a try.  They seem great so far, but I had major issues with <b>vi</b>.
+I am setting up a new development server for all my testing.  <a href="joyent.com">Joyent</a> had a good deal, so I'm giving them a try.  They seem great so far, but I had major issues with <b>vi</b>.
 
 
 

@@ -21,7 +21,17 @@ Pocket CM is hands down the coolest contact manager available for windows mobile
 
 The most notiable changes between Contact Manager and Pocket CM I've noticed are:
 
-<ul><li>Pocket CM is a hell of a lot faster</li><li>Pocket CM's contact list is divided into letter categories</li><li>Pocket CM's interface is prettier and runs smoother</li><li>Pocket CM's has intergrated text messaging including a keyboard and a message threader (and the animation that brings you to the SMS screen is pretty slick). The new SMS is by far the best improvement -- Very cool!</li></ul>Overall, Pocket CM is a huge jump from Contact Manager and leaps and bounds away from the default windows contact manager program.  I highly recommend downloading Pocket CM and giving it a whirl.
+ 
+
+<ul> 
+<li>Pocket CM is a hell of a lot faster </li>
+ 
+<li>Pocket CM's contact list is divided into letter categories </li>
+ 
+<li>Pocket CM's interface is prettier and runs smoother </li>
+ 
+<li>Pocket CM's has intergrated text messaging including a keyboard and a message threader (and the animation that brings you to the SMS screen is pretty slick). The new SMS is by far the best improvement -- Very cool! </li>
+</ul>Overall, Pocket CM is a huge jump from Contact Manager and leaps and bounds away from the default windows contact manager program.  I highly recommend downloading Pocket CM and giving it a whirl.
 
 
 

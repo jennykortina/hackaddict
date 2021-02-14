@@ -21,4 +21,12 @@ When you save hackaddict as a webicon on your iPhone homescreen the hackaddict p
 
 To have your blog save a custom icon follow these steps:
 
-<ol><li>Load up your favorite image editing software and create a PNG file 57 x 57 pixels. (You do not need to round the corners or put the gradient on it - iPhones do this automatically).</li><li>Name the file "apple-touch-icon.png"</li><li>Save your custom icon to a webserver that you can link to (I have a dreamhost account, but you can upload it to sites like divshare for free and link to it).</li><li>Put the following code in between the "head" tags of your blog:<img alt="" border="0" id="BLOGGER_PHOTO_ID_5169576958268379890" src="{{ site.url }}/assets/images/posts/2008-02-26-image-0001.png" style="margin: 0px auto 10px; display: block; text-align: center; "/></li></ol>Congratulations!  You are now the envy of your blogging friends with your brand new blog iPhone icon!
+<ol> 
+<li>Load up your favorite image editing software and create a PNG file 57 x 57 pixels. (You do not need to round the corners or put the gradient on it - iPhones do this automatically). </li>
+ 
+<li>Name the file "apple-touch-icon.png" </li>
+ 
+<li>Save your custom icon to a webserver that you can link to (I have a dreamhost account, but you can upload it to sites like divshare for free and link to it). </li>
+ 
+<li>Put the following code in between the "head" tags of your blog:<img alt="" border="0" id="BLOGGER_PHOTO_ID_5169576958268379890" src="{{ site.url }}/assets/images/posts/2008-02-26-image-0001.png" style="margin: 0px auto 10px; display: block; text-align: center; "/> </li>
+</ol>Congratulations!  You are now the envy of your blogging friends with your brand new blog iPhone icon!

@@ -20,8 +20,20 @@ Removing the child safety from a Bic makes lighting it literally a breeze.  One 
 
 To remove the child safety:
 
-<ol><li>Get a narrow, rigid item (I use a car key).</li><li>Jam your item into the hole where the flame comes out of the lighter (making sure the point of the key is facing towards the red button that lets the gas out).
+<ol> 
+<li>Get a narrow, rigid item (I use a car key). </li>
+ 
+<li>Jam your item into the hole where the flame comes out of the lighter (making sure the point of the key is facing towards the red button that lets the gas out).
 
-</li><li>Slip the key under the two metal pieces holding the child safety piece on (it's where the arrow in the picture is pointing).</li><li>Pry the key up bending the metal pieces 90 degrees so that they are pointing towards the sky.  The child safety should now either pop out or be able to be easily pulled out.</li><li>Use the flat part of the key to push the metal pieces back into place.</li><li>Congratulations, you have successfully removed the child safety lock from your Bic Lighter for easy lighting every time!
+ </li>
+ 
+<li>Slip the key under the two metal pieces holding the child safety piece on (it's where the arrow in the picture is pointing). </li>
+ 
+<li>Pry the key up bending the metal pieces 90 degrees so that they are pointing towards the sky.  The child safety should now either pop out or be able to be easily pulled out. </li>
+ 
+<li>Use the flat part of the key to push the metal pieces back into place. </li>
+ 
+<li>Congratulations, you have successfully removed the child safety lock from your Bic Lighter for easy lighting every time!
 
-</li></ol>
+ </li>
+</ol>

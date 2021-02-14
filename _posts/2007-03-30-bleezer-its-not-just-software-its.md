@@ -18,9 +18,21 @@ title: 'Bleezer: It''s not just software.  It''s everyware.'
 
 <a href="http://www.larryborsato.com/bleezer/">Bleezer</a> is the bloggers dreamware ap.  It:
 
-<ul><li> is freeware
+ 
 
-</li><li>works on windows, linux, and mac</li><li>tags delicious or technoroti</li><li>pings your advertiser</li><li>works both on and offfline</li></ul><a href="http://www.larryborsato.com/bleezer/">Bleezer </a>can do much more, but those are the services that caught my eye. Setup was breeze, all I did was enter my blogger user id and password, and the interface is clean and easy to use.  I am very interested to see how the pinging service works and am excited that I finally have a way to blog offline.
+<ul> 
+<li> is freeware
+
+ </li>
+ 
+<li>works on windows, linux, and mac </li>
+ 
+<li>tags delicious or technoroti </li>
+ 
+<li>pings your advertiser </li>
+ 
+<li>works both on and offfline </li>
+</ul><a href="http://www.larryborsato.com/bleezer/">Bleezer </a>can do much more, but those are the services that caught my eye. Setup was breeze, all I did was enter my blogger user id and password, and the interface is clean and easy to use.  I am very interested to see how the pinging service works and am excited that I finally have a way to blog offline.
 
 
 

@@ -54,19 +54,31 @@ Download: <a href="http://kortina.net/uploads/new-snipfire-tab-trigger.tmSnippet
 
 <p>Todo:</p>
 
+ 
+
 <ul>
 
-<li>UI for editing snippets without XML — make this thing less complicated!</li>
+ 
+<li>UI for editing snippets without XML — make this thing less complicated! </li>
 
 
 
-<li>Make some documentation on creating / editing snippets and bundles</li>
 
-<li>Better default snippets bundle ( post suggestions to comments )</li>
+ 
+<li>Make some documentation on creating / editing snippets and bundles </li>
 
-<li>Javascript eval snippets ( this will be dope! also, vars to access current line, current location, tab #x location.  also, tab placeholders like Textmate, if possible)</li>
 
-<li>More accurate scroll-fix</li>
+ 
+<li>Better default snippets bundle ( post suggestions to comments ) </li>
+
+
+ 
+<li>Javascript eval snippets ( this will be dope! also, vars to access current line, current location, tab #x location.  also, tab placeholders like Textmate, if possible) </li>
+
+
+ 
+<li>More accurate scroll-fix </li>
+
 
 </ul>
 

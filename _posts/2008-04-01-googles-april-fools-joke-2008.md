@@ -13,12 +13,6 @@ title: Google's April Fool's Joke 2008
 
 <img alt="" border="0" id="BLOGGER_PHOTO_ID_5184283656345361826" src="{{ site.url }}/assets/images/posts/2008-04-01-image-0000.png" style="margin: 0px auto 10px; display: block; text-align: center;  width: 459px; height: 181px;"/>
 
-
 <b>Wake yourself up with our new Google Wake Up Kit!</b>
 
-
-
-
-<a href="http://www.google.com/googlecalendar/new_wakeup.html">Click for the original article.
-
-</a>
+<a href="http://www.google.com/googlecalendar/new_wakeup.html">Click for the original article.</a>

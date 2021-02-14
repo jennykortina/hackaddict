@@ -21,8 +21,24 @@ There are a few websites out there that allow you to type in a song name and dow
 
 
 
-<ol><li><a href="http://www.seekmp3.info/index.php">Go to the SeekMP3 website</a></li><li>Type in the song you want to download</li><li>A list of the matches will come up.</li><li>Right click on the "Download" button of the song you want and select "save link as":</li><ul><li>It will default to "download.php" change this filename to the filename listed in the left hand column (see picture below)
+<ol> 
+<li><a href="http://www.seekmp3.info/index.php">Go to the SeekMP3 website</a> </li>
+ 
+<li>Type in the song you want to download </li>
+ 
+<li>A list of the matches will come up. </li>
+ 
+<li>Right click on the "Download" button of the song you want and select "save link as": </li>
+ 
 
-</li><li>***MAKE SURE YOU CHANGE THE EXTENSION FROM .PHP TO THE CORRECT MEDIA EXTENSION (.MP3, .WMA, ETC)***<img alt="" border="0" id="BLOGGER_PHOTO_ID_5170310564452340562" src="{{ site.url }}/assets/images/posts/2008-02-25-image-0001.png" style="margin: 0px auto 10px; display: block; text-align: center; "/></li></ul><li>Your file will download to your desktop and from there you can drag it into your favorite music playing program!
+<ul> 
+<li>It will default to "download.php" change this filename to the filename listed in the left hand column (see picture below)
 
-</li></ol>
+ </li>
+ 
+<li>***MAKE SURE YOU CHANGE THE EXTENSION FROM .PHP TO THE CORRECT MEDIA EXTENSION (.MP3, .WMA, ETC)***<img alt="" border="0" id="BLOGGER_PHOTO_ID_5170310564452340562" src="{{ site.url }}/assets/images/posts/2008-02-25-image-0001.png" style="margin: 0px auto 10px; display: block; text-align: center; "/> </li>
+</ul> 
+<li>Your file will download to your desktop and from there you can drag it into your favorite music playing program!
+
+ </li>
+</ol>

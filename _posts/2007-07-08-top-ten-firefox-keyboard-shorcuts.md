@@ -41,14 +41,36 @@ title: Top ten Firefox Keyboard Shorcuts
 
 
 
-<ol><li><b>⌘ </b>+ l = focus address bar</li><li><b>⌘ </b>+ d = bookmark current page
+<ol> 
+<li><b>⌘ </b>+ l = focus address bar </li>
+ 
+<li><b>⌘ </b>+ d = bookmark current page
 
-</li><li><b>⌘ </b>+ k = focus google search bar
+ </li>
+ 
+<li><b>⌘ </b>+ k = focus google search bar
 
-</li><li><b>⌘ </b>+ f = find
+ </li>
+ 
+<li><b>⌘ </b>+ f = find
 
-</li><li><b>⌘ </b>+ g = find next</li><li><b>⌘ </b>+ t = new tab</li><li><b>⌘  + w </b>= close current tab</li><li><b>⌘ </b>+ shift + t = reopen accidentally closed tab (Best one ever!)</li><li>crtl + tab = tab through tabs</li><li>crtl + shift + tab = tab backwards through tabs
+ </li>
+ 
+<li><b>⌘ </b>+ g = find next </li>
+ 
+<li><b>⌘ </b>+ t = new tab </li>
+ 
+<li><b>⌘  + w </b>= close current tab </li>
+ 
+<li><b>⌘ </b>+ shift + t = reopen accidentally closed tab (Best one ever!) </li>
+ 
+<li>crtl + tab = tab through tabs </li>
+ 
+<li>crtl + shift + tab = tab backwards through tabs
 
-</li></ol>Bonus for Delicious Extension users:
+ </li>
+</ol>Bonus for Delicious Extension users:
 
-<ol><li><b>⌘ </b>+ Shift + . = pulls delicious page if you have delicious firefox extension installed</li></ol>
+<ol> 
+<li><b>⌘ </b>+ Shift + . = pulls delicious page if you have delicious firefox extension installed </li>
+</ol>

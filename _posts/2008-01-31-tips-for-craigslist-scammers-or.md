@@ -48,21 +48,37 @@ Susan Bari Jones</pre>
 
 <ol>
 
-<li>Proofread, use spell check, and grammar check (Steal MS Word if necessary!).  You're probably using a template anyway, so you only need to do this once.  Take some time to make sure your template has no stupid errors, because emails with spelling and grammar errors go to my Trash.</li>
+ 
+<li>Proofread, use spell check, and grammar check (Steal MS Word if necessary!).  You're probably using a template anyway, so you only need to do this once.  Take some time to make sure your template has no stupid errors, because emails with spelling and grammar errors go to my Trash. </li>
 
-<li>Don't use a name like Fred Jones or Bill Cook.  Try something a little more creative, like Jim Jervais or Sheila Jones.  Note, only be creative with the first OR last name, not both.</li>
 
-<li>Don't use weird spacing like Bill Cook Jr did.  I'm not even sure how it happened, but use tabs and spaces like a normal person.</li>
+ 
+<li>Don't use a name like Fred Jones or Bill Cook.  Try something a little more creative, like Jim Jervais or Sheila Jones.  Note, only be creative with the first OR last name, not both. </li>
 
-<li>Don't ever use all caps.  While not necessarily indicative of a scammer, I just won't respond to you if you use all caps.</li>
 
-<li>If you're scamming in America, be short and concise.  No one is going to write a lengthy epistle in response to a Craigslist post, because what your selling is probably gone by the time they are responding anyway.</li>
+ 
+<li>Don't use weird spacing like Bill Cook Jr did.  I'm not even sure how it happened, but use tabs and spaces like a normal person. </li>
 
-<li>Ask a meaningful question, such as "What are the dimensions of the table you're selling?"  Note, this can even get you through my filter if you have made a few punctuation errors.</li>
 
-<li>Get a legit looking email that makes me think your with a company, like j.smith@destined4design.com . If you have to use a free email to avoid being tracked, use gmail.  @aol and @hotmail are flags, @yahoo is not much better.</li>
+ 
+<li>Don't ever use all caps.  While not necessarily indicative of a scammer, I just won't respond to you if you use all caps. </li>
 
-<li>I would tell you not to ask me to do anything with Western Union or ask me to ship the goods, but then how would you rip me off?</li>
+
+ 
+<li>If you're scamming in America, be short and concise.  No one is going to write a lengthy epistle in response to a Craigslist post, because what your selling is probably gone by the time they are responding anyway. </li>
+
+
+ 
+<li>Ask a meaningful question, such as "What are the dimensions of the table you're selling?"  Note, this can even get you through my filter if you have made a few punctuation errors. </li>
+
+
+ 
+<li>Get a legit looking email that makes me think your with a company, like j.smith@destined4design.com . If you have to use a free email to avoid being tracked, use gmail.  @aol and @hotmail are flags, @yahoo is not much better. </li>
+
+
+ 
+<li>I would tell you not to ask me to do anything with Western Union or ask me to ship the goods, but then how would you rip me off? </li>
+
 
 </ol>
 

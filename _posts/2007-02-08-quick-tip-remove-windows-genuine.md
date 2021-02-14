@@ -16,4 +16,22 @@ I have been reformatting a lot of windows computers lately and this made me reme
 
 
 
-"If you're not familiar with how NT ACLs work, here's how you can break file permission inheritance. First of all, let's make sure  Windows  will let you access the ACL dialog from the GUI:<ul><li>In explorer, go to Tools &gt; Folder Options. Then, go to View &gt; Advanced Settings and uncheck "Use simple file sharing". Hit OK.</li></ul> <p>Now, let's change the permissions for WgaLogon:</p><ul><li>In the Address bar, type (without quotes) "%WinDir%\system32" and hit enter. <p> </p></li><li>Scroll down to WgaLogon.dll, right click on it, pick Properties. Go to Security.<p> </p></li><li>Hit the Advanced button, uncheck the Inherit box at the bottom, hit the Copy button, then hit OK.</li></ul> <p>Now we have a local copy of the ACL which we can modify.</p><ul><li>Go through each listed user/group and remove the "Read &amp; Execute" permission for that file, leaving the "Read" permission as-is.<p> </p></li><li>Hit OK to apply the permission changes and close the file properties dialog.  Restart the machine.</li></ul> <p>You can now turn "Use simple file sharing" back on, if you want." </p>
+"If you're not familiar with how NT ACLs work, here's how you can break file permission inheritance. First of all, let's make sure  Windows  will let you access the ACL dialog from the GUI: 
+
+<ul> 
+<li>In explorer, go to Tools &gt; Folder Options. Then, go to View &gt; Advanced Settings and uncheck "Use simple file sharing". Hit OK. </li>
+</ul> <p>Now, let's change the permissions for WgaLogon:</p> 
+
+<ul> 
+<li>In the Address bar, type (without quotes) "%WinDir%\system32" and hit enter. <p> </p> </li>
+ 
+<li>Scroll down to WgaLogon.dll, right click on it, pick Properties. Go to Security.<p> </p> </li>
+ 
+<li>Hit the Advanced button, uncheck the Inherit box at the bottom, hit the Copy button, then hit OK. </li>
+</ul> <p>Now we have a local copy of the ACL which we can modify.</p> 
+
+<ul> 
+<li>Go through each listed user/group and remove the "Read &amp; Execute" permission for that file, leaving the "Read" permission as-is.<p> </p> </li>
+ 
+<li>Hit OK to apply the permission changes and close the file properties dialog.  Restart the machine. </li>
+</ul> <p>You can now turn "Use simple file sharing" back on, if you want." </p>

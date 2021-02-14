@@ -19,6 +19,12 @@ When I have a large photo set I would like to look at in OS X the quickest and e
 
 
 
-To open photos as a set in preview all you have to do is:<ol><li>Highlight all of them (click the first picture in the set and while holding shift click the last photo in the set)</li><li>Right click on them (crtl+click)</li><li>Chose "Open with" &gt; Preview
+To open photos as a set in preview all you have to do is:<ol> 
+<li>Highlight all of them (click the first picture in the set and while holding shift click the last photo in the set) </li>
+ 
+<li>Right click on them (crtl+click) </li>
+ 
+<li>Chose "Open with" &gt; Preview
 
-</li></ol><img alt="" border="0" id="BLOGGER_PHOTO_ID_5103819688534450722" src="{{ site.url }}/assets/images/posts/2007-08-28-image-0001.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>
+ </li>
+</ol><img alt="" border="0" id="BLOGGER_PHOTO_ID_5103819688534450722" src="{{ site.url }}/assets/images/posts/2007-08-28-image-0001.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>

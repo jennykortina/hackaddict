@@ -34,12 +34,38 @@ After I replaced the server information with my own I saved the script as an app
 
 
 
-There are several free location automators for OS X and after trying a few I decided to use <a href="http://metaquark.de/homezone/">Home Zone</a> because it was the easiest to configure:<ol><li>Install and launch Home Zone</li><li>Click on the Home Zone icon in your menu bar and select "Configure"</li><li>In the "Zones" section click the plus arrow and name your new zone (Home in my case).</li><li>In the "Triggers" section click the plus arrow and select the following options:</li><ul><li>When "all" of the following are available</li><li>Kind: "Airport Network"</li><li>Network: "Your wireless Network Name"</li><li>Check the "Only when connected" box</li></ul><li>In the "Actions - Entering the Zone" section click the plus arrow.  Use the following configuration:
+There are several free location automators for OS X and after trying a few I decided to use <a href="http://metaquark.de/homezone/">Home Zone</a> because it was the easiest to configure:<ol> 
+<li>Install and launch Home Zone </li>
+ 
+<li>Click on the Home Zone icon in your menu bar and select "Configure" </li>
+ 
+<li>In the "Zones" section click the plus arrow and name your new zone (Home in my case). </li>
+ 
+<li>In the "Triggers" section click the plus arrow and select the following options: </li>
+ 
 
-</li><ul><li>Action: Open File</li><li>Drag the Samba mounting AppleScript into the space right below the action pull down menu (it should say "Drag any file here")
+<ul> 
+<li>When "all" of the following are available </li>
+ 
+<li>Kind: "Airport Network" </li>
+ 
+<li>Network: "Your wireless Network Name" </li>
+ 
+<li>Check the "Only when connected" box </li>
+</ul> 
+<li>In the "Actions - Entering the Zone" section click the plus arrow.  Use the following configuration:
+
+ </li>
+ 
+
+<ul> 
+<li>Action: Open File </li>
+ 
+<li>Drag the Samba mounting AppleScript into the space right below the action pull down menu (it should say "Drag any file here")
 
 
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5074058409404225250" src="{{ site.url }}/assets/images/posts/2007-06-09-image-0001.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/></li></ul></ol>That's it...you're done!  Now anytime you are on your home network your samba drive will automount.
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5074058409404225250" src="{{ site.url }}/assets/images/posts/2007-06-09-image-0001.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/> </li>
+</ul></ol>That's it...you're done!  Now anytime you are on your home network your samba drive will automount.
 
 <workgroup><user><pwd><server></server></pwd></user></workgroup>

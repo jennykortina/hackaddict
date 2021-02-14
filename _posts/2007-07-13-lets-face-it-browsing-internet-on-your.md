@@ -47,8 +47,16 @@ Although it's a very new app and needs a lot of work to improve functionality, i
 
 To get joey up and running:
 
-<ol><li>Go here and sign up for an account</li><li>Install the Firefox plugin</li><li><a href="http://www.divshare.com/download/1249330-e89">I</a><a href="http://www.divshare.com/download/1249330-e89">nstall the jar on your phone</a></li><li>Start uploading files to your Joey via the new Joey button in Firefox!
+<ol> 
+<li>Go here and sign up for an account </li>
+ 
+<li>Install the Firefox plugin </li>
+ 
+<li><a href="http://www.divshare.com/download/1249330-e89">I</a><a href="http://www.divshare.com/download/1249330-e89">nstall the jar on your phone</a> </li>
+ 
+<li>Start uploading files to your Joey via the new Joey button in Firefox!
 
 
 
-</li></ol>
+ </li>
+</ol>

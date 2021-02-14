@@ -14,7 +14,13 @@ title: You've Got Mail iPhone Mail Alert
 ---
 
 With the release of iOS 5.0 for iPhones and iPads it's now possible to set a custom sound for emails (among other items).  I thought it'd be fun to use the old school <a href="http://www.divshare.com/download/15932259-94a">"you've got mail" sound byte</a> for my emails.  To set a custom tone for your incoming mail make sure your iPhone/iPad has iOS 5.0 then:
+ 
+
 <ul>
-  <li>On you iOS device click Settings&gt;Sounds</li>
-  <li>Scroll down to the new mail option.  After you click on it you can see you can load any of your custom ringtones.  <a href="/2007/11/free-custom-iphone-ringtones-using-only.html">(Here's an article on how to make custom ringtones).</a></li>
+   
+<li>On you iOS device click Settings&gt;Sounds </li>
+
+   
+<li>Scroll down to the new mail option.  After you click on it you can see you can load any of your custom ringtones.  <a href="/2007/11/free-custom-iphone-ringtones-using-only.html">(Here's an article on how to make custom ringtones).</a> </li>
+
 </ul>

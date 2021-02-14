@@ -15,5 +15,13 @@ title: 'Quick Tip: Embed Youtube Playlist in SIte'
  To embed a Youtube playlist into your site, follow the steps below: 
 
  
-<ol><li>Go to the "<a href="http://www.youtube.com/my_playlists" style="color: rgb(0, 0, 204); ">Playlists</a>" section of your account.</li><li>Select the playlist you'd like to embed.</li><li>Copy the embed code from the upper right corner.</li><li>Paste the code into your website or blog.</li></ol>
+<ol> 
+<li>Go to the "<a href="http://www.youtube.com/my_playlists" style="color: rgb(0, 0, 204); ">Playlists</a>" section of your account. </li>
+ 
+<li>Select the playlist you'd like to embed. </li>
+ 
+<li>Copy the embed code from the upper right corner. </li>
+ 
+<li>Paste the code into your website or blog. </li>
+</ol>
  

@@ -19,12 +19,28 @@ So you and your friends have a wild party and you wake up in the morning to real
 
 Here's how to reset your OS X password without an OS X CD.  You need to enter terminal and create a new admin account:
 
-<ol><li>Reboot
+<ol> 
+<li>Reboot
 
-</li><li>Hold apple + s down after you hear the chime.
+ </li>
+ 
+<li>Hold apple + s down after you hear the chime.
 
-</li><li>When you get text prompt enter in these terminal commands to create a brand new admin account (hitting return after each line):
+ </li>
+ 
+<li>When you get text prompt enter in these terminal commands to create a brand new admin account (hitting return after each line):
 
-<ul><li>mount -uw /</li><li>rm /var/db/.AppleSetupDone</li><li>shutdown -h now</li></ul></li><li>After rebooting you should have a brand new admin account.  When you login as the new admin you can simply delete the old one and you're good to go again!
+ 
 
-</li></ol>
+<ul> 
+<li>mount -uw / </li>
+ 
+<li>rm /var/db/.AppleSetupDone </li>
+ 
+<li>shutdown -h now </li>
+</ul> </li>
+ 
+<li>After rebooting you should have a brand new admin account.  When you login as the new admin you can simply delete the old one and you're good to go again!
+
+ </li>
+</ol>
