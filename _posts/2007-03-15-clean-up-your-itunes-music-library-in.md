@@ -12,4 +12,8 @@ tags:
 title: Clean Up Your iTunes Music Library in OS X - Script to Delete Missing Files
 ---
 
-Yesterday, I wasn't getting frustrated because a bunch of the songs in my iTunes Music Library were broken links to songs on an external hard drive that I know longer use.  My fix was to remove all the songs from my Library in iTunes, then to just add my whole music folder back to the iTunes Library.<br/><br/>Had I waited a day, I could have used this nice little script published by Mac OS X Hints: <a href="http://www.macosxhints.com/article.php?story=2007031309145927" title="Clear out missing files in iTunes">Clear out missing files in iTunes Script</a>.
+Yesterday, I wasn't getting frustrated because a bunch of the songs in my iTunes Music Library were broken links to songs on an external hard drive that I know longer use.  My fix was to remove all the songs from my Library in iTunes, then to just add my whole music folder back to the iTunes Library.
+
+
+
+Had I waited a day, I could have used this nice little script published by Mac OS X Hints: <a href="http://www.macosxhints.com/article.php?story=2007031309145927" title="Clear out missing files in iTunes">Clear out missing files in iTunes Script</a>.

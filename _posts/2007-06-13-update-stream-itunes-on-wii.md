@@ -10,4 +10,12 @@ tags: null
 title: 'UPDATE:  Stream iTunes on the Wii'
 ---
 
-I've been in contact with the people from Codewave, the makers of MyTunesRSS, and it seems like they are planning an update to make their software more Wii friendly.  I suggested to make the fonts and icons larger for easier usability/readability.<br/><br/>Please post any known issues or suggestions in the comments and I will make sure your voices are heard.<br/><br/>*Please read the first comment below for a special development copy and install instructors.
+I've been in contact with the people from Codewave, the makers of MyTunesRSS, and it seems like they are planning an update to make their software more Wii friendly.  I suggested to make the fonts and icons larger for easier usability/readability.
+
+
+
+Please post any known issues or suggestions in the comments and I will make sure your voices are heard.
+
+
+
+*Please read the first comment below for a special development copy and install instructors.

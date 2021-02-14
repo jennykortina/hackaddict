@@ -13,4 +13,16 @@ tags:
 title: 'iPhone Apps: Springlets'
 ---
 
-Both my brother and I have had iPhones for a while now, and although webapps are nice there have not been too many show stoppers.  In fact, I only have a few web icons installed; however, Springlets is a true show stopper.<br/><br/>"Springlets are tiny apps for your iPhones Home screen that help you save time."<br/><br/>There are several different search springlets including imdb and wikipeida ones (which saves a lot of time by just popping up a search box instead of loading the whole page), but the Springlet I like most is the speed dial one.  Simply enter in the person's name and number, pick the color icon you would and you're ready to roll.<br/><br/>To check out all the different Springlets visit www.springlets.com on your iPhone.
+Both my brother and I have had iPhones for a while now, and although webapps are nice there have not been too many show stoppers.  In fact, I only have a few web icons installed; however, Springlets is a true show stopper.
+
+
+
+"Springlets are tiny apps for your iPhones Home screen that help you save time."
+
+
+
+There are several different search springlets including imdb and wikipeida ones (which saves a lot of time by just popping up a search box instead of loading the whole page), but the Springlet I like most is the speed dial one.  Simply enter in the person's name and number, pick the color icon you would and you're ready to roll.
+
+
+
+To check out all the different Springlets visit www.springlets.com on your iPhone.

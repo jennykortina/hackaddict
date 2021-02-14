@@ -12,4 +12,12 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2006-12-17-image-0000.jpg'
 title: 'DIY Straw: Twizzler = Candy Straw'
 ---
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5009683485887007266" src="{{ site.url }}/assets/images/posts/2006-12-17-image-0000.jpg" style="margin: 0pt 0pt 10px 10px; float: right; "/>I went to the movies with a friend of mine today and we got some Twizzlers and waters.  I randomly ask him if he's ever used a twizzler as a straw and he says no. So I make one.  Here's a quick tutorial for the utilitarian treat:<br/><br/>1. Bite the near end off the Twizzler<br/>2. Bite the far end off the Twizzler<br/>3.  Insert Twizzler into beverage and enjoy.
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5009683485887007266" src="{{ site.url }}/assets/images/posts/2006-12-17-image-0000.jpg" style="margin: 0pt 0pt 10px 10px; float: right; "/>I went to the movies with a friend of mine today and we got some Twizzlers and waters.  I randomly ask him if he's ever used a twizzler as a straw and he says no. So I make one.  Here's a quick tutorial for the utilitarian treat:
+
+
+
+1. Bite the near end off the Twizzler
+
+2. Bite the far end off the Twizzler
+
+3.  Insert Twizzler into beverage and enjoy.

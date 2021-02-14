@@ -12,4 +12,10 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-27-image-0000.jpg'
 title: New Wallpaper!!!
 ---
 
-Well it's time for the second wallpaper post!  This time we have a widescreen wallpaper that I threw together in about ten minutes.  Enjoy!<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5046446516788820018" src="{{ site.url }}/assets/images/posts/2007-03-27-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/><a href="http://www.divshare.com/download/288091-366">Download wallpaper here.</a>
+Well it's time for the second wallpaper post!  This time we have a widescreen wallpaper that I threw together in about ten minutes.  Enjoy!
+
+
+
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5046446516788820018" src="{{ site.url }}/assets/images/posts/2007-03-27-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>
+
+<a href="http://www.divshare.com/download/288091-366">Download wallpaper here.</a>

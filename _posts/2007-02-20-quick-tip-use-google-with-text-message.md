@@ -12,4 +12,18 @@ tags:
 title: 'Quick Tip: Use Google with Text Message'
 ---
 
-My favorite Google service other than Gmail, Google Calendar, Gchat, Google Analytics...well you get the point has to be <a href="http://www.google.com/intl/en_us/mobile/sms/">Google message.</a><br/><br/>This service lets you text message Google for information like weather or movie listings.  Here's where my tip comes in.  Store the number Google gives you to message in your phone under Google and also store your most used reference texts under your "Drafts" or "Quick Notes" section of your text message center.  For instance, in my phone I have saved: <br/><br/>w30075 for the weather in my area<br/>m30075 for the movie listings of my area<br/><br/>It's a fun service for those of us who don't have internet on our phones yet but still want to be able to access basic information.
+My favorite Google service other than Gmail, Google Calendar, Gchat, Google Analytics...well you get the point has to be <a href="http://www.google.com/intl/en_us/mobile/sms/">Google message.</a>
+
+
+
+This service lets you text message Google for information like weather or movie listings.  Here's where my tip comes in.  Store the number Google gives you to message in your phone under Google and also store your most used reference texts under your "Drafts" or "Quick Notes" section of your text message center.  For instance, in my phone I have saved: 
+
+
+
+w30075 for the weather in my area
+
+m30075 for the movie listings of my area
+
+
+
+It's a fun service for those of us who don't have internet on our phones yet but still want to be able to access basic information.

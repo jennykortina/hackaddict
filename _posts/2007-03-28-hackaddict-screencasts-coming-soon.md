@@ -13,7 +13,29 @@ tags:
 title: Hackaddict Screencasts Coming Soon + Cruxy Media Store Reviewed
 ---
 
-My sis and I have each gotten the <a href="http://www.ambrosiasw.com/utilities/snapzprox/">Snapz Pro</a> screen capturing software, and I've just started playing with screencasting. Today, I'm giving a presentation at <a href="http://phillyemergingtech.com/schedule.php">Philly Emerging Tech</a> Conference. I'll be speaking on Market Tracking with Ruby on Rails and Google Analytics. <br/><br/>This weekend I tried out Snapz Pro and recorded a screencast of my presentation, and have put it for sale on Cruxy for $5: <a href="http://cruxy.com/kortina">kortina on cruxy</a>.<br/><br/>Cruxy looks like a pretty awesome site, and so far it's been easy to use. They let you sell any kind of digital media on the web for a small fee: "The total service fees for selling a digital file are $.15 and 10% of the retail price, per transaction." You can sell videos, music, documents, programs, etc.<br/><br/>The screencast I have up now is a pretty lengthy presentation (35 min) and there are some good tips in it. If you get it and want a copy of the source code from the presentation, just let me know.<br/><br/>Now that I have a handle on how to do Screencasts with Snapz Pro, look for some hackaddict exclusive screencasts to be coming out soon. I have a few presentations already planned and just need to record them. I'll post these for free on hackaddict, either via youtube or amazon s3 hosted mov files.<br/><br/>Here's a preview of the Cruxy screencast I made on Market Tracking with Rails and Google Analytics:<br/>
+My sis and I have each gotten the <a href="http://www.ambrosiasw.com/utilities/snapzprox/">Snapz Pro</a> screen capturing software, and I've just started playing with screencasting. Today, I'm giving a presentation at <a href="http://phillyemergingtech.com/schedule.php">Philly Emerging Tech</a> Conference. I'll be speaking on Market Tracking with Ruby on Rails and Google Analytics. 
+
+
+
+This weekend I tried out Snapz Pro and recorded a screencast of my presentation, and have put it for sale on Cruxy for $5: <a href="http://cruxy.com/kortina">kortina on cruxy</a>.
+
+
+
+Cruxy looks like a pretty awesome site, and so far it's been easy to use. They let you sell any kind of digital media on the web for a small fee: "The total service fees for selling a digital file are $.15 and 10% of the retail price, per transaction." You can sell videos, music, documents, programs, etc.
+
+
+
+The screencast I have up now is a pretty lengthy presentation (35 min) and there are some good tips in it. If you get it and want a copy of the source code from the presentation, just let me know.
+
+
+
+Now that I have a handle on how to do Screencasts with Snapz Pro, look for some hackaddict exclusive screencasts to be coming out soon. I have a few presentations already planned and just need to record them. I'll post these for free on hackaddict, either via youtube or amazon s3 hosted mov files.
+
+
+
+Here's a preview of the Cruxy screencast I made on Market Tracking with Rails and Google Analytics:
+
+
 
 <img src="{{ site.url }}/assets/images/posts/2007-03-28-image-0000.jpg" style="background-color:#222d2d; width:75px; " width="75"/>
 

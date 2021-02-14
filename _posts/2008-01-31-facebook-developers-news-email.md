@@ -11,4 +11,18 @@ tags:
 title: Email Subscribe to Important News Feeds
 ---
 
-Sometimes you want to stay on top of a news feed, and if you're as ruthless with Google Reader as I am, it can be easy to miss posts.<br/><br/>For example, I want to stay informed about changes to the Facebook API, because they can effect my existing code.  I used feedburner to create an email alert I can subscribe to for their developer news blog that has important announcements about the API:<br/><br/><form action="http://www.feedburner.com/fb/a/emailverify" method="post" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1608741', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="border: 1px solid #cccccc; padding: 3px; text-align: center" target="popupwindow">Enter your email address: <input name="email" style="width: 140px" type="text"/> <input name="url" type="hidden" value="http://feeds.feedburner.com/~e?ffid=1608741"/> <input name="title" type="hidden" value="Facebook Developers News - Email Subscription"/> <input name="loc" type="hidden" value="en_US"/> <input type="submit" value="Subscribe"/></form><br/><br/>Here is the feed I entered into Feedburner:<br/><a href="http://developers.facebook.com/news.php?blog=1&amp;format=xml"> http://developers.facebook.com/news.php?blog=1&amp;format=xml</a>
+Sometimes you want to stay on top of a news feed, and if you're as ruthless with Google Reader as I am, it can be easy to miss posts.
+
+
+
+For example, I want to stay informed about changes to the Facebook API, because they can effect my existing code.  I used feedburner to create an email alert I can subscribe to for their developer news blog that has important announcements about the API:
+
+
+
+<form action="http://www.feedburner.com/fb/a/emailverify" method="post" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1608741', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="border: 1px solid #cccccc; padding: 3px; text-align: center" target="popupwindow">Enter your email address: <input name="email" style="width: 140px" type="text"/> <input name="url" type="hidden" value="http://feeds.feedburner.com/~e?ffid=1608741"/> <input name="title" type="hidden" value="Facebook Developers News - Email Subscription"/> <input name="loc" type="hidden" value="en_US"/> <input type="submit" value="Subscribe"/></form>
+
+
+
+Here is the feed I entered into Feedburner:
+
+<a href="http://developers.facebook.com/news.php?blog=1&amp;format=xml"> http://developers.facebook.com/news.php?blog=1&amp;format=xml</a>

@@ -11,4 +11,24 @@ tags:
 title: Track Downloads with Google Analytics
 ---
 
-I am building a few Firefox extensions ( coming soon ) and I was trying to figure out the best way to track the number of downloads once I post them.  In my search, I found 2 great posts about some of the more advanced features of Google Analytics:<br/><br/><a href="http://www.blogstorm.co.uk/blog/advanced-google-analytics/">Advanced Use of Google Analyics</a><br/><br/><a href="http://www.blogstorm.co.uk/blog/google-analytics-tutorial/">Google Analytics Tutorial Part 2</a><br/><br/>Here's how you would track a download, by the way:<br/><pre><br/>&lt;a href="http://www.example.co.uk/files/map.pdf"<br/>onClick="javascript:urchinTracker ('/downloads/map'); "&gt;<br/></pre>
+I am building a few Firefox extensions ( coming soon ) and I was trying to figure out the best way to track the number of downloads once I post them.  In my search, I found 2 great posts about some of the more advanced features of Google Analytics:
+
+
+
+<a href="http://www.blogstorm.co.uk/blog/advanced-google-analytics/">Advanced Use of Google Analyics</a>
+
+
+
+<a href="http://www.blogstorm.co.uk/blog/google-analytics-tutorial/">Google Analytics Tutorial Part 2</a>
+
+
+
+Here's how you would track a download, by the way:
+
+<pre>
+
+&lt;a href="http://www.example.co.uk/files/map.pdf"
+
+onClick="javascript:urchinTracker ('/downloads/map'); "&gt;
+
+</pre>

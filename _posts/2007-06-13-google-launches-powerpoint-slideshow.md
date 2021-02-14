@@ -12,4 +12,10 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-06-13-image-0000.jpg'
 title: Google Launches "PowerPoint" (Slideshow Feature)
 ---
 
-<span style=""><strong style="font-weight: normal;"><span style="font-weight: bold;">View as slideshow</span><br/></strong>"Now you can open PowerPoint attachments as slideshows, without having to download anything. Just click "View as slideshow" next to the .ppt attachment you want to preview."<br/><br/></span><img alt="" border="0" id="BLOGGER_PHOTO_ID_5075525961074562802" src="{{ site.url }}/assets/images/posts/2007-06-13-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center;  width: 415px; height: 112px;"/>
+<span style=""><strong style="font-weight: normal;"><span style="font-weight: bold;">View as slideshow</span>
+
+</strong>"Now you can open PowerPoint attachments as slideshows, without having to download anything. Just click "View as slideshow" next to the .ppt attachment you want to preview."
+
+
+
+</span><img alt="" border="0" id="BLOGGER_PHOTO_ID_5075525961074562802" src="{{ site.url }}/assets/images/posts/2007-06-13-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center;  width: 415px; height: 112px;"/>

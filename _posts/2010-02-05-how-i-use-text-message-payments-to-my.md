@@ -12,10 +12,14 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2010-02-05-image-0000.jpg'
 title: How I Use Text Message Payments to My Make Life Easier
 ---
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5434767452494569314" src="{{ site.url }}/assets/images/posts/2010-02-05-image-0000.jpg" style="display:block; margin:0px auto 10px; text-align:center; width: 400px; height: 160px;"/><br/>
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5434767452494569314" src="{{ site.url }}/assets/images/posts/2010-02-05-image-0000.jpg" style="display:block; margin:0px auto 10px; text-align:center; width: 400px; height: 160px;"/>
+
+
 I recently started using a service called <a href="http://venmo.com/">Venmo</a> which is "The Paypal of text message payments." I can pay and charge friends or merchants for goods/services. It's definitely one of those services a la cell phone esque. If you don't have it you don't know what you are missing, but once you have it there's no going back. Below I've listed some simple use cases to try to illustrate the power of the service:
 
-<br/>
+
+
+
 
 <span class="Apple-style-span" style="color:#006600;">Paying others - Splitting a lunch bill:</span>
 
@@ -26,6 +30,8 @@ I recently started using a service called <a href="http://venmo.com/">Venmo</a> 
 <ul><li>When I pick up my brother's laundry I charge him for it.  The money is taken directly out of his account b/c he "trusts" me.  </li><li>"Charge Andrew $13.75 for laundry."</li><li>$13.75 comes into my account </li></ul>
 These are just a few use cases of how to use text message payments to make your life easier.  If you would like to try Venmo, which is in beta, to text message payments please <a href="mailto:%20jennykortina@gmail.com">email me</a> and I'm friends with the guys who made it, so I can shoot you an invite.
 
-<br/>
+
+
+
 
 <i>In the comments, tell me how you use text message payments to make your life easier. </i>

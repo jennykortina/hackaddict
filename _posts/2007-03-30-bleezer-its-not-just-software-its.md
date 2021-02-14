@@ -14,4 +14,14 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-30-image-0000.png'
 title: 'Bleezer: It''s not just software.  It''s everyware.'
 ---
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5047714298575018690" src="{{ site.url }}/assets/images/posts/2007-03-30-image-0000.png" style="margin: 0pt 10px 10px 0pt; float: left;  width: 143px; height: 128px;"/><br/><a href="http://www.larryborsato.com/bleezer/">Bleezer</a> is the bloggers dreamware ap.  It:<br/><ul><li> is freeware<br/></li><li>works on windows, linux, and mac</li><li>tags delicious or technoroti</li><li>pings your advertiser</li><li>works both on and offfline</li></ul><a href="http://www.larryborsato.com/bleezer/">Bleezer </a>can do much more, but those are the services that caught my eye. Setup was breeze, all I did was enter my blogger user id and password, and the interface is clean and easy to use.  I am very interested to see how the pinging service works and am excited that I finally have a way to blog offline.<br/><br/><a href="http://www.larryborsato.com/bleezer/">Bleezer can be downloaded for any os here.</a>
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5047714298575018690" src="{{ site.url }}/assets/images/posts/2007-03-30-image-0000.png" style="margin: 0pt 10px 10px 0pt; float: left;  width: 143px; height: 128px;"/>
+
+<a href="http://www.larryborsato.com/bleezer/">Bleezer</a> is the bloggers dreamware ap.  It:
+
+<ul><li> is freeware
+
+</li><li>works on windows, linux, and mac</li><li>tags delicious or technoroti</li><li>pings your advertiser</li><li>works both on and offfline</li></ul><a href="http://www.larryborsato.com/bleezer/">Bleezer </a>can do much more, but those are the services that caught my eye. Setup was breeze, all I did was enter my blogger user id and password, and the interface is clean and easy to use.  I am very interested to see how the pinging service works and am excited that I finally have a way to blog offline.
+
+
+
+<a href="http://www.larryborsato.com/bleezer/">Bleezer can be downloaded for any os here.</a>

@@ -11,4 +11,10 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-08-29-image-0000.jpg'
 title: 'New Blogger Feature: Videos'
 ---
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5104150306526962226" src="{{ site.url }}/assets/images/posts/2007-08-29-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>I noticed that Blogger finally added an insert video button.  Previously, you had to either host your own or use a third party company such as Youtube.<br/><br/>Good move blogger!
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5104150306526962226" src="{{ site.url }}/assets/images/posts/2007-08-29-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>
+
+I noticed that Blogger finally added an insert video button.  Previously, you had to either host your own or use a third party company such as Youtube.
+
+
+
+Good move blogger!
