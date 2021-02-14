@@ -2,9 +2,14 @@
 layout: default
 ---
 
-<time itemprop="dateCreated datePublished"> {{page.date | date: "%e %b %Y"}}</time>
-<h1 itemprop="headline">
-  {{ page.title }}
-</h1>
-
-{{ content }}
+<article>
+  <div>
+    <time itemprop="dateCreated datePublished"> {{page.date | date: "%A, %B %-d, %Y"}}</time>
+    <span>/</span>
+    <span> {{ page.author }}</span>
+  </div>
+  <h1 itemprop="headline">
+    {{ page.title }}
+  </h1>
+  {{ content }}
+</article>

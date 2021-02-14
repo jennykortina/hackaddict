@@ -1,12 +1,14 @@
 body {
-  font-family: 'Computer Modern Serif', 'Georgia', monospace;
+  color: #555;
+  background: #f1f1f1;
+  font-family: 'Raleway', 'Helvetica Neue', sans-serif;
   text-align: center;
   font-size: 130%;
   line-height: 1.35;
-  color: #111;
 }
 
-header,
+.header-wrapper,
+article,
 section,
 footer,
 article > * {
@@ -15,12 +17,29 @@ article > * {
   margin: 0 auto;
   display: block;
 }
+article {
+  background: white;
+  border-radius: 4px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+  margin-top: 40px;
+  padding: 35px;
+}
 
-header,
 footer,
 article > time {
   font-size: smaller;
   color: #444;
+}
+
+header {
+  background: #ff6600;
+  color: white;
+}
+header a {
+  color: white !important;
+}
+.header-wrapper {
+  padding: 50px 0;
 }
 
 h1,
@@ -66,6 +85,11 @@ ol,
 /* article blockquote, */
 article > * {
   margin-bottom: 1rem;
+}
+
+ol {
+  list-style-type: decimal !important;
+  list-style-position: inside !important;
 }
 
 blockquote {
@@ -177,7 +201,7 @@ hr {
 a,
 a:visited,
 a:active {
-  color: #0067fb;
+  color: #ff6600;
   text-decoration: none;
 }
 
