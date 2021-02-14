@@ -24,6 +24,33 @@ article {
   margin-top: 40px;
   padding: 35px;
 }
+.post-date {
+  border-bottom: 1px solid #eee;
+  color: #999;
+  display: flex;
+  font-size: 0.95rem;
+  padding-bottom: 1rem;
+  text-transform: uppercase;
+}
+.home-page .post-title {
+  color: #2d3642;
+  font-weight: 400;
+}
+.home-page .post-title:hover {
+  color: #ff6600;
+  text-decoration: none;
+}
+.home-page .post-preview {
+  display: -webkit-box;
+  margin: 25px 0;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.read-more {
+  font-size: 1.1rem;
+  text-align: right;
+}
 
 footer,
 article > time {
@@ -212,6 +239,10 @@ a:hover {
 .light-grey,
 a.light-grey {
   color: #ccc;
+}
+
+.backslash-spacer {
+  padding: 0 0.25rem;
 }
 
 /****************** exceptions *****************/

@@ -3,13 +3,13 @@ layout: default
 ---
 
 <article>
-  <div>
-    <time itemprop="dateCreated datePublished"> {{page.date | date: "%A, %B %-d, %Y"}}</time>
-    <span>/</span>
-    <span> {{ page.author }}</span>
-  </div>
   <h1 itemprop="headline">
     {{ page.title }}
   </h1>
+  <div class="post-date">
+    <time itemprop="dateCreated datePublished"> {{page.date | date: "%A, %B %-d, %Y"}}</time>
+    <span class="backslash-spacer">/</span>
+    <span> {{ page.author }}</span>
+  </div>
   {{ content }}
 </article>
