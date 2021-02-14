@@ -18,13 +18,13 @@ title: Beginner's Guide to SEO
 
 A friend of mine who runs a small business asked me to do SEO for her website the other day. I used a combination of different on page tricks and external services to get her site's SEO up to speed:
 
-<span style="font-weight: bold;">
+ 
 
 What is SEO?
 
 
 
-</span><span>SEO is the process of improving the volume and quality of traffic to a web site from search engines.   </span><span>Basically, good SEO answers the question: "How do I make my website appear at the top of a Google search?"</span><span style="font-weight: bold;">
+  SEO is the process of improving the volume and quality of traffic to a web site from search engines.     Basically, good SEO answers the question: "How do I make my website appear at the top of a Google search?"  
 
 
 
@@ -32,11 +32,11 @@ Why is SEO important?
 
 
 
-</span><span>Typically, the higher a site's "page rank," the more visitors it will receive from the search engine. </span>
+  Typically, the higher a site's "page rank," the more visitors it will receive from the search engine.  
 
-<span style="font-weight: bold;">
+ 
 
-On page SEO:</span>
+On page SEO: 
 
 <ul><li>Create unique, accurate page titles (Pages  2-4 in <a href="http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf">Google SEO Starter Guide</a>)
 
@@ -44,7 +44,7 @@ On page SEO:</span>
 
 
 
-<span style="font-weight: bold;">Services to sign up for:</span><a href="https://www.google.com/webmasters/tools/">
+ Services to sign up for: <a href="https://www.google.com/webmasters/tools/">
 
 </a><ul><li><a href="https://www.google.com/webmasters/tools/">Google Webmaster tools</a> (See tutorial directly below)<a href="https://www.google.com/webmasters/tools/">
 
@@ -56,7 +56,7 @@ On page SEO:</span>
 
 </li></ul>
 
-<a href="https://www.google.com/webmasters/tools/" style="font-weight: bold;">Google Webmaster Tools Configuration</a><span style="font-weight: bold;">:</span>
+<a href="https://www.google.com/webmasters/tools/" style="font-weight: bold;">Google Webmaster Tools Configuration</a> : 
 
 <ol><li>Add site in dashboard</li><li>Verify site</li><li>Create sitemap (<a href="http://www.google.com/support/webmasters/bin/answer.py?answer=34657">Manually</a>) (<a href="http://www.google.com/support/webmasters/bin/answer.py?answer=34634">Generator</a>)
 
@@ -66,13 +66,13 @@ On page SEO:</span>
 
 </li><li>Add robots.txt ~ upload text file from step 5 to the root directory of your website.
 
-</li></ol><span style="font-weight: bold;">External Sites everyone should submit their site to:</span>
+</li></ol> External Sites everyone should submit their site to: 
 
-<ul><li><a href="http://www.dmoz.org/">DMOZ</a></li><li><a href="http://www.google.com/addurl/?continue=/addurl">Google</a></li><li><a href="http://search.live.com/docs/submit.aspx">MSN</a></li></ul><span style="font-weight: bold;">External sites brick and mortar business should submit their site to:</span>
+<ul><li><a href="http://www.dmoz.org/">DMOZ</a></li><li><a href="http://www.google.com/addurl/?continue=/addurl">Google</a></li><li><a href="http://search.live.com/docs/submit.aspx">MSN</a></li></ul> External sites brick and mortar business should submit their site to: 
 
 <ul><li><a href="https://biz.yelp.com/signup/">Yelp</a></li><li><a href="http://listings.local.yahoo.com/csubmit/index.php">Yahoo Local</a></li><li><a href="https://ssl.search.live.com/listings/ListingCenter.aspx">MSN Local</a>
 
-</li><li><a href="http://www.google.com/local/add/">Google Maps</a></li></ul><span style="font-weight: bold;">We put in all the effort, but did it work?</span>
+</li><li><a href="http://www.google.com/local/add/">Google Maps</a></li></ul> We put in all the effort, but did it work? 
 
 
 
@@ -88,7 +88,7 @@ I found it helpful get websites graded right before I make any changes, right af
 
 
 
-<span style="font-weight: bold;">One last trick for measuring effectiveness:</span>
+ One last trick for measuring effectiveness: 
 
 
 

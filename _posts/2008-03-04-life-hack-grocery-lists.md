@@ -20,7 +20,7 @@ title: 'Lifehack: The Ultimate Grocery Lists'
 
 
 
-<a href="http://www.grocerylists.org/ultimatest/">For those of you without iPhones, or traditionalists, head over to Grocery Lists.org for "</a><span class="subhead"><a href="http://www.grocerylists.org/ultimatest/">The Ultimatest Grocery List, a free downloadable PDF."</a>
+<a href="http://www.grocerylists.org/ultimatest/">For those of you without iPhones, or traditionalists, head over to Grocery Lists.org for "</a> <a href="http://www.grocerylists.org/ultimatest/">The Ultimatest Grocery List, a free downloadable PDF."</a>
 
 
 
@@ -30,4 +30,4 @@ It's pretty sweet, it's a downloaded pdf that you print and then check things of
 
 So, hopefully now everyone can remember what they need at the grocery store, instead of getting home and realizing that you forgot the toilet paper!
 
-</span>
+ 

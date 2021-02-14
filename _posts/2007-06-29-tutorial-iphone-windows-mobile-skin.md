@@ -65,7 +65,7 @@ Installing the utilities, programs, and skin using sync software:
 
 
 
-<span style="font-weight: bold;">Utilities:</span>
+ Utilities: 
 
 <ol><li><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9655156b-356b-4a2c-857c-e62f50ae9a55&amp;displaylang=en">.net Framework</a> - needed to run many of the applications ie Text Message Threader and Weather
 
@@ -81,7 +81,7 @@ Installing the utilities, programs, and skin using sync software:
 
 </li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>Open PHM Registry Editor</li><li>Navigate to "HKEY_LOCAL_MACHINE\SOFTWARE\OEM\Phone Setting</li><li>Change the "ShowTimeZone" value from 0 to 1</li><li>Now navigate to Settings\Phone\Time Zones tab. Check the "Automatic change time zone and clock." box. Your phone will now automatically set the time for you.
 
-</li></ol></ol><span style="font-weight: bold;">Programs (In order from top to bottom and left to right):</span>
+</li></ol></ol> Programs (In order from top to bottom and left to right): 
 
 <ol><li>SMS Icon: <a href="http://benhirashima.com/software/">Text Man</a> - Text Message threader</li><ol><li>The cab is located in: iPhone\Programs\TxtMan.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software
 
@@ -129,7 +129,7 @@ WM5 Users:
 
 </li><li>Make sure that your contacts are stored on your phone and not on your sim card. If they are not on your phone they will not be displayed by iContact.</li><ol><li>On my phone I navigated to Programs\Sim Manager. From there I chose: Tools&gt;Select All, Tools&gt;Copy to Contacts</li></ol></ol><li>Mail Icon: gmail Mobile</li><ol><li>Use your built in web browser, ie, to navigate to: gmail.com/app
 
-</li><li>Select "Download Gmail"</li><li>Install Midlet? "Yes"</li></ol><li>Internet Icon: Opera Mini 4 Beta</li><ol><li>Use your built in web browser, ie, to navigate to: mini.opera.com/beta </li><li>Select "Download Opera Mini"</li><li>Install Midlet? "Yes"</li></ol><li>Ipod Icon: <a href="http://picard.exceed.hu/tcpmp/test/">TCPMP</a><span style="text-decoration: underline;"></span><a href="http://www.videolan.org/vlc/download-wince.html"></a></li><ol><li>The cab is located in: iPhone\Programs\tcpmp.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software
+</li><li>Select "Download Gmail"</li><li>Install Midlet? "Yes"</li></ol><li>Internet Icon: Opera Mini 4 Beta</li><ol><li>Use your built in web browser, ie, to navigate to: mini.opera.com/beta </li><li>Select "Download Opera Mini"</li><li>Install Midlet? "Yes"</li></ol><li>Ipod Icon: <a href="http://picard.exceed.hu/tcpmp/test/">TCPMP</a>  <a href="http://www.videolan.org/vlc/download-wince.html"></a></li><ol><li>The cab is located in: iPhone\Programs\tcpmp.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software
 
 </li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>If you ever need codec plugins, ie for divx, you can find them <a href="http://picard.exceed.hu/tcpmp/test/">here</a>.
 
@@ -137,7 +137,7 @@ WM5 Users:
 
 
 
-<span style="font-weight: bold;">Installing the Skin:</span>
+ Installing the Skin: 
 
 <ol><li>Today:
 
@@ -157,27 +157,27 @@ the calendar, and phone applications. Those are built into the .xml skin file (t
 
 
 
-<ul><li><span style="font-weight: bold;">SMS:</span> blank.png,
+<ul><li> SMS:  blank.png,
 
-</li><li><span style="font-weight: bold;">Photos:</span> rl_photo.png, \Windows\pimg.exe
+</li><li> Photos:  rl_photo.png, \Windows\pimg.exe
 
-</li><li><span style="font-weight: bold;">Camera:</span> rl_cam.png, \Windows\Camera.exe
+</li><li> Camera:  rl_cam.png, \Windows\Camera.exe
 
-</li><li><span style="font-weight: bold;">Youtube:</span> rl_youtube.png, \Windows\iexplore.exe Command Line: http://m.youtube.com</li><li><span style="font-weight: bold;">Finder:</span> rl_finder.png, \Windows\fexplore.exe
+</li><li> Youtube:  rl_youtube.png, \Windows\iexplore.exe Command Line: http://m.youtube.com</li><li> Finder:  rl_finder.png, \Windows\fexplore.exe
 
-</li><li><span style="font-weight: bold;">Maps: </span>rl_maps.png, \Program Files\GoogleMaps\GoogleMaps.exe
+</li><li> Maps:  rl_maps.png, \Program Files\GoogleMaps\GoogleMaps.exe
 
-</li><li><span style="font-weight: bold;">Weather:</span> blank.png, \Program Files\Weather Watcher\WeatherWatcher.exe
+</li><li> Weather:  blank.png, \Program Files\Weather Watcher\WeatherWatcher.exe
 
-</li><li><span style="font-weight: bold;">Calculator:</span> rl_cal.png, \Program Files\gCalc|gCalc.exe</li><li><span style="font-weight: bold;">Notes:</span> rl_notes.png, \Windows\notes.ese
+</li><li> Calculator:  rl_cal.png, \Program Files\gCalc|gCalc.exe</li><li> Notes:  rl_notes.png, \Windows\notes.ese
 
-</li><li><span style="font-weight: bold;">Settings:</span> rl_settings.png, \Windows\CommManger.exe (that's a personal preference)
+</li><li> Settings:  rl_settings.png, \Windows\CommManger.exe (that's a personal preference)
 
-</li><li><span style="font-weight: bold;">Phone:</span> blank.png, \Program Files\Contact Manager-.10\ContactManager.exe
+</li><li> Phone:  blank.png, \Program Files\Contact Manager-.10\ContactManager.exe
 
-</li><li><span style="font-weight: bold;">Mail:</span> rl_mail.png, \My Documents\My Midlets\Gmail.ink
+</li><li> Mail:  rl_mail.png, \My Documents\My Midlets\Gmail.ink
 
-</li><li><span style="font-weight: bold;">Web:</span> rl_navi.png, \My Documents\My Midlets\Opera.ink</li><li><span style="font-weight: bold;">Media:</span> rl_ipod.png, \Program Files\TCPMP\player.exe
+</li><li> Web:  rl_navi.png, \My Documents\My Midlets\Opera.ink</li><li> Media:  rl_ipod.png, \Program Files\TCPMP\player.exe
 
 
 
@@ -191,7 +191,7 @@ the calendar, and phone applications. Those are built into the .xml skin file (t
 
 </li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>You must restart your device to complete the installation. Hit ok</li></ol><li>Installing the Keyboard and skin:</li><ol><li>The cab is located in: iPhone\Skin\Keyboard\HappyTappingKeyboard.arm.cab</li><li>Drag the Cab into the "My Documents" folder on your phone using sync software
 
-</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>Copy the Skin folder from: iPhone\Skin\Keyboard\Skin to My Documents on your phone.</li><li>Go to Settings&gt;Personal&gt;Input and select Happy Tapping Keyboard.</li><li>Click Options and locate the QVGA files in KeyboardSkin. P is for Portrait and L is for Landscape.</li></ol></ol><span style="font-weight: bold;">Finally, we're almost done!</span>
+</li><li>Navigate to the cab on your phone and install it onto your phone by clicking on it</li><li>Copy the Skin folder from: iPhone\Skin\Keyboard\Skin to My Documents on your phone.</li><li>Go to Settings&gt;Personal&gt;Input and select Happy Tapping Keyboard.</li><li>Click Options and locate the QVGA files in KeyboardSkin. P is for Portrait and L is for Landscape.</li></ol></ol> Finally, we're almost done! 
 
 
 
@@ -199,7 +199,7 @@ Do a soft reset. You will notice that the bottom of the screen has what I like t
 
 
 
-<span style="font-weight: bold;">Congratulations: </span>You now have an iPhone skin on your WM5 PDA/Pocket PC!!!
+ Congratulations:  You now have an iPhone skin on your WM5 PDA/Pocket PC!!!
 
 
 

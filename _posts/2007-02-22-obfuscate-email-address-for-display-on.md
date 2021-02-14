@@ -13,7 +13,7 @@ title: Obfuscate an Email Address for Display on a Web Page and Prevent Robots f
   Spamming You
 ---
 
-There are lots of times I want to put an email address on a web page, but I always fear the spam bots that harvest email addresses and clog your inbox with tons of shit about drugs and mortgages.  A lot of times you'll see people do things like write jenn<span>y</span> <span> </span>[[[ <span> a<span>t</span> </span>]]] hack<span>addict</span> ((( dott ))) <span>ne</span>t
+There are lots of times I want to put an email address on a web page, but I always fear the spam bots that harvest email addresses and clog your inbox with tons of shit about drugs and mortgages.  A lot of times you'll see people do things like write jenn y     [[[   a t   ]]] hack addict  ((( dott )))  ne t
 
 
 

@@ -12,7 +12,7 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-02-15-image-0000.jpg'
 title: 'DIY: Metal Business Cards'
 ---
 
-I recently visited <a href="http://www.adafruit.com/laser/">Adafruit Lasers</a> in New York (if you're in the area and need a piece of electronic equipment engraved definitely check them out) where  I was fortunate enough to meet <span>Phillip Torrone </span>of the <a href="http://www.makezine.com/">Make Blog</a><a href="http://www.makezine.com/">: Makezine</a> and get a hold of one his metal business cards. I was very impressed by the card and immediately knew that I needed some of my own.
+I recently visited <a href="http://www.adafruit.com/laser/">Adafruit Lasers</a> in New York (if you're in the area and need a piece of electronic equipment engraved definitely check them out) where  I was fortunate enough to meet  Phillip Torrone  of the <a href="http://www.makezine.com/">Make Blog</a><a href="http://www.makezine.com/">: Makezine</a> and get a hold of one his metal business cards. I was very impressed by the card and immediately knew that I needed some of my own.
 
 <img alt="" border="0" id="BLOGGER_PHOTO_ID_5031807396530530610" src="{{ site.url }}/assets/images/posts/2007-02-15-image-0000.jpg" style="margin: 0pt 0pt 10px 10px; float: right;  width: 199px; height: 150px;"/>
 

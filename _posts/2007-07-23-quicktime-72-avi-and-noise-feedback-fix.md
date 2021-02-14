@@ -16,7 +16,7 @@ Ever since I got my LCD TV and surround sound I have been watching a lot of avi 
 
 
 
-After a quick Google search I found this <a href="http://www.macfixit.com/article.php?story=2007071909061033">article</a> that explains my exact problem.  They reccomend downloading downloading <a href="http://perian.cachefly.net/Perian_1.0.dmg">Perian</a>, <span class="articleText">"a free, open source QuickTime component that adds native support for many popular video formats. This will bypass QuickTime's built-in AVI playing routines, and allow them to be played with the alternative components."</span>
+After a quick Google search I found this <a href="http://www.macfixit.com/article.php?story=2007071909061033">article</a> that explains my exact problem.  They reccomend downloading downloading <a href="http://perian.cachefly.net/Perian_1.0.dmg">Perian</a>,  "a free, open source QuickTime component that adds native support for many popular video formats. This will bypass QuickTime's built-in AVI playing routines, and allow them to be played with the alternative components." 
 
 
 

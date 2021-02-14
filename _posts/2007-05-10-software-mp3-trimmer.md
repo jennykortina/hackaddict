@@ -22,17 +22,17 @@ From their website:
 
 
 
-"<span class="bluebold"><span class="bluebold">As easy as 1-2-3!</span></span><span class="blackbold">
+"  As easy as 1-2-3!   
 
- </span><span class="blackbold"><span class="blackbold">1:</span></span><span class="black"> Drop your MP3 on MP3 Trimmer </span><span class="blackbold"><span class="blackbold">2:</span></span><span class="black"> Choose trimpoints  </span><span class="blackbold"><span class="blackbold">3:</span></span><span class="black"> Save as a new file!
+    1:    Drop your MP3 on MP3 Trimmer    2:    Choose trimpoints     3:    Save as a new file!
 
-      The new file will have exactly the same audio quality as the original!</span><span class="black">
+      The new file will have exactly the same audio quality as the original!  
 
- </span>
+  
 
- <span class="bluebold"><span class="bluebold">But wait... there's MUCH MORE!</span></span><span class="black">
+   But wait... there's MUCH MORE!   
 
-      You can even add smooth </span><span class="blackbold">fade-ins</span><span class="black">/</span><span class="blackbold"><span class="blackbold">outs</span></span><span class="black"> to your new file, or change the over all <b>gain</b>. </span><span class="black">Y</span><span class="blue"><span class="black"><span class="black">ou can </span></span></span><span class="blackbold"><span class="blackbold">join songs</span></span><span class="blue"><span class="black"><span class="black"> together, </span></span></span><span class="blackbold"><span class="blackbold">divide</span></span><span class="blue"><span class="black"><span class="black"> them, </span></span></span><span class="blackbold"><span class="blackbold">repair</span></span><span class="blue"><span class="black"><span class="black"> broken MP3s or simply </span></span></span><span class="blackbold"><span class="blackbold">analyze</span></span><span class="blue"><span class="black"><span class="black"> them frame by frame. MP3 Trimmer also features powerful </span></span><span class="blackbold"><span class="blackbold">batch processing </span></span><span class="black"><span class="black">to automate editing/repair on large amounts of files."
+      You can even add smooth   fade-ins  /   outs    to your new file, or change the over all <b>gain</b>.   Y    ou can      join songs      together,      divide      them,      repair      broken MP3s or simply      analyze      them frame by frame. MP3 Trimmer also features powerful     batch processing     to automate editing/repair on large amounts of files."
 
 
 
@@ -42,4 +42,4 @@ Although you have to pay for the software, it's well worth the $10.95 because it
 
 <a href="http://www.deepniner.net/mp3trimmer/">Download MP3 Trimmer here.</a>
 
-</span></span> </span>
+    

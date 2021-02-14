@@ -21,12 +21,12 @@ I recently started using a service called <a href="http://venmo.com/">Venmo</a> 
 
 
 
-<span class="Apple-style-span" style="color:#006600;">Paying others - Splitting a lunch bill:</span>
+ Paying others - Splitting a lunch bill: 
 
 <ul><li>When I'm out to lunch w/friends, one person pays the bill and the rest of us text that person.  </li><li>"Pay Jenny $21.37 for lunch."</li><li>Jenny receives $21.37 for the bill from all of her friends.  It's great b/c it eliminates the friend who says "I'll hit you later" and then never hits you later.   It also eliminates the need for everyone to have cash</li></ul>
-<span class="Apple-style-span" style="color:#006600;">Paying others - Cashing in/out of poker night:</span>
+ Paying others - Cashing in/out of poker night: 
 <ul><li>When we do poker night, one person is the "pot" and we all send them buy in money.</li><li> "Pay Brad $20 for poker buy in."  At the end of the night cashing out is super simple, no dealing w/breaking of bills or coins. "Pay Jenny $11.41 for poker winnings."</li><li>In this case Brad is the pot.  At the beginning of the night we all send him money, then at the end of the night he sends out the winnings.</li></ul>
-<span class="Apple-style-span" style="color:#FF0000;">Charging others - picking up laundry</span>
+ Charging others - picking up laundry 
 <ul><li>When I pick up my brother's laundry I charge him for it.  The money is taken directly out of his account b/c he "trusts" me.  </li><li>"Charge Andrew $13.75 for laundry."</li><li>$13.75 comes into my account </li></ul>
 These are just a few use cases of how to use text message payments to make your life easier.  If you would like to try Venmo, which is in beta, to text message payments please <a href="mailto:%20jennykortina@gmail.com">email me</a> and I'm friends with the guys who made it, so I can shoot you an invite.
 

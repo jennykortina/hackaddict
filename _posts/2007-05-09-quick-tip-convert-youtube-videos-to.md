@@ -33,6 +33,6 @@ After <a href="http://www.zamzar.com/tools/">installing the plugin,</a> conversi
 
 <ul><li>Step 1 has already been completed for you. </li><li>For step two, "Choose the format to convert to," select "mp3" from the drop down menu.<img alt="" border="0" id="BLOGGER_PHOTO_ID_5062413548792172978" src="{{ site.url }}/assets/images/posts/2007-05-09-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/></li><li>Enter your email address into Step 3</li><li>Click convert for Step 4 and you're done!  Zamzar will convert the desired file for you and email it to the address you specified in step 3.
 
-</li></ul>I tried this technique with the <span style="font-size:100%;"><a href="http://youtube.com/watch?v=pSIbfzK2spg&amp;related=">Imogen Heap - Just For Now (live at Studio 11 103.1FM)</a> video and it worked perfectly.  I hope this helps you guys.
+</li></ul>I tried this technique with the  <a href="http://youtube.com/watch?v=pSIbfzK2spg&amp;related=">Imogen Heap - Just For Now (live at Studio 11 103.1FM)</a> video and it worked perfectly.  I hope this helps you guys.
 
-</span>
+ 

@@ -37,4 +37,4 @@ After you are all cued up with your movie and ready to start recording simply hi
 
 Snapz is definately worth the money and can be used for much more than simply recording dvd clips and screencasts.
 
-<span style="font-family:Geneva, Verdana, Arial;font-size:78%;color:#000000;"><span style="font-size:100%;"><span style="font-family:courier new;"></span></span></span>
+      

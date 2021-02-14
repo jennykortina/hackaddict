@@ -24,7 +24,7 @@ I managed to get my favorite extensions ( <a href="http://www.getfirebug.com/" t
 
 
 
-<blockquote>What you can do is open the configuration (<span style="font-weight:bold;">about:config</span>) in your Firefox browser, right click the list and create a boolean <span style="font-weight:bold;">extensions.checkCompatibility</span> option there. Set its value to false and restart the browser.</blockquote>
+<blockquote>What you can do is open the configuration ( about:config ) in your Firefox browser, right click the list and create a boolean  extensions.checkCompatibility  option there. Set its value to false and restart the browser.</blockquote>
 
 
 
