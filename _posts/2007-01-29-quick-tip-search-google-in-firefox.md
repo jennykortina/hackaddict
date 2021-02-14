@@ -12,4 +12,12 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-01-29-image-0000.jpg'
 title: 'Quick Tip: Search Google in Firefox Address Bar'
 ---
 
-A quick and dirty way to search Google without going to the homepage is to simply type your search into the Firefox address bar.  For example if I wanted to search hackaddict.net I would type the following in the Firefox address bar:<br/><br/>google hackaddict.net<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5025527920457965298" src="{{ site.url }}/assets/images/posts/2007-01-29-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>
+A quick and dirty way to search Google without going to the homepage is to simply type your search into the Firefox address bar.  For example if I wanted to search hackaddict.net I would type the following in the Firefox address bar:
+
+
+
+google hackaddict.net
+
+
+
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5025527920457965298" src="{{ site.url }}/assets/images/posts/2007-01-29-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>

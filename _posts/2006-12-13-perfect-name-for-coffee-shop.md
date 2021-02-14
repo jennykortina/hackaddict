@@ -11,4 +11,20 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2006-12-13-image-0000.jpg'
 title: Perfect Name for a Coffee Shop
 ---
 
-So I come to a coffee shop this evening to get some studying done and meet some guy to get a copy of Tiger.  I walk in, put my stuff down, and go order a coffee.  I get back to my chair and set everything up, pull out my marketing book and start reading.  About five minutes into reading a waitress walks up to a different table and gives them a cup of wine and a glass of beer.  That's right, beer...delicious beer.<br/><br/>After I'm able to speak again I pull the waitress aside and ask her if they do indeed serve beer.  She confirms my suspicions and asks if I want one.  I take one look at my marketing book and tell her sure, why not.  So I end up ordering two rolling rocks for six bucks.    I'm halfway through the first one, my productivity has dropped to zero, and I have determined I have found the best coffee shop ever.  It's like being in Amsterdam in the middle of ATL.<br/><br/>Anyways, the "coffee" shop is named Nirvana.  They couldn't have chosen a more perfect name.<br/><br/>Lesson for the day ~ ALWAYS read the menu:<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5008150238246013106" src="{{ site.url }}/assets/images/posts/2006-12-13-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center;  width: 464px; height: 284px;"/>
+So I come to a coffee shop this evening to get some studying done and meet some guy to get a copy of Tiger.  I walk in, put my stuff down, and go order a coffee.  I get back to my chair and set everything up, pull out my marketing book and start reading.  About five minutes into reading a waitress walks up to a different table and gives them a cup of wine and a glass of beer.  That's right, beer...delicious beer.
+
+
+
+After I'm able to speak again I pull the waitress aside and ask her if they do indeed serve beer.  She confirms my suspicions and asks if I want one.  I take one look at my marketing book and tell her sure, why not.  So I end up ordering two rolling rocks for six bucks.    I'm halfway through the first one, my productivity has dropped to zero, and I have determined I have found the best coffee shop ever.  It's like being in Amsterdam in the middle of ATL.
+
+
+
+Anyways, the "coffee" shop is named Nirvana.  They couldn't have chosen a more perfect name.
+
+
+
+Lesson for the day ~ ALWAYS read the menu:
+
+
+
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5008150238246013106" src="{{ site.url }}/assets/images/posts/2006-12-13-image-0000.jpg" style="margin: 0px auto 10px; display: block; text-align: center;  width: 464px; height: 284px;"/>

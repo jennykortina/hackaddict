@@ -11,4 +11,18 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-10-21-image-0000.png'
 title: Get your zombie guns, cause we're back from the dead!
 ---
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5259791305829712738" src="{{ site.url }}/assets/images/posts/2008-10-21-image-0000.png" style="margin: 0px auto 10px; display: block; text-align: center; "/><br/>Just thought I would throw a quick post up to let everyone know where I've been and what I've been up to:<br/><br/>A few months ago I applied for a gig at The Apple Blog to write how to's, and sure enough I got it.  So for the past couple of months I've been lurking at The Apple Blog, posting my typcial hackaddict articles, bu over there.  You can check out my Apple Blog posts here:<br/><br/>http://theappleblog.com/author/jenny/<br/><br/>So if it's so great at The Apple Blog, why I am back?  Good question...although The Apple Blog is fantastic, it is unfortunately only about Apple.  This being said, all of non-apple related posts have no where to go and are getting lonely.  So folks, hackaddict is officially revived (and we are right on time for Halloween...spooky).
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5259791305829712738" src="{{ site.url }}/assets/images/posts/2008-10-21-image-0000.png" style="margin: 0px auto 10px; display: block; text-align: center; "/>
+
+Just thought I would throw a quick post up to let everyone know where I've been and what I've been up to:
+
+
+
+A few months ago I applied for a gig at The Apple Blog to write how to's, and sure enough I got it.  So for the past couple of months I've been lurking at The Apple Blog, posting my typcial hackaddict articles, bu over there.  You can check out my Apple Blog posts here:
+
+
+
+http://theappleblog.com/author/jenny/
+
+
+
+So if it's so great at The Apple Blog, why I am back?  Good question...although The Apple Blog is fantastic, it is unfortunately only about Apple.  This being said, all of non-apple related posts have no where to go and are getting lonely.  So folks, hackaddict is officially revived (and we are right on time for Halloween...spooky).

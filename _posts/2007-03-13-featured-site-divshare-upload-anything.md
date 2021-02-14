@@ -12,4 +12,28 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2007-03-13-image-0000.png'
 title: 'Featured Site: DivShare - Upload Anything'
 ---
 
-While making <a href="http://hackaddict.blogspot.com/2007/03/new-site-section-tag-my-current.html">my new site section, wallpapers,</a> I was contemplating using my webspace to host the wallpaper files but then decided against it for security reasons<img alt="" border="0" id="BLOGGER_PHOTO_ID_5041387753253536450" src="{{ site.url }}/assets/images/posts/2007-03-13-image-0000.png" style="margin: 0pt 0pt 10px 10px; float: right; "/>.  In comes DivShare.<br/><br/><a href="http://www.divshare.com/">DivShare</a> is a <strong>free file hosting service</strong> for everyone. No registration required!<br/><ul class="checks"><li>Upload  <strong>unlimited</strong> files</li><li>Serve  <strong>unlimited</strong> downloads</li><li>Files <strong>stay online forever!</strong></li><li>No pop-up ads or spam</li><li>Incredibly fast, reliable servers</li></ul>I signed up for an account last night and so far it looks pretty awesome.  They have a neat file organization system and it's super simple to use.  So far it's a great file sharing solution.<br/><br/>Below is a quick screenshot I took of the interface once you are logged in (dashboard view):<br/><br/><img alt="" border="0" id="BLOGGER_PHOTO_ID_5041391073263256274" src="{{ site.url }}/assets/images/posts/2007-03-13-image-0001.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>
+While making <a href="/2007/03/new-site-section-tag-my-current.html">my new site section, wallpapers,</a> I was contemplating using my webspace to host the wallpaper files but then decided against it for security reasons<img alt="" border="0" id="BLOGGER_PHOTO_ID_5041387753253536450" src="{{ site.url }}/assets/images/posts/2007-03-13-image-0000.png" style="margin: 0pt 0pt 10px 10px; float: right; "/>.  In comes DivShare.
+
+
+
+<a href="http://www.divshare.com/">DivShare</a> is a <strong>free file hosting service</strong> for everyone. No registration required!
+
+<ul class="checks"> 
+<li>Upload  <strong>unlimited</strong> files </li>
+ 
+<li>Serve  <strong>unlimited</strong> downloads </li>
+ 
+<li>Files <strong>stay online forever!</strong> </li>
+ 
+<li>No pop-up ads or spam </li>
+ 
+<li>Incredibly fast, reliable servers </li>
+</ul>I signed up for an account last night and so far it looks pretty awesome.  They have a neat file organization system and it's super simple to use.  So far it's a great file sharing solution.
+
+
+
+Below is a quick screenshot I took of the interface once you are logged in (dashboard view):
+
+
+
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5041391073263256274" src="{{ site.url }}/assets/images/posts/2007-03-13-image-0001.jpg" style="margin: 0px auto 10px; display: block; text-align: center; "/>

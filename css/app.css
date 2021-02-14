@@ -1,12 +1,14 @@
 body {
-  font-family: 'Computer Modern Serif', 'Georgia', monospace;
+  color: #555;
+  background: #f1f1f1;
+  font-family: 'Raleway', 'Helvetica Neue', sans-serif;
   text-align: center;
   font-size: 130%;
   line-height: 1.35;
-  color: #111;
 }
 
-header,
+.header-wrapper,
+article,
 section,
 footer,
 article > * {
@@ -15,12 +17,60 @@ article > * {
   margin: 0 auto;
   display: block;
 }
+article {
+  background: white;
+  border-radius: 4px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+  margin-top: 40px;
+  padding: 35px;
+}
+.post-date {
+  border-bottom: 1px solid #eee;
+  color: #999;
+  display: flex;
+  font-size: 0.95rem;
+  padding-bottom: 1rem;
+  text-transform: uppercase;
+}
+.home-page .post-title {
+  color: #2d3642;
+  font-weight: 400;
+}
+.home-page .post-title:hover {
+  color: #ff6600;
+  text-decoration: none;
+}
+.home-page .post-preview {
+  display: -webkit-box;
+  margin: 25px 0;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.read-more {
+  font-size: 1.1rem;
+  text-align: right;
+}
+.footer-wrapper {
+  display: flex;
+  padding: 20px 0 10px 0;
+}
 
-header,
 footer,
 article > time {
   font-size: smaller;
   color: #444;
+}
+
+header {
+  background: #ff6600;
+  color: white;
+}
+header a {
+  color: white !important;
+}
+.header-wrapper {
+  padding: 50px 0;
 }
 
 h1,
@@ -66,6 +116,11 @@ ol,
 /* article blockquote, */
 article > * {
   margin-bottom: 1rem;
+}
+
+ol {
+  list-style-type: decimal !important;
+  list-style-position: inside !important;
 }
 
 blockquote {
@@ -177,7 +232,7 @@ hr {
 a,
 a:visited,
 a:active {
-  color: #0067fb;
+  color: #ff6600;
   text-decoration: none;
 }
 
@@ -188,6 +243,10 @@ a:hover {
 .light-grey,
 a.light-grey {
   color: #ccc;
+}
+
+.backslash-spacer {
+  padding: 0 0.25rem;
 }
 
 /****************** exceptions *****************/
