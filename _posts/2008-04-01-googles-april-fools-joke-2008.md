@@ -11,4 +11,6 @@ thumbnail: '{{ site.url }}/assets/images/thumbnails/2008-04-01-image-0000.png'
 title: Google's April Fool's Joke 2008
 ---
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5184283656345361826" src="{{ site.url }}/assets/images/posts/2008-04-01-image-0000.png" style="margin: 0px auto 10px; display: block; text-align: center;  width: 459px; height: 181px;"/><br/><div style="text-align: center;"><b>Wake yourself up with our new Google Wake Up Kit!</b><br/></div><br/><a href="http://www.google.com/googlecalendar/new_wakeup.html">Click for the original article.<br/></a>
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5184283656345361826" src="{{ site.url }}/assets/images/posts/2008-04-01-image-0000.png" style="margin: 0px auto 10px; display: block; text-align: center;  width: 459px; height: 181px;"/><br/>
+<b>Wake yourself up with our new Google Wake Up Kit!</b><br/>
+<br/><a href="http://www.google.com/googlecalendar/new_wakeup.html">Click for the original article.<br/></a>

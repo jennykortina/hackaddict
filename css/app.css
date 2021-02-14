@@ -51,6 +51,10 @@ article {
   font-size: 1.1rem;
   text-align: right;
 }
+.footer-wrapper {
+  display: flex;
+  padding: 20px 0 10px 0;
+}
 
 footer,
 article > time {

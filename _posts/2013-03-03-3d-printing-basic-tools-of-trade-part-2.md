@@ -10,9 +10,7 @@ tags: null
 title: 3d Printing Basic Tools of the Trade Part 2
 ---
 
-<div>
-  As a follow up to <a href="/2013/02/3d-printing-basic-tools-of-trade.html">3d Printing Basic Tools of the Trade</a>:
-</div>
+As a follow up to <a href="/2013/02/3d-printing-basic-tools-of-trade.html">3d Printing Basic Tools of the Trade</a>:
 
 <ul>
   <li><b><a href="http://cloud.netfabb.com/">Netfab STL Repairer</a></b> - this amazing free little web utility repairs your STLs making sure all the surfaces are connected and the model is solid.  I run all my models through it pre-print. </li>
