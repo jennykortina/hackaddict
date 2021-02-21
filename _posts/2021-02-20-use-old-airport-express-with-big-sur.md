@@ -19,6 +19,7 @@ I google around a bit, and a lot of people were saying to download Airport Utili
 3. Drag the Airport Utility 5.6.1 app in to the Terminal window after the  `xattr -d com.apple.quarantine` command and space – this inserts the app location and name in at the end of the line.
 4. Hit return.
 5. Terminal will run the command, you won’t see any response.
-6. Run the script again and Airport Utility v 5.6.1 should launch!
+6. Connect your Airport Express to your computer via ethernet (I am not sure if this step is necessary but I did it).
+7. Run the script again by double clicking it in finder and Airport Utility v 5.6.1 should launch!
 
 <img src="{{ site.url }}/assets/images/posts/2021-02-21-image-0001.png" />
