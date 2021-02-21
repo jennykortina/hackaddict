@@ -4,15 +4,15 @@ layout: post
 title: Use Old Airport Express with Big Sur
 ---
 
-I am moving soon and want to hook up all my rooms to speakers through airport express stations, so I can easily stream music anywhere in my house from apple devices.  Coupled with [Airfoil](https://rogueamoeba.com/airfoil/mac/), it's a pretty elegant setup.
+I am moving soon and want to hook up all my rooms to speakers through Airport Express stations so I can easily stream music anywhere in my house from apple devices.  Coupled with [Airfoil](https://rogueamoeba.com/airfoil/mac/), it's a pretty elegant setup.
 
-I prefer the v1 version of the airport express because of it's small form factor.  You can also pick them up very cheap on eBay, I got 3 for $30 shipped.  
+I prefer the v1 version of the Airport Express because of it's small form factor.  You can also pick them up very cheap on eBay, I got 3 for $30 shipped.  
 
 <img src="{{ site.url }}/assets/images/posts/2021-02-21-image-0000.jpeg" />
 
-After receiving the Airport Expresses I quickly figured out why I got the airport expresses so cheap.  When trying to connect to an older airport express wirelessly in Big Sur I was getting the following error: `This version of AirPort Utility doesn't support this base station.`  
+After receiving the Airport Expresses I quickly figured out why I got them so cheap.  When trying to connect to them via wifi in Big Sur I was getting the following error: `This version of AirPort Utility doesn't support this base station.`  
 
-I google around a bit, and a lot of people were saying to download Airport Utility v 5.6.1 and use a custom launcher script from [here](https://bristleconeit.com/freeware/launcher-for-airport-utility-v5-6-1/).  After downloading the script I still couldn't get it to launch, then I realized the Airport Utility app was being blocked by the system security.  To get around this: 
+I google around a bit, and a lot of people were saying to download Airport Utility v 5.6.1 and use a custom launcher script from [here](https://bristleconeit.com/freeware/launcher-for-airport-utility-v5-6-1/).  After downloading the script I still couldn't get it to launch, but then I realized the Airport Utility app was being blocked by the system security.  To get around this: 
 
 1. Open terminal
 2. Paste `xattr -d com.apple.quarantine` into terminal and put a space after it.
