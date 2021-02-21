@@ -13,4 +13,10 @@ title: 'Quick Tip: Send Notes to Your Cingular Mobile Phone by Sending Email as 
   Text Message or MMS'
 ---
 
-<p>Recently, I posted about <a href="/2007/04/quick-tip-easily-post-notes-to-your.html">how to send notes from your phone to your gmail via text message</a>.  Sometimes, it's useful to be able to go in the other direction and send notes from your email to your mobile phone.  I'll often do this with bits of an email--addresses, phone numbers, tracking numbers--that I know I'll need later.</p><p>If you're on Cingular, you can send a message to your phone by emailing the following addreses:</p><p><b>text: 10_digit_number@cingularme.com</b></p><p><b>mms: 10_digit_number@mms.mycingular.com</b></p>
+Recently, I posted about <a href="/2007/04/quick-tip-easily-post-notes-to-your.html">how to send notes from your phone to your gmail via text message</a>.  Sometimes, it's useful to be able to go in the other direction and send notes from your email to your mobile phone.  I'll often do this with bits of an email--addresses, phone numbers, tracking numbers--that I know I'll need later.
+
+
+If you're on Cingular, you can send a message to your phone by emailing the following addreses:
+
+text: `10_digit_number@cingularme.com`
+mms: `10_digit_number@mms.mycingular.com`

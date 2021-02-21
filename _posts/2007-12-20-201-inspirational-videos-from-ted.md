@@ -11,7 +11,7 @@ tags:
 title: 201 Inspirational Videos (from TED)
 ---
 
-I was doing my usual thing at lunch today (watching a <a href="http://ted.com">TED</a> talk as I ate) and noticed the url said <b>http://www.ted.com/talks/view/id/201</b> .  I have been watching a lot of these videos lately, and I decided I might as well watch them in order.  I wrote a quick ruby / <a href="http://rubyforge.org/projects/mechanize/">Mechanize</a> script (<a href="#code_source">source below</a>) to loop through videos 1-201 and fetch the titles for each.  Some of the titles did not have the speaker/topic, but most did. Here they are:
+I was doing my usual thing at lunch today (watching a <a href="http://ted.com">TED</a> talk as I ate) and noticed the url said `http://www.ted.com/talks/view/id/201`.  I have been watching a lot of these videos lately, and I decided I might as well watch them in order.  I wrote a quick ruby / <a href="http://rubyforge.org/projects/mechanize/">Mechanize</a> script (<a href="#code_source">source below</a>) to loop through videos 1-201 and fetch the titles for each.  Some of the titles did not have the speaker/topic, but most did. Here they are:
 
 
 

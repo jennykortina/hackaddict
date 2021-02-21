@@ -84,7 +84,7 @@ article {
 .home-page .post-preview {
   /* display: -webkit-box; */
   margin: 25px 0;
-  /* overflow: hidden; */
+  overflow: hidden;
   /* -webkit-line-clamp: 3; */
   /* -webkit-box-orient: vertical; */
 }
