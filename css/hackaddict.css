@@ -145,4 +145,7 @@ article {
   article {
     max-width: 90%;
   }
+  .header-logo {
+    display: none;
+  }
 }
