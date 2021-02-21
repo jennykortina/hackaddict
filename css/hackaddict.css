@@ -82,11 +82,11 @@ article {
 }
 
 .home-page .post-preview {
-  display: -webkit-box;
+  /* display: -webkit-box; */
   margin: 25px 0;
-  overflow: hidden;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
+  /* overflow: hidden; */
+  /* -webkit-line-clamp: 3; */
+  /* -webkit-box-orient: vertical; */
 }
 
 .read-more {
