@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Blog
+title: home
 ---
 
 <!-- This loops through the paginated posts -->
@@ -16,7 +16,7 @@ title: My Blog
             <span>{{post.author}}</span>
         </div>
         <div class="post-preview">{{post.excerpt}}</div>
-        <a class="read-more" href="{{site.url}}{{ post.url }}">Read More...</a>
+        <a class="read-more" href="{{site.url}}{{ post.url }}">Read more...</a>
     </div>
 </article>
 {% endfor %}
