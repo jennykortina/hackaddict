@@ -4,6 +4,7 @@ title: hackaddict.net
 tagline: it's not a vice, it's a vibe
 email: jenny@hackaddict.net
 url: 'https://hackaddict.net' # the base hostname & protocol for your site, e.g. http://example.com
+paginate: 10
 
 google_analytics_account: 'UA-1073311-2'
 
@@ -13,6 +14,7 @@ permalink: /posts/:title
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-paginate
 
 exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
 future: true
