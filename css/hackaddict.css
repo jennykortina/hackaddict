@@ -138,12 +138,6 @@ article {
   padding: 0 0.25rem;
 }
 
-/* google adsense */
-.adsbygoogle {
-  margin-top: 12px;
-  margin-bottom: 12px;
-}
-
 /* small screens - mobile */
 @media only screen and (max-width: 600px) {
   .header-wrapper,
