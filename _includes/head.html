@@ -8,7 +8,7 @@
     {{page.title | strip_newlines | strip_html | escape}} -- {{ site.title | strip_newlines |
     strip_html | escape }}
   </title>
-  <meta name="description" content="{{site.tagline}}" />
+  <meta name="description" content="{{page.excerpt | strip_newlines | strip_html | escape}}" />
   <link rel="icon" type="image/png" href="/favicon.png" />
 
   <!-- Google+ -->
